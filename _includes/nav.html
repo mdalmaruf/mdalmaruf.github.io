@@ -17,7 +17,7 @@
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/research">Research Publications</a>
+                    <a class="link" href="{{ site.url }}/research">Research </a>
                 </li>
             {% endif %}
         {% endif %}
@@ -46,10 +46,10 @@
             {% endif %}
         {% endif %}
 
-        {% if site.resume == true %}
+        <!-- {% if site.resume == true %}
             <li class="item">
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
             </li>
-        {% endif %}
+        {% endif %} -->
     </ul>
 </nav>
