@@ -18,9 +18,8 @@ author_profile: true
  -->
  
  ---
-layout: archive
+layout: pages
 title: "Publications"
-author_profile: true
 ---
 
 
