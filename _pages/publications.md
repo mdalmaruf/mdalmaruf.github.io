@@ -1,13 +1,13 @@
 ---
-layout: archive
 permalink: /
 title: "Publications"
+excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
 ---
- 
+
 
 ### [Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices](#)
 **Md Al Maruf, Akramul Azim**   
