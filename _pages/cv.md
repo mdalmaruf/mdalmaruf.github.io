@@ -9,7 +9,89 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+---
+layout: page
+title: "Curriculum Vitae"
+permalink: /cv/
+---
+
+## Education
+
+**Ph.D. Student [2019 - Present]**\
+Electrical and Computer Engineering, Ontario Tech University, Canada\
+Supervisor: Dr. Akramul Azim\
+Research Area: Embedded Software, Fog Computing, Machine Learning
+
+**MASc., Electrical and Computer Engineering [2017 - 2019]**\
+Ontario Tech University, Canada\
+Research Area: Parallel Computing and Embedded Systems
+
+**B.Sc., Computer Science and Engineering [2009 - 2013]**\
+Islamic University of Technology (IUT), Bangladesh\
+Research Area: Cloud Computing
+
+## Employment
+
+**Ontario Tech University, Teaching & Research Assistant [2017 – Present]**\
+Member of RTEMSOFT Research Lab\
+Course TA: Database, Embedded Systems, Software Quality, Software Design & Arch.
+
+**Mobile Innovations Corporations, Development Intern [2021 – 2021]**\
+Web Application Development (Microsoft Azure and ASP.NET (C#))
+
+**Daffodil International University, Lecturer [2015 – 2017]**\
+Courses: Data Structure, Programming C & Java, Simulation and modeling
+
+**Nascenia IT, Junior Software Engineer [2014 – 2015]**\
+Web Application Development (Ruby on Rails)
+
+## Research & Development Projects
+
+**MITACS Research Project**\
+A Machine Learning-based Test Case Prioritization for Embedded Applications. The prioritized test cases will help to find the highly essential test cases that can potentially improve the quality of the embedded software.
+
+**QA Consultants Research Project**\
+This project focuses on the software testing and quality assurance solutions in the Automotive Industry. The hardware components are tested incorporating Controller Area Network (CAN bus).
+
+## Development Skills
+
+**Programming Languages:** C/C++, Python, Java, JavaScript, Ruby on Rails, PHP, Laravel, SQL\
+**Tools & Libraries:** OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Sci-kit Learn, Keras\
+**Platforms:** Linux/Ubuntu, Raspberry PI 3, Microsoft Azure, AWS, Kubernetes
+
+## Publications
+
+See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
+
+## Academic Courses
+
+**Completed Courses:**\
+Advance Topic in High Performance Computing (Machine Learning), Real-Time Data Analytics IoT, Embedded Real-Time Control Systems, Advance Optimization, Intelligent Control Systems
+
+## Awards & Scholarships
+
+Awarded Ontario Graduate Scholarship (OGS), Ontario Tech University, 2022\
+Received MITACS Research Training (RTA) Award, Ontario Tech University, 2020\
+Awarded Graduate International Tuition Scholarship (GITS), Ontario Tech University, 2019\
+Awarded the Queen Elizabeth II Diamond Jubilee Scholarship (QES) 2017\
+Received Dean Graduate Scholarship at Ontario Tech University 2017\
+Received OIC Scholarship for Undergraduate Study at IUT in 2009
+
+## Extra-Curricular Activities
+
+Presented poster titled ”A monitoring framework for a secure OTA software update in automobiles”, ACE Building, Ontario Tech University, 2019\
+Contributed as a Volunteer at SGIoT 2018 Conference, Niagara Falls, Canada\
+Organizing Committee Member of “AB Bank IUT ICT Fest 2013” in IUT
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)\
+[GitHub](https://github.com/YOUR_USERNAME)\
+[Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
+
+
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +139,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
