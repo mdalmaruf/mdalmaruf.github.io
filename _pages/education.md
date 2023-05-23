@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Education"
-permalink: /talks
+permalink: /education
 author_profile: true
 redirect_from: 
-  - /talks/
+  - /education/
 ---
 
 ## <span style="color:#52adc8">Ontario Tech University</span>
