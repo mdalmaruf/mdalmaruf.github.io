@@ -7,7 +7,7 @@ redirect_from:
   - /talks/
 ---
 
-## <span style="color:blue">Ontario Tech University</span>
+## <span style="color:#52adc8">Ontario Tech University</span>
 
 ### <span style="color:green">Doctor of Philosophy - PhD, Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:blue">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Machine Learning.
@@ -26,17 +26,17 @@ redirect_from:
     - Advanced Topics in Software Design
     - Special Topics: Safety Critical Software System
 
-## <span style="color:blue">Islamic University of Technology</span>
+## <span style="color:#52adc8">Islamic University of Technology</span>
 
 ### <span style="color:green">Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
 - <span style="color:blue">Activities and societies:</span> Member of IUTCS
 - <span style="color:blue">Research Area:</span> Cloud Computing
 
-## <span style="color:blue">New Govt. Degree College, Rajshahi</span>
+## <span style="color:#52adc8">New Govt. Degree College, Rajshahi</span>
 
 ### <span style="color:green">Higher Secondary Certificate (HSC) (2009)</span>
 
-## <span style="color:blue">Horimohon Govt. High School</span>
+## <span style="color:#52adc8">Horimohon Govt. High School</span>
 
 ### <span style="color:green">Secondary School Certificate (SSC) (2007)</span>
 
