@@ -32,6 +32,15 @@ redirect_from:
 - <span style="color:blue">Activities and societies:</span> Member of IUTCS
 - <span style="color:blue">Research Area:</span> Cloud Computing
 
+## <span style="color:blue">New Govt. Degree College, Rajshahi</span>
+
+### <span style="color:green">Higher Secondary Certificate (HSC) (2009)</span>
+
+## <span style="color:blue">Horimohon Govt. High School</span>
+
+### <span style="color:green">Secondary School Certificate (SSC) (2007)</span>
+
+
 <!-- ## Ontario Tech University
 
 ### Doctor of Philosophy - PhD, Electrical and Computer Engineering (2019 - 2023)
