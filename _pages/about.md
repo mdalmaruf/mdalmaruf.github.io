@@ -1,13 +1,15 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "“And what is the life of this world except the enjoyment of delusion.”-Quran 3:185"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About Me
+======
 Hello! I'm Md Al Maruf, a PhD candidate in the Electrical and Computer Engineering program at Ontario Tech University. My research areas are diverse and forward-thinking, encompassing Embedded Systems Software, Machine Learning, Parallel Computing, Safety-Crtical Systems, Cyber-Physical Systems, Cloud/Fog Computing and Over-the-Air (OTA) Software Update.
 Research Interests and Projects
 
