@@ -7,7 +7,7 @@ redirect_from:
   - /experience/
 ---
 
-<!-- ## <span style="color:blue">Ontario Tech University</span> (Oshawa, Canada)
+## <span style="color:blue">Ontario Tech University</span> (Oshawa, Canada)
 
 ### <span style="color:green">Graduate Research Assistant (Sep 2017 - Present)</span>
 - <span style="color:blue">Research Topics:</span> 
@@ -22,24 +22,8 @@ redirect_from:
 - <span style="color:blue">Course TA:</span>
     - Database Management Systems (SQL, Query Optimization)
     - Software Design and Architecture (Software Development)
-    - Embedded Software Systems -->
-
-<h2 style="color:#4285F4;">Ontario Tech University</h2> (Oshawa, Canada)
-
-<h3 style="color:#34A853;">Graduate Research Assistant (Sep 2017 - Present)</h3>
-<p style="color:#4285F4;">Research Topics:</p> 
-    - Parallel Programming and Computation
-    - Real-time Embedded Systems and Software Validation
-    - Machine Learning for Obstacle Detection and Image Processing
-    - Cloud and Fog Computing for Safety-Critical Systems 
-    - Software Engineering in Product Line and Web Application Development
-    - Kubernetes and Load Balancing
-
-<h3 style="color:#34A853;">Graduate Teaching Assistant (Sep 2017 - Present)</h3>
-<p style="color:#4285F4;">Course TA:</p>
-    - Database Management Systems (SQL, Query Optimization)
-    - Software Design and Architecture (Software Development)
     - Embedded Software Systems
+
 
 
 ## <span style="color:blue">Mobile Innovations Corporation</span> (Internship, Ottawa, Ontario, Canada)
@@ -48,7 +32,7 @@ redirect_from:
 - <span style="color:blue">Framework:</span> ASP.NET
 - <span style="color:blue">Database:</span> Microsoft Azure SQL
 
-## <span style="color:blue">Daffodil International University</span> (Dhanmondi, Dhaka)
+## <span style="color:blue">Daffodil International University</span> (Dhaka, Bangladesh)
 ### <span style="color:green">Lecturer (May 2015 - Aug 2017)</span>
 - <span style="color:blue">Course Teacher:</span>
     - Database Management System (SQL)
@@ -57,12 +41,12 @@ redirect_from:
     - Simulation and Modeling
     - Computer Graphics
 
-## <span style="color:blue">Nascenia IT</span>
+## <span style="color:blue">Nascenia IT</span> (Dhaka, Bangladesh)
 ### <span style="color:green">Junior Software Engineer (Mar 2014 - May 2015)</span>
 - <span style="color:blue">Worked as a Ruby on Rails Developer in Different Projects:</span>
     - A Web Based Flight Schedule Provider and Online Booking System
     - Simple Signup: Software as a Service (SaaS) that offers event organizers to organize their event. 
     - Viigii: Virtual Gifting Delivery
 
-## <span style="color:blue">Banglalink Digital Communications Limited</span>
+## <span style="color:blue">Banglalink Digital Communications Limited</span>  (Dhaka, Bangladesh)
 ### <span style="color:green">Junior Engineer (Jan 2014 - Feb 2014)</span>
