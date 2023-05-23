@@ -7,7 +7,7 @@ redirect_from:
   - /experience/
 ---
 
-## <span style="color:blue">Ontario Tech University</span> (Oshawa, Canada)
+<!-- ## <span style="color:blue">Ontario Tech University</span> (Oshawa, Canada)
 
 ### <span style="color:green">Graduate Research Assistant (Sep 2017 - Present)</span>
 - <span style="color:blue">Research Topics:</span> 
@@ -22,7 +22,25 @@ redirect_from:
 - <span style="color:blue">Course TA:</span>
     - Database Management Systems (SQL, Query Optimization)
     - Software Design and Architecture (Software Development)
+    - Embedded Software Systems -->
+
+<h2 style="color:#4285F4;">Ontario Tech University</h2> (Oshawa, Canada)
+
+<h3 style="color:#34A853;">Graduate Research Assistant (Sep 2017 - Present)</h3>
+<p style="color:#4285F4;">Research Topics:</p> 
+    - Parallel Programming and Computation
+    - Real-time Embedded Systems and Software Validation
+    - Machine Learning for Obstacle Detection and Image Processing
+    - Cloud and Fog Computing for Safety-Critical Systems 
+    - Software Engineering in Product Line and Web Application Development
+    - Kubernetes and Load Balancing
+
+<h3 style="color:#34A853;">Graduate Teaching Assistant (Sep 2017 - Present)</h3>
+<p style="color:#4285F4;">Course TA:</p>
+    - Database Management Systems (SQL, Query Optimization)
+    - Software Design and Architecture (Software Development)
     - Embedded Software Systems
+
 
 ## <span style="color:blue">Mobile Innovations Corporation</span> (Internship, Ottawa, Ontario, Canada)
 ### <span style="color:green">Research And Development Intern (May 2021 - Aug 2021)</span>
