@@ -9,7 +9,7 @@ redirect_from:
 
 ## <span style="color:#52adc8">Ontario Tech University</span>
 
-### <span style="color:black">Doctor of Philosophy - PhD, Electrical and Computer Engineering (2019 - 2023)</span>
+### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:blue">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Machine Learning.
 - <span style="color:blue">Completed Courses:</span>
     - Embedded Control System
