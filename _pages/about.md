@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Maruf"
 excerpt: "“And what is the life of this world except the enjoyment of delusion.”-Quran 3:185"
 author_profile: true
 redirect_from: 
