@@ -25,13 +25,13 @@ With a strong background in both software development and data science, I've hon
 
 
 Contributions to the Fields
-------
+======
 Beyond my academic pursuits, I strive to contribute to the larger tech community. I've made significant contributions to open source projects on GitHub and actively participate in tech forums and discussions. I'm also passionate about sharing my knowledge and experience with others, which led me to mentor up-and-coming students in the field of software development and data science. 
 
 Looking Forward
-------
+======
 As I move toward the completion of my PhD, I am excited about the opportunity to apply my skills and knowledge in a professional capacity. I'm interested in roles that will allow me to blend my software development and data science skills, especially those that can benefit from my expertise in embedded systems and machine learning.
 
 Let's Connect
-------
+======
 I love connecting with other professionals in the field, so feel free to reach out if you'd like to discuss my research, potential collaborations, or job opportunities. You can also follow me on LinkedIn and Twitter for updates on my latest projects and research. Thank you for taking the time to learn about me and my work. I look forward to the possibility of working together in the future.
