@@ -58,7 +58,7 @@ permalink: /cv/
   Designed and implemented for the management systems of Greenwood Mushroom farm. The web application handles different sales orders and real-time data monitoring.
   
 * **Flight Schedule Provider and Online Booking System**\
-  A flight Schedule Provider which consumes API of different GDS flight provider API. It provides booking and searching opportunities for rental cars and hotels also and consumes various car and hotel information provider API.
+  A flight Schedule Provider which consumes API of different GDS flight provider API. It provides booking and searching opportunities for rental cars and hotels also and consumes various car and hotel information provider API.\
   Language: Ruby on Rails, Database: PostgreSQL, API: SOAP, REST
   
 
