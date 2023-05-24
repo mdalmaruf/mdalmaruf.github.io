@@ -90,10 +90,11 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 
 ## Extra-Curricular Activities
 
+* Volunteer at ICCCPS 2023 Conference, San Antoniyo, Texas, USA, 2023
 * Presented poster titled ”A monitoring framework for a secure OTA software update in automobiles”, ACE Building, Ontario Tech University, 2019
 * Contributed as a Volunteer at SGIoT 2018 Conference, Niagara Falls, Canada
 * Organizing Committee Member of “AB Bank IUT ICT Fest 2013” in IUT
-* Volunteer at ICCCPS 2023 Conference, San Antoniyo, Texas, USA
+
 
 ## Contact
 Email: md.maruf@ontariotechu.net\
