@@ -53,6 +53,15 @@ permalink: /cv/
 
 * **QA Consultants Research Project**\
   This project focuses on the software testing and quality assurance solutions in the Automotive Industry. The hardware components are tested incorporating Controller Area Network (CAN bus).
+  
+* **Greenwood Mushroom Farm Web Application**\
+  Designed and implemented for the management systems of Greenwood Mushroom farm. The web application handles different sales orders and real-time data monitoring.
+  
+* **Flight Schedule Provider and Online Booking System**\
+  A flight Schedule Provider which consumes API of different GDS flight provider API. It provides booking and searching opportunities for rental cars and hotels also and consumes various car and hotel information provider API.
+  Language: Ruby on Rails, Database: PostgreSQL, API: SOAP, REST
+  
+
 
 ## Development Skills
 
@@ -74,6 +83,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 * Awarded Ontario Graduate Scholarship (OGS), Ontario Tech University, 2022
 * Received MITACS Research Training (RTA) Award, Ontario Tech University, 2020
 * Awarded Graduate International Tuition Scholarship (GITS), Ontario Tech University, 2019
+* Awarded FEAS Graduate Scholarship for Excellence Performance in Academic Year 2018-2019
 * Awarded the Queen Elizabeth II Diamond Jubilee Scholarship (QES) 2017
 * Received Dean Graduate Scholarship at Ontario Tech University 2017
 * Received OIC Scholarship for Undergraduate Study at IUT in 2009
