@@ -48,16 +48,16 @@ permalink: /cv/
 
 ## Research & Development Projects
 
-* **MITACS Research Project**\
+* **MITACS Research Project**
   <p style="text-align:justify">A Machine Learning-based Test Case Prioritization for Embedded Applications. The prioritized test cases will help to find the highly essential test cases that can potentially improve the quality of the embedded software.</p>
 
-* **QA Consultants Research Project**\
+* **QA Consultants Research Project**
   <p style="text-align:justify">This project focuses on the software testing and quality assurance solutions in the Automotive Industry. The hardware components are tested incorporating Controller Area Network (CAN bus).</p>
   
-* **Greenwood Mushroom Farm Web Application**\
+* **Greenwood Mushroom Farm Web Application**
   <p style="text-align:justify">Designed and implemented for the management systems of Greenwood Mushroom farm. The web application handles different sales orders and real-time data monitoring.</p>
   
-* **Flight Schedule Provider and Online Booking System**\
+* **Flight Schedule Provider and Online Booking System**
   <p style="text-align:justify">A flight Schedule Provider which consumes API of different GDS flight provider API. It provides booking and searching opportunities for rental cars and hotels also and consumes various car and hotel information provider API.</p>\
   Language: Ruby on Rails, Database: PostgreSQL, API: SOAP, REST
   
