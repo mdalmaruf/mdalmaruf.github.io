@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Maruf"
 title_separator          : "-"
 name                     : &name "Md Al Maruf"
 description              : &description "personal description"
