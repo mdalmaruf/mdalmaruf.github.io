@@ -64,13 +64,56 @@ permalink: /cv/
   <p style="text-align:justify">A flight Schedule Provider which consumes API of different GDS flight provider API. It provides booking and searching opportunities for rental cars and hotels also and consumes various car and hotel information provider API.</p>
   * Language: Ruby on Rails, Database: PostgreSQL, API: SOAP, REST
   
-
-
 ## Development Skills
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+        <h3>Programming Languages:</h3>
+        <ul>
+            <li>C/C++</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>Ruby on Rails</li>
+            <li>PHP, Laravel</li>
+            <li>SQL</li>
+        </ul>
+    </div>
+    <div style="flex: 1;">
+        <h3>Tools & Libraries:</h3>
+        <ul>
+            <li>OpenMP</li>
+            <li>Visual Studio</li>
+            <li>Code Blocks</li>
+            <li>Eclipse/NetBeans</li>
+            <li>PhpStorm</li>
+            <li>Ruby Mine</li>
+            <li>Sci-kit Learn</li>
+            <li>TensorFlow</li>
+            <li>PyTorch</li>
+            <li>MXNet</li>
+            <li>Keras</li>
+            <li>STM32CubeIDE</li>
+        </ul>
+    </div>
+    <div style="flex: 1;">
+        <h3>Platforms:</h3>
+        <ul>
+            <li>Linux/Ubuntu/FreeRTOS</li>
+            <li>Raspberry PI 3</li>
+            <li>STM32 NUCLEO-F401RE</li>
+            <li>Microsoft Azure</li>
+            <li>AWS</li>
+            <li>Kubernetes</li>
+        </ul>
+    </div>
+</div>
+
+<!-- ## Development Skills
 
 * **Programming Languages:** C/C++, Python, Java, JavaScript, Ruby on Rails, PHP, Laravel, SQL
 * **Tools & Libraries:** OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Sci-kit Learn, TensorFlow, PyTorch, MXNet, Keras, STM32CubeIDE
-* **Platforms:** Linux/Ubuntu/FreeRTOS, Raspberry PI 3, STM32 NUCLEO-F401RE, Microsoft Azure, AWS, Kubernetes
+* **Platforms:** Linux/Ubuntu/FreeRTOS, Raspberry PI 3, STM32 NUCLEO-F401RE, Microsoft Azure, AWS, Kubernetes -->
 
 ## Publications
 
