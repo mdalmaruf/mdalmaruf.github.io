@@ -83,10 +83,10 @@ permalink: /cv/
         <h3>Tools & Libraries:</h3>
         <ul>
             <li>OpenMP</li>
-            <li>Visual Studio/ Code Blocks</li>
+            <li>Visual Studio, Code Blocks</li>
 <!--             <li>Code Blocks</li> -->
-            <li>Eclipse/NetBeans</li>
-            <li>Ruby Mine/PhpStorm</li>
+            <li>Eclipse/NetBeans/Eclipse</li>
+            <li>Ruby Mine, PhpStorm</li>
 <!--             <li>Ruby Mine</li> -->
             <li>Sci-kit Learn</li>
             <li>TensorFlow, PyTorch, MXNet</li>
