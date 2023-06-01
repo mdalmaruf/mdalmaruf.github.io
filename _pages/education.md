@@ -7,7 +7,8 @@ redirect_from:
   - /education/
 ---
 
-## <span style="color:#52adc8">Ontario Tech University</span>
+<!-- ## <span style="color:#52adc8">Ontario Tech University</span> -->
+## <span style="color:orangered">Ontario Tech University</span>
 
 ### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:blue">Thesis Title:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems.
