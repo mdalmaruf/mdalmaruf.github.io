@@ -39,6 +39,9 @@ permalink: /cv/
 
 * **Mobile Innovations Corporations, Development Intern [2021 – 2021]**\
   Web Application Development (Microsoft Azure and ASP.NET (C#))
+ 
+* **QA Consultants, Research Intern [2020 – 2020]**\
+  Controller Area Network (CAN bus) Analysis (C/C++/Python, Python QT5, Sqlite3)
 
 * **Daffodil International University, Lecturer [2015 – 2017]**\
   Courses: Data Structure, Programming C & Java, Simulation and modeling
