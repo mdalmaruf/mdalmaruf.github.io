@@ -32,6 +32,12 @@ redirect_from:
 - <span style="color:blue">Framework:</span> ASP.NET
 - <span style="color:blue">Database:</span> Microsoft Azure SQL
 
+## <span style="color:blue">QA Consultants</span> ( North York, Canada)
+### <span style="color:green">Research And Development Intern (July 2020 - Dec 2020)</span>
+- <span style="color:blue">Language:</span> C/C++/Python
+- <span style="color:blue">Framework:</span> Python QT5
+- <span style="color:blue">Database:</span> Sqlite3
+
 ## <span style="color:blue">Daffodil International University</span> (Dhaka, Bangladesh)
 ### <span style="color:green">Lecturer (May 2015 - Aug 2017)</span>
 - <span style="color:blue">Course Teacher:</span>
