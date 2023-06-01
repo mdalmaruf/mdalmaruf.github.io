@@ -85,7 +85,7 @@ permalink: /cv/
             <li>OpenMP</li>
             <li>Visual Studio, Code Blocks</li>
 <!--             <li>Code Blocks</li> -->
-            <li>Eclipse/NetBeans/Eclipse</li>
+            <li>Eclipse/NetBeans/IntelliJ</li>
             <li>Ruby Mine, PhpStorm</li>
 <!--             <li>Ruby Mine</li> -->
             <li>Sci-kit Learn</li>
