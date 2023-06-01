@@ -69,8 +69,8 @@ permalink: /cv/
 ## Development Skills
 
 * **Programming Languages:** C/C++, Python, Java, JavaScript, Ruby on Rails, PHP, Laravel, SQL
-* **Tools & Libraries:** OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Sci-kit Learn, Keras
-* **Platforms:** Linux/Ubuntu/FreeRTOS, Raspberry PI 3, Microsoft Azure, AWS, Kubernetes
+* **Tools & Libraries:** OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Sci-kit Learn, TensorFlow, PyTorch, MXNet, Keras, STM32CubeIDE
+* **Platforms:** Linux/Ubuntu/FreeRTOS, Raspberry PI 3, STM32 NUCLEO-F401RE, Microsoft Azure, AWS, Kubernetes
 
 ## Publications
 
