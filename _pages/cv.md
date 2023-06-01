@@ -41,7 +41,7 @@ permalink: /cv/
   Web Application Development (Microsoft Azure and ASP.NET (C#))
  
 * **QA Consultants, Research Intern [2020 – 2020]**\
-  Controller Area Network (CAN bus) Analysis (C/C++/Python, Python QT5, Sqlite3)
+  Controller Area Network (CAN bus) Analysis (OMNET++, Python QT5, Sqlite3)
 
 * **Daffodil International University, Lecturer [2015 – 2017]**\
   Courses: Data Structure, Programming C & Java, Simulation and modeling
