@@ -22,7 +22,9 @@ redirect_from:
 - <span style="color:black">Course TA:</span>
     - Database Management Systems (SQL, Query Optimization)
     - Software Design and Architecture (Software Development)
-    - Embedded Software Systems
+    - Embedded Software Systems (Scheduing, Hardware Architecture, QEMU Emulator)
+    - Software Quality (JUnit, FindBugs, Gerrit, Jenkins, Automated Testing using Selenium)
+    - Inroduction to Programming (OOP)
 
 
 
