@@ -70,7 +70,7 @@ permalink: /cv/
 
 * **Programming Languages:** C/C++, Python, Java, JavaScript, Ruby on Rails, PHP, Laravel, SQL
 * **Tools & Libraries:** OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Sci-kit Learn, Keras
-* **Platforms:** Linux/Ubuntu, Raspberry PI 3, Microsoft Azure, AWS, Kubernetes
+* **Platforms:** Linux/Ubuntu/FreeRTOS, Raspberry PI 3, Microsoft Azure, AWS, Kubernetes
 
 ## Publications
 
