@@ -40,7 +40,7 @@ redirect_from:
 
 ### <span style="color:black">Higher Secondary Certificate (HSC) (2009)</span>
 
-## <span style="color:orangered">Horimohon Govt. High School</span>
+## <span style="color:orangered">Horimohon Govt. High School, Chapai Nawabganj</span>
 
 ### <span style="color:black">Secondary School Certificate (SSC) (2007)</span>
 
