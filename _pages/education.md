@@ -10,7 +10,7 @@ redirect_from:
 ## <span style="color:#52adc8">Ontario Tech University</span>
 
 ### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
-- <span style="color:blue">Research Title:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems
+- <span style="color:blue">Research Topic:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems.
 - <span style="color:blue">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Machine Learning.
 - <span style="color:blue">Completed Courses:</span>
     - Embedded Control System
@@ -19,7 +19,8 @@ redirect_from:
     - Network Computing
 
 ### <span style="color:black">Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
-- <span style="color:blue">MASc Thesis Topics:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
+- <span style="color:blue">Research Topic:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
+- <span style="color:blue">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
 - <span style="color:blue">Courses Completed:</span>
     - Advanced Topics in High-Performance Computing (Machine Learning)
     - Knowledge Discovery & Data Mining
