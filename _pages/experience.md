@@ -55,4 +55,4 @@ redirect_from:
     - Viigii: Virtual Gifting Delivery
 
 ## <span style="color:orangered">Banglalink Digital Communications Limited</span>  (Dhaka, Bangladesh)
-### <span style="color:DarkBlue">Junior Engineer (Jan 2014 - Feb 2014)</span>
+### <span style="color:DarkBlue">OMC BSS Junior Engineer (Jan 2014 - Feb 2014)</span>
