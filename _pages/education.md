@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- ## <span style="color:#52adc8">Ontario Tech University</span> -->
-## <span style="color:orangered">Ontario Tech University</span>
+## <span style="color:orangered">Ontario Tech University, Canada</span>
 
 ### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:black">Thesis Title:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems.
@@ -29,7 +29,7 @@ redirect_from:
     - Advanced Topics in Software Design
     - Special Topics: Safety Critical Software System
 
-## <span style="color:orangered">Islamic University of Technology</span>
+## <span style="color:orangered">Islamic University of Technology, Bangladesh</span>
 
 ### <span style="color:black">Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
 - <span style="color:black">Thesis Title:</span> Mobile Cloud Computing: Mobile Application Cloud (MAC) - A framework for on demand Application offloading.
