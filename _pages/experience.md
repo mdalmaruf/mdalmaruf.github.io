@@ -35,7 +35,7 @@ redirect_from:
 ## <span style="color:blue">QA Consultants</span> ( North York, Canada)
 ### <span style="color:green">Research And Development Intern (July 2020 - Dec 2020)</span>
 - <span style="color:blue">Language:</span> C/C++/Python
-- <span style="color:blue">Framework:</span> Python QT5
+- <span style="color:blue">Framework:</span> OMNET++, Python QT5
 - <span style="color:blue">Database:</span> Sqlite3
 
 ## <span style="color:blue">Daffodil International University</span> (Dhaka, Bangladesh)
