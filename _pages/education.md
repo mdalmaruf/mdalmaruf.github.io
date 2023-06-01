@@ -11,36 +11,36 @@ redirect_from:
 ## <span style="color:orangered">Ontario Tech University</span>
 
 ### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
-- <span style="color:blue">Thesis Title:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems.
-- <span style="color:blue">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Edge/Fog Computing, Machine Learning.
-- <span style="color:blue">Completed Courses:</span>
+- <span style="color:black">Thesis Title:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems.
+- <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Edge/Fog Computing, Machine Learning.
+- <span style="color:black">Completed Courses:</span>
     - Embedded Control System
     - Real-time Data Analytics in IoT
     - Advance Optimization
     - Network Computing
 
 ### <span style="color:black">Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
-- <span style="color:blue">Thesis Title:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
-- <span style="color:blue">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
-- <span style="color:blue">Courses Completed:</span>
+- <span style="color:black">Thesis Title:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
+- <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
+- <span style="color:black">Courses Completed:</span>
     - Advanced Topics in High-Performance Computing (Machine Learning)
     - Knowledge Discovery & Data Mining
     - Artificial Intelligence
     - Advanced Topics in Software Design
     - Special Topics: Safety Critical Software System
 
-## <span style="color:#52adc8">Islamic University of Technology</span>
+## <span style="color:orangered">Islamic University of Technology</span>
 
 ### <span style="color:black">Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
-- <span style="color:blue">Thesis Title:</span> Mobile Cloud Computing: Mobile Application Cloud (MAC) - A framework for on demand Application offloading.
-- <span style="color:blue">Activities and societies:</span> Member of IUTCS
+- <span style="color:black">Thesis Title:</span> Mobile Cloud Computing: Mobile Application Cloud (MAC) - A framework for on demand Application offloading.
+- <span style="color:black">Activities and societies:</span> Member of IUTCS
 
 
-## <span style="color:#52adc8">New Govt. Degree College, Rajshahi</span>
+## <span style="color:orangered">New Govt. Degree College, Rajshahi</span>
 
 ### <span style="color:black">Higher Secondary Certificate (HSC) (2009)</span>
 
-## <span style="color:#52adc8">Horimohon Govt. High School</span>
+## <span style="color:orangered">Horimohon Govt. High School</span>
 
 ### <span style="color:black">Secondary School Certificate (SSC) (2007)</span>
 
