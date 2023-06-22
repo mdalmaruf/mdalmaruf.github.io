@@ -89,6 +89,7 @@ This will launch a local web server and you can interact with the chatbot throug
 Congratulations! You have built a Medical Assistant Chatbot using ChatGPT and Python. The chatbot features an intuitive web interface, thanks to Gradio. As a final note, ensure that you keep your API key secure and avoid exposing it in public repositories.
 
 
-References <a name="references"></a>
+## References <a name="references"></a>
 - [ChatGPT API Documentation](https://platform.openai.com/docs/api-reference/completions/create)
 - [Gradio Documentation](https://gradio.app/docs/)
+- [ChatGPT in Python for Beginners - Build A Chatbot](https://www.youtube.com/watch?v=pGOyw_M1mNE&t=216s)
