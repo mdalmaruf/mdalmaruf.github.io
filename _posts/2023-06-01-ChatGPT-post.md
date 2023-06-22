@@ -46,7 +46,7 @@ For interacting with ChatGPT-4, you'll need an API key from OpenAI.
 - Head to OpenAI and create an account.
 - Once logged in, navigate to the API section to generate a new API key.
 - Store the API key securely as it is needed to authenticate the requests to ChatGPT-4.
-- 
+  
 ## Writing the Python Script <a name="writing-the-python-script"></a>
 Create a Python script, named medical_chatbot.py, and write the code below:
 ```sh
@@ -87,3 +87,8 @@ This will launch a local web server and you can interact with the chatbot throug
 
 ## Conclusion <a name="conclusion"></a>
 Congratulations! You have built a Medical Assistant Chatbot using ChatGPT and Python. The chatbot features an intuitive web interface, thanks to Gradio. As a final note, ensure that you keep your API key secure and avoid exposing it in public repositories.
+
+
+References <a name="references"></a>
+- [ChatGPT API Documentation](https://platform.openai.com/docs/api-reference/completions/create)
+- [Gradio Documentation](https://gradio.app/docs/)
