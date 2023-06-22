@@ -40,14 +40,14 @@ pip install openai gradio
 - Gradio allows you to rapidly create web-based user interfaces for Python models. OpenAI library helps in integrating with GPT models provided by OpenAI.
 ```
 
-#### Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
+## Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
 For interacting with ChatGPT-4, you'll need an API key from OpenAI.
 
 - Head to OpenAI and create an account.
 - Once logged in, navigate to the API section to generate a new API key.
 - Store the API key securely as it is needed to authenticate the requests to ChatGPT-4.
 - 
-####Writing the Python Script <a name="writing-the-python-script"></a>
+## Writing the Python Script <a name="writing-the-python-script"></a>
 Create a Python script, named medical_chatbot.py, and write the code below:
 ```sh
 import openai
@@ -75,7 +75,7 @@ iface.launch()
 ```
 This script creates a simple chat interface where you can communicate with the ChatGPT-4 and get responses based on medical queries.
 
-#### Running the Chatbot <a name="running-the-chatbot"></a>
+## Running the Chatbot <a name="running-the-chatbot"></a>
 
 After creating the script, run it using Python:
 
@@ -85,5 +85,5 @@ python medical_chatbot.py
 ```
 This will launch a local web server and you can interact with the chatbot through the browser.
 
-####Conclusion <a name="conclusion"></a>
+## Conclusion <a name="conclusion"></a>
 Congratulations! You have built a Medical Assistant Chatbot using ChatGPT and Python. The chatbot features an intuitive web interface, thanks to Gradio. As a final note, ensure that you keep your API key secure and avoid exposing it in public repositories.
