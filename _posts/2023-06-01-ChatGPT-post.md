@@ -39,11 +39,18 @@ chatbot-env\Scripts\activate
 source chatbot-env/bin/activate
 
 ####Installing Required Libraries
-- We need to install the OpenAI library to access ChatGPT-4 and Gradio for creating the user interface.
+- We need to install the OpenAI library to access ChatGPT and Gradio for creating the user interface.
 
 ```sh
 pip install openai gradio
 
 - Gradio allows you to rapidly create web-based user interfaces for Python models. OpenAI library helps in integrating with GPT models provided by OpenAI.
 
+Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
+For interacting with ChatGPT-4, you'll need an API key from OpenAI.
 
+Head to OpenAI and create an account.
+Once logged in, navigate to the API section to generate a new API key.
+Store the API key securely as it is needed to authenticate the requests to ChatGPT-4.
+Writing the Python Script <a name="writing-the-python-script"></a>
+Create a Python script, named medical_chatbot.py, and write the code below:
