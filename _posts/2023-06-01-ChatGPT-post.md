@@ -45,6 +45,7 @@ source chatbot-env/bin/activate
 pip install openai gradio
 
 - Gradio allows you to rapidly create web-based user interfaces for Python models. OpenAI library helps in integrating with GPT models provided by OpenAI.
+```
 
 Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
 For interacting with ChatGPT-4, you'll need an API key from OpenAI.
