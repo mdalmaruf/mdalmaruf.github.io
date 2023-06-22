@@ -40,11 +40,50 @@ pip install openai gradio
 - Gradio allows you to rapidly create web-based user interfaces for Python models. OpenAI library helps in integrating with GPT models provided by OpenAI.
 ```
 
-Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
+#### Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
 For interacting with ChatGPT-4, you'll need an API key from OpenAI.
 
-Head to OpenAI and create an account.
-Once logged in, navigate to the API section to generate a new API key.
-Store the API key securely as it is needed to authenticate the requests to ChatGPT-4.
-Writing the Python Script <a name="writing-the-python-script"></a>
+- Head to OpenAI and create an account.
+- Once logged in, navigate to the API section to generate a new API key.
+- Store the API key securely as it is needed to authenticate the requests to ChatGPT-4.
+- 
+####Writing the Python Script <a name="writing-the-python-script"></a>
 Create a Python script, named medical_chatbot.py, and write the code below:
+```sh
+import openai
+import gradio as gr
+
+# Function to communicate with ChatGPT-4
+def chat_with_gpt4(prompt):
+    # Replace 'your_api_key_here' with your OpenAI API key
+    openai.api_key = 'your_api_key_here'
+    
+    # Making a request to ChatGPT-4
+    response = openai.Completion.create(engine='gpt-4', prompt=prompt, max_tokens=100)
+    
+    # Returning the response from ChatGPT-4
+    return response.choices[0].text.strip()
+
+# Creating the Gradio Interface
+def chat_interface(prompt):
+    response = chat_with_gpt4(f"Medical Assistant: {prompt}")
+    return f"Medical Assistant: {response}"
+
+iface = gr.Interface(fn=chat_interface, inputs="text", outputs="text")
+iface.launch()
+
+```
+This script creates a simple chat interface where you can communicate with the ChatGPT-4 and get responses based on medical queries.
+
+#### Running the Chatbot <a name="running-the-chatbot"></a>
+
+After creating the script, run it using Python:
+
+```sh
+python medical_chatbot.py
+
+```
+This will launch a local web server and you can interact with the chatbot through the browser.
+
+####Conclusion <a name="conclusion"></a>
+Congratulations! You have built a Medical Assistant Chatbot using ChatGPT and Python. The chatbot features an intuitive web interface, thanks to Gradio. As a final note, ensure that you keep your API key secure and avoid exposing it in public repositories.
