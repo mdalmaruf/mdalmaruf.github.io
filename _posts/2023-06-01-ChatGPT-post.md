@@ -34,18 +34,18 @@ You should also create a GitHub repository to store and manage the project's cod
 
 It’s a good practice to create a virtual environment for your Python project. This helps to manage dependencies efficiently.
 
-#### Creating a Virtual Environment
+### Creating a Virtual Environment
 
 ```sh
 python -m venv chatbot-env
 ```
-#### Activate the virtual environment:
+### Activate the virtual environment:
 
 - On Windows: ```sh chatbot-env\Scripts\activate ```
 
 - On macOS and Linux: ```sh source chatbot-env/bin/activate ```
 
-#### Installing Required Libraries
+### Installing Required Libraries
 - We need to install the OpenAI library to access ChatGPT and Gradio for creating the user interface.
 
 ```sh pip install openai gradio ```
