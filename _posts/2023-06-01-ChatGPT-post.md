@@ -39,19 +39,19 @@ It’s a good practice to create a virtual environment for your Python project. 
 ```sh
 python -m venv chatbot-env
 ```
-####Activate the virtual environment:
+#### Activate the virtual environment:
 
 - On Windows: ```sh chatbot-env\Scripts\activate ```
 
 - On macOS and Linux: ```sh source chatbot-env/bin/activate ```
 
-####Installing Required Libraries
+#### Installing Required Libraries
 - We need to install the OpenAI library to access ChatGPT and Gradio for creating the user interface.
 
 ```sh pip install openai gradio ```
 
 - Gradio allows you to rapidly create web-based user interfaces for Python models. OpenAI library helps in integrating with GPT models provided by OpenAI.
-```
+
 
 ## Acquiring OpenAI API Key <a name="acquiring-openai-api-key"></a>
 For interacting with ChatGPT-4, you'll need an API key from OpenAI.
