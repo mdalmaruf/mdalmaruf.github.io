@@ -11,7 +11,7 @@ tags:
   - OpenAI
 ---
 
-# Building a Medical Assistant Chatbot using ChatGPT and Python
+
 
 In this tutorial, we will walk you through the process of building a Medical Assistant Chatbot utilizing ChatGPT and Python. To enhance the interaction experience, we will employ Gradio for creating an intuitive user interface.
 
