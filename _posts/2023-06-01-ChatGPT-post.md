@@ -1,3 +1,16 @@
+---
+title: 'Building a Medical Assistant Chatbot using ChatGPT-4 and Python'
+date: 2023-06-22
+permalink: /posts/2023/06/ChatGPT-post/
+tags:
+  - ChatGPT-4
+  - Python
+  - Chatbot
+  - Medical Assistant
+  - Gradio
+  - OpenAI
+---
+
 # Building a Medical Assistant Chatbot using ChatGPT and Python
 
 In this tutorial, we will walk you through the process of building a Medical Assistant Chatbot utilizing ChatGPT and Python. To enhance the interaction experience, we will employ Gradio for creating an intuitive user interface.
