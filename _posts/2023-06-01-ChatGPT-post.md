@@ -38,7 +38,7 @@ It’s a good practice to create a virtual environment for your Python project. 
 
 ```sh
 python -m venv chatbot-env
-```
+`
 #### Activate the virtual environment:
 
 - On Windows: ```sh chatbot-env\Scripts\activate ```
