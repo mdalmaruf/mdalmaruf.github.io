@@ -92,11 +92,11 @@ This script creates a simple chat interface where you can communicate with the C
 ## Running the Chatbot <a name="running-the-chatbot"></a>
 
 After creating the script, run it using Python:
-
+<pre>
 ```sh
 python medical_chatbot.py
-
 ```
+</pre>
 This will launch a local web server and you can interact with the chatbot through the browser.
 
 ## Conclusion <a name="conclusion"></a>
