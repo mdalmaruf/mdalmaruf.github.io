@@ -148,7 +148,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 
 
 ## Contact
-Email: md.maruf@ontariotechu.net\
+Email: #\
 [LinkedIn](https://www.linkedin.com/in/almaruf09)\
 [GitHub](https://github.com/mdalmaruf)\
 [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
