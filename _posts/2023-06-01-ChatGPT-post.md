@@ -42,12 +42,12 @@ python -m venv chatbot-env
 ### Activate the virtual environment:
 
 - On Windows:
-  ```sh chatbot-env\Scripts\activate
-  ```
+```sh chatbot-env\Scripts\activate
+```
 
 - On macOS and Linux:
-  ```sh source chatbot-env/bin/activate
-  ```
+```sh source chatbot-env/bin/activate
+```
 
 ### Installing Required Libraries
 - We need to install the OpenAI library to access ChatGPT and Gradio for creating the user interface.
