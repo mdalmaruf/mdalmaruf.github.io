@@ -1,6 +1,6 @@
 # Md Al Maruf
 
-* Personal Github Page: Website[https://mdalmaruf.github.io/]
+* Personal Website[https://mdalmaruf.github.io/]
 * Link: https://mdalmaruf.github.io/
 
 ## Education
