@@ -55,7 +55,7 @@ Pursuing my PhD in Electrical and Computer Engineering at Ontario Tech Universit
 
 During my MASc at Ontario Tech University, I specialized in Computer Engineering focusing on Real-time Embedded Systems, Parallel Programming and Computation, and Machine Learning, with a special emphasis on Verification & Validation. Courses completed during this period include Advanced Topics in High-Performance Computing (Machine Learning), Knowledge Discovery & Data Mining, Artificial Intelligence, Advanced Topics in Software Design, and Special Topics: Safety Critical Software System.
 
-## Islamic University of Technology
+## Islamic University of Technology (IUT)
 
 ### Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)
 
