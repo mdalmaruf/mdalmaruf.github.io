@@ -27,7 +27,17 @@ A curated list of resources including Machine Learning projects, YouTube tutoria
 
 ## Academic Course Materials
 - [Machine Learning Course by xudong.liu University of North Florida](https://www.unf.edu/~xudong.liu/classes/2022Spring/CAP6610/index.html)
-- [Title of Academic Course 2](#link-to-academic-course-2)
+- [10 FREE #GenerativeAI Courses from Google]
+  - [1. Introduction to Generative AI](https://lnkd.in/d3PAjb3w)
+  - [2. Introduction to Large Language Models](https://lnkd.in/duktFieB)
+  - [3. Introduction to Responsible AI](https://lnkd.in/dSnSf4Vv)
+  - [4. Generative AI Fundamentals](https://lnkd.in/dkzSbVvz)
+  - [5. Introduction to Image Generation](https://lnkd.in/d-mqb-yf)
+  - [6. Encoder-Decoder Architecture](https://lnkd.in/dbt-DG5H)
+  - [7. Attention Mechanism](https://lnkd.in/dKY9HN8i)
+  - [8. Transformer Models and BERT Model](https://lnkd.in/dQAdTaax)
+  - [9. Create Image Captioning Models](https://lnkd.in/dMDmExvv)
+  - [10. Introduction to Generative AI Studio](https://lnkd.in/dvTyr827)
 - [Title of Academic Course 3](#link-to-academic-course-3)
 
 
