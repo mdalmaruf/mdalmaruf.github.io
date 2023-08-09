@@ -8,7 +8,7 @@ redirect_from:
 <meta name="google-site-verification" content="5ElNfrTQKf40uwoq6ShseFu28oKZ7Rb5YuxIgEJrIEo" />
 <p style="font-size:18px; color:#123456;">“And what is the life of this world except the enjoyment of delusion.” - Quran 3:185</p>
 
-<!-- ##### “The worldly life is nothing but an illusionary enjoyment”-Quran 3:185 -->
+<!-- ##### “The worldly life is nothing but an illusionary enjoyment.”-Quran 3:185 -->
 
 About Me
 ------
