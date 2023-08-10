@@ -22,7 +22,7 @@ A curated list of resources including Machine Learning projects, YouTube tutoria
 ## YouTube Tutorials
 - [Microsoft DeepSpeed introduction at KAUST](https://youtu.be/wbG2ZEDPIyw)
 - [Llama-2 with LocalGPT: Chat with YOUR Documents](https://youtu.be/lbFmceo4D5E?list=PLVEEucA9MYhNwjY_5JfZS3JzKnLXJvb5r)
-- [Title of YouTube Tutorial 3](#link-to-youtube-tutorial-3)
+- [Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset](https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning)
 
 
 ## Academic Course Materials
