@@ -12,6 +12,8 @@ tags:
 # Resources Collection
 
 A curated list of resources including Machine Learning projects, YouTube tutorials, academic course materials, GitHub repositories, and research papers.
+## Tutorials Link
+- [Ultimate CAN Bus Guide 2023: A Detailed Look at the Protocol](https://www.autopi.io/blog/can-bus-explained/)
 
 ## Machine Learning Projects
 - [Title of ML Project 1](#link-to-ml-project-1)
