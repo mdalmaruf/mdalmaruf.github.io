@@ -36,8 +36,7 @@ Jul 20, 2021
 
 ### [A Framework for Partitioning Support Vector Machine Models on Edge Architectures](#)
 **Mansi Sahi, Md Al Maruf, Akramul Azim, Nitin Auluck**   
-4th International Workshop on EdgeDL: Deep Learning on Edge for Smart Health and Wellbeing Applications   
-Jul 1, 2021
+In 2021 IEEE International Conference on Smart Computing (SMARTCOMP), pp. 293-298. IEEE, 2021
 
 ### [Mushroom Demand Prediction Using Machine Learning Algorithms](#)
 **Md Al Maruf, Akramul Azim and Sourojit Mukherjee**   
