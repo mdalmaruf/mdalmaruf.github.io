@@ -18,16 +18,18 @@ permalink: /cv/
 
 ## Education
 
-* **Ph.D. Student [2019 - Present]**\
-  Electrical and Computer Engineering, Ontario Tech University, Canada\
+- **Ph.D. Student [2019 - Present]**\
+  **Electrical and Computer Engineering**\
+  Ontario Tech University, Canada\
   Supervisor: Dr. Akramul Azim\
+  Dissertation: Design and Development of Next Generation Software for Fog-enabled Embedded Systems\
   Research Area: Embedded Software, Fog Computing, Machine Learning
 
-* **MASc., Electrical and Computer Engineering [2017 - 2019]**\
+- **MASc., Electrical and Computer Engineering [2017 - 2019]**\
   Ontario Tech University, Canada\
   Research Area: Parallel Computing and Embedded Systems
 
-* **B.Sc., Computer Science and Engineering [2009 - 2013]**\
+- **B.Sc., Computer Science and Engineering [2009 - 2013]**\
   Islamic University of Technology (IUT), Bangladesh\
   Research Area: Cloud Computing
 
