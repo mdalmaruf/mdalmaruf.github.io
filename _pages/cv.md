@@ -109,55 +109,7 @@ permalink: /cv/
   - Used a Kaggle dataset comprising 1,584 images for training and validation.
   - Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
 
-## Development Skills
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <h3>Programming Languages:</h3>
-        <ul>
-            <li>C/C++</li>
-            <li>Python</li>
-            <li>Java</li>
-            <li>JavaScript</li>
-            <li>Ruby on Rails</li>
-            <li>PHP, Laravel</li>
-            <li>SQL</li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <h3>Tools & Libraries:</h3>
-        <ul>
-            <li>OpenMP</li>
-            <li>Visual Studio, Code Blocks</li>
-<!--             <li>Code Blocks</li> -->
-            <li>Eclipse/NetBeans/IntelliJ</li>
-            <li>Ruby Mine, PhpStorm</li>
-<!--             <li>Ruby Mine</li> -->
-            <li>Sci-kit Learn</li>
-            <li>TensorFlow, PyTorch, MXNet</li>
-<!--             <li>PyTorch</li>
-            <li>MXNet</li>
-            <li>Keras</li> -->
-            <li>STM32CubeIDE</li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <h3>Platforms:</h3>
-        <ul>
-            <li>Linux/Ubuntu/FreeRTOS</li>
-            <li>Raspberry PI 3</li>
-            <li>STM32 NUCLEO-F401RE</li>
-            <li>Microsoft Azure</li>
-            <li>AWS</li>
-            <li>Kubernetes</li>
-        </ul>
-    </div>
-</div>
-
-<!-- ## Development Skills
-
-
-  
+ 
 ## Development Skills
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
@@ -204,11 +156,7 @@ permalink: /cv/
     </div>
 </div>
 
-<!-- ## Development Skills
 
-* **Programming Languages:** C/C++, Python, Java, JavaScript, Ruby on Rails, PHP, Laravel, SQL
-* **Tools & Libraries:** OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Sci-kit Learn, TensorFlow, PyTorch, MXNet, Keras, STM32CubeIDE
-* **Platforms:** Linux/Ubuntu/FreeRTOS, Raspberry PI 3, STM32 NUCLEO-F401RE, Microsoft Azure, AWS, Kubernetes -->
 
 ## Publications
 
@@ -235,7 +183,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 * Received OIC Scholarship for Undergraduate Study at IUT in 2009
 
 ## Extra-Curricular Activities
-* Attended FEAS Research Day at Ontario Tech University and presented lab research, 2023
+* Attended FEAS Research Day at Ontario Tech University and Presented RTEMSOFT Lab Research, 2023
 * Contributed as a Volunteer at ICCPS Conference, Texas, USA, 2023 
 * Presented Conference Paper at International Conference on Cyber-Physical Systems (ICCPS), Texas, 2023
 * Volunteer at CPS IoT Week Conference (ICCPS), San Antonio, Texas, USA, 2023
