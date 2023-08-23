@@ -37,7 +37,7 @@ permalink: /cv/
 
 - **Ontario Tech University, Teaching & Research Assistant [2017 – Present]**
   - Member of RTEMSOFT Research Lab
-  - Engaged in different research areas including Task Scheduling and Embedded Software
+  - Engaged in different research areas including accelerating ML model training, Task Scheduling and Embedded Software Development
   - Contributed to the HIL Test Bench using CARLA simulator
   - Served as a Course TA for Embedded Systems, Software Quality, OOP, Software Design & Arch
   - Designed and Conducted Labs for Database Management Systems (MySQL, NBA API, Flask)
