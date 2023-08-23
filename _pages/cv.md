@@ -126,7 +126,7 @@ permalink: /cv/
             <li>Ruby on Rails</li>
             <li>PHP, Laravel</li>
             <li>SQL</li>
-            <li>MATLAB/Simulink</li>li
+            <li>MATLAB & Simulink</li>
         </ul>
     </div>
     <div style="flex: 1;">
@@ -155,7 +155,7 @@ permalink: /cv/
             <li>Microsoft Azure</li>
             <li>AWS</li>
             <li>Kubernetes</li>
-            <li>Docker (containerization)</li>li
+            <li>Docker (containerization)</li>
         </ul>
     </div>
 </div>
