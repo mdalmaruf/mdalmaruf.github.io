@@ -62,52 +62,52 @@ permalink: /cv/
 ## Research & Development Projects
 
 * **Tool: Feature and Requirement Extraction for Improving Embedded Software Reuse**
-- Extracted features and requirements of embedded systems from GitHub repositories.
-- Utilized NLP techniques: BERT (CodeBERT), TF-IDF, Topic Modeling.
+  - Extracted features and requirements of embedded systems from GitHub repositories.
+  - Utilized NLP techniques: BERT (CodeBERT), TF-IDF, Topic Modeling.
 
 * **Over-the-Air (OTA) Software Update**
-- Integrated Uptane framework within Fog Computing for faster and secure updates.
-- Leveraged Transfer Learning for communication latency analysis.
+  - Integrated Uptane framework within Fog Computing for faster and secure updates.
+  - Leveraged Transfer Learning for communication latency analysis.
 
 * **Risky Aircraft Landing Detection in Real-time**
-- Real-time anomaly detection for safer aircraft landings.
-- Preprocessed ping station (YOW Airport Runway) raw data of aircraft landing events.
-- Developed online ML model training web application using PHP-ML.
-- Implemented using Laravel, PHP, JavaScript, Python and backed by MySQL.
+  - Real-time anomaly detection for safer aircraft landings.
+  - Preprocessed ping station (YOW Airport Runway) raw data of aircraft landing events.
+  - Developed online ML model training web application using PHP-ML.
+  - Implemented using Laravel, PHP, JavaScript, Python and backed by MySQL.
 
 * **Machine Learning Model Parallelism**
-- Boost machine learning computation through model parallelism.
-- Employed algorithms: CNN, AlexNet, SVM, RF.
-- Utilized TensorFlow, CUDA and OpenMP for parallel computation.
-- Tasks Scheduling using EDF and RM.
+  - Boost machine learning computation through model parallelism.
+  - Employed algorithms: CNN, AlexNet, SVM, RF.
+  - Utilized TensorFlow, CUDA and OpenMP for parallel computation.
+  - Tasks Scheduling using EDF and RM.
 
 * **QA Consultants Research Project**
-- Analyzed Automotive Communication Bus (LIN, CAN, FlexRay).
-- Developed an Anomaly Detection framework for Automotive CAN bus networks.
+  - Analyzed Automotive Communication Bus (LIN, CAN, FlexRay).
+  - Developed an Anomaly Detection framework for Automotive CAN bus networks.
 
 * **Greenwood Mushroom Farm Web Application**
-- Developed a dashboard for Greenwood farm Management using Laravel and MySQL.
-- The application handles different sales orders and real-time data monitoring.
-- Predicted future demand based on historical sales data using Neural Networks.
+  - Developed a dashboard for Greenwood farm Management using Laravel and MySQL.
+  - The application handles different sales orders and real-time data monitoring.
+  - Predicted future demand based on historical sales data using Neural Networks.
 
 * **WellTravel: A Flight Schedule Provider and Online Booking System**
-- A flight Schedule Provider which consumes APIs from different GDS flight provider.
-- Integrated GDS flight APIs for flight schedules, rental car bookings, and hotel reservations.
-- Language: Ruby on Rails, HTML CSS, Bootstrap; Database: PostgreSQL; API: SOAP, REST.
+  - A flight Schedule Provider which consumes APIs from different GDS flight provider.
+  - Integrated GDS flight APIs for flight schedules, rental car bookings, and hotel reservations.
+  - Language: Ruby on Rails, HTML CSS, Bootstrap; Database: PostgreSQL; API: SOAP, REST.
 
 * **MITACS Research Project**
-- A Machine Learning-based Test Case Prioritization for Embedded Applications.
-- Continuous Integration/Continuous Delivery (CI/CD) using Jenkins.
+  - A Machine Learning-based Test Case Prioritization for Embedded Applications.
+  - Continuous Integration/Continuous Delivery (CI/CD) using Jenkins.
 
 * **Finding Medical Experts on Twitter**
-- Utilized Twitter's API for data extraction, processing over 10,000 tweets daily.
-- Employed NLP techniques to filter and categorize tweets, achieving a classification accuracy of 92%.
-- Tools and technologies used: Python, Scikit-Learn, Pandas, Tweepy, and Flask.
+  - Utilized Twitter's API for data extraction, processing over 10,000 tweets daily.
+  - Employed NLP techniques to filter and categorize tweets, achieving a classification accuracy of 92%.
+  - Tools and technologies used: Python, Scikit-Learn, Pandas, Tweepy, and Flask.
 
 * **Plant Leaf Classification using Convolutional Neural Network**
-- Classify plant leaf images across 99 species using CNN.
-- Used a Kaggle dataset comprising 1,584 images for training and validation.
-- Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
+  - Classify plant leaf images across 99 species using CNN.
+  - Used a Kaggle dataset comprising 1,584 images for training and validation.
+  - Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
 
 
 
