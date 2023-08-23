@@ -154,8 +154,7 @@ permalink: /cv/
     </div>
 </div>
 
-<!-- ## Development Skills-->
-
+<!-- ## Development Skills
 
 
   
