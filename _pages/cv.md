@@ -61,21 +61,60 @@ permalink: /cv/
 
 ## Research & Development Projects
 
-* **MITACS Research Project**
-  <p style="text-align:justify">A Machine Learning-based Test Case Prioritization for Embedded Applications. The prioritized test cases will help to find the highly essential test cases that can potentially improve the quality of the embedded software.</p>
+* **Tool: Feature and Requirement Extraction for Improving Embedded Software Reuse**
+- Extracted features and requirements of embedded systems from GitHub repositories.
+- Utilized NLP techniques: BERT (CodeBERT), TF-IDF, Topic Modeling.
+
+* **Over-the-Air (OTA) Software Update**
+- Integrated Uptane framework within Fog Computing for faster and secure updates.
+- Leveraged Transfer Learning for communication latency analysis.
+
+* **Risky Aircraft Landing Detection in Real-time**
+- Real-time anomaly detection for safer aircraft landings.
+- Preprocessed ping station (YOW Airport Runway) raw data of aircraft landing events.
+- Developed online ML model training web application using PHP-ML.
+- Implemented using Laravel, PHP, JavaScript, Python and backed by MySQL.
+
+* **Machine Learning Model Parallelism**
+- Boost machine learning computation through model parallelism.
+- Employed algorithms: CNN, AlexNet, SVM, RF.
+- Utilized TensorFlow, CUDA and OpenMP for parallel computation.
+- Tasks Scheduling using EDF and RM.
 
 * **QA Consultants Research Project**
-  <p style="text-align:justify">This project focuses on the software testing and quality assurance solutions in the Automotive Industry. The hardware components are tested incorporating Controller Area Network (CAN bus).</p>
-  
+- Analyzed Automotive Communication Bus (LIN, CAN, FlexRay).
+- Developed an Anomaly Detection framework for Automotive CAN bus networks.
+
 * **Greenwood Mushroom Farm Web Application**
-  <p style="text-align:justify">Designed and implemented for the management systems of Greenwood Mushroom farm. The web application handles different sales orders and real-time data monitoring.</p>
-  
-* **Flight Schedule Provider and Online Booking System**
-  <p style="text-align:justify">A flight Schedule Provider which consumes API of different GDS flight provider API. It provides booking and searching opportunities for rental cars and hotels also and consumes various car and hotel information provider API.</p>
-  * Language: Ruby on Rails, Database: PostgreSQL, API: SOAP, REST
+- Developed a dashboard for Greenwood farm Management using Laravel and MySQL.
+- The application handles different sales orders and real-time data monitoring.
+- Predicted future demand based on historical sales data using Neural Networks.
+
+* **WellTravel: A Flight Schedule Provider and Online Booking System**
+- A flight Schedule Provider which consumes APIs from different GDS flight provider.
+- Integrated GDS flight APIs for flight schedules, rental car bookings, and hotel reservations.
+- Language: Ruby on Rails, HTML CSS, Bootstrap; Database: PostgreSQL; API: SOAP, REST.
+
+* **MITACS Research Project**
+- A Machine Learning-based Test Case Prioritization for Embedded Applications.
+- Continuous Integration/Continuous Delivery (CI/CD) using Jenkins.
+
+* **Finding Medical Experts on Twitter**
+- Utilized Twitter's API for data extraction, processing over 10,000 tweets daily.
+- Employed NLP techniques to filter and categorize tweets, achieving a classification accuracy of 92%.
+- Tools and technologies used: Python, Scikit-Learn, Pandas, Tweepy, and Flask.
+
+* **Plant Leaf Classification using Convolutional Neural Network**
+- Classify plant leaf images across 99 species using CNN.
+- Used a Kaggle dataset comprising 1,584 images for training and validation.
+- Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
+
+
+
+
+
   
 ## Development Skills
-
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
         <h3>Programming Languages:</h3>
@@ -87,6 +126,7 @@ permalink: /cv/
             <li>Ruby on Rails</li>
             <li>PHP, Laravel</li>
             <li>SQL</li>
+            <li>MATLAB/Simulink</li>li
         </ul>
     </div>
     <div style="flex: 1;">
@@ -115,6 +155,7 @@ permalink: /cv/
             <li>Microsoft Azure</li>
             <li>AWS</li>
             <li>Kubernetes</li>
+            <li>Docker (containerization)</li>li
         </ul>
     </div>
 </div>
@@ -150,10 +191,13 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 * Received OIC Scholarship for Undergraduate Study at IUT in 2009
 
 ## Extra-Curricular Activities
-
+* Attended FEAS Research Day at Ontario Tech University and presented lab research, 2023
+* Contributed as a Volunteer at ICCPS Conference, Texas, USA, 2023 
+* Presented Conference Paper at International Conference on Cyber-Physical Systems (ICCPS), Texas, 2023
 * Volunteer at CPS IoT Week Conference (ICCPS), San Antonio, Texas, USA, 2023
 * Presented poster titled ”A monitoring framework for a secure OTA software update in automobiles”, ACE Building, Ontario Tech University, 2019
 * Contributed as a Volunteer at SGIoT 2018 Conference, Niagara Falls, Canada
+* Presented Conference Paper at 44th IEEE Industrial Electronics Society – (IECON), Washington DC, 2018
 * Organizing Committee Member of “AB Bank IUT ICT Fest 2013” in IUT
 
 
