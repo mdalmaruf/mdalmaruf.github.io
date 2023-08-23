@@ -55,8 +55,8 @@ permalink: /cv/
   - Worked in developing a Travel Management Platform named WellTravel using Ruby on Rails
   - Technologies: Ruby on Rails 4.1, PostgreSQL, Sidekiq, Apache Server, Semaphore, SoapUI
   - Worked in project SimpleSignUp an Event Management SaaS (Ruby on Rails, MySQL)
-  - Developed APIs for Blood Donor Management System (PHP, Laravel)
-  - Developed viigii - A Virtual Gifting System for eCommerce Platform (Ruby on Rails)
+  - Worked in creating APIs for Blood Donor Management System (PHP, Laravel)
+  - Worked in developing viigii - A Virtual Gifting System for eCommerce Platform (Ruby on Rails)
 
 ## Research & Development Projects
 
