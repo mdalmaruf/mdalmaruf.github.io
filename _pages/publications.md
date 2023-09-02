@@ -7,12 +7,14 @@ redirect_from:
   - /publications/
 ---
 
-
+### [Towards Safe Online Machine Learning Model Training and Inference on Edge Networks](#)
+**Md Al Maruf, Akramul Azim, Nitin Auluck and Mansi Sahi**   
+Accepted In 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA, 2023
 
 ### [Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices](#)
 **Md Al Maruf, Akramul Azim**   
 The 36th Canadian Conference Artificial Intelligence (Canadian AI), Montreal, Canada, 2023   
-Accepted - Apr 4, 2023
+
 
 ### [Automated Features and Requirements Identification for Improving CPS Software Reuse using Topic Modeling](#)
 **Md Al Maruf, Akramul Azim**   
@@ -31,7 +33,7 @@ May 18, 2022
 
 ### [Faster Fog Computing based Over-the-air Vehicular Updates: A Transfer Learning Approach](#)
 **Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck**   
-IEEE Transactions on Services Computing   
+IEEE Transactions on Services Computing (2022-2023 Journal's Impact Factor is 11.019)  
 Jul 20, 2021
 
 ### [A Framework for Partitioning Support Vector Machine Models on Edge Architectures](#)
