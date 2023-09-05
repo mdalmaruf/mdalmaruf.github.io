@@ -9,12 +9,13 @@ redirect_from:
 
 ### [Towards Safe Online Machine Learning Model Training and Inference on Edge Networks](#)
 **Md Al Maruf, Akramul Azim, Nitin Auluck and Mansi Sahi**   
-Accepted In 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA, 2023
+Accepted In 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA   
+2023
 
 ### [Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices](#)
 **Md Al Maruf, Akramul Azim**   
-The 36th Canadian Conference Artificial Intelligence (Canadian AI), Montreal, Canada, 2023   
-
+The 36th Canadian Conference Artificial Intelligence (Canadian AI), Montreal, Canada,   
+2023
 
 ### [Automated Features and Requirements Identification for Improving CPS Software Reuse using Topic Modeling](#)
 **Md Al Maruf, Akramul Azim**   
@@ -52,7 +53,7 @@ Jan 1, 2020
 
 ### [Faster OTA updates in smart vehicles using fog computing](#)
 **Kaneez Fizza, Nitin Auluck, Akramul Azim, Md Al Maruf, Anil Singh**   
-Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), Auckland, New Zealand 
+Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), Auckland, New Zealand   
 2019
 
 ### [A software-based calibration approach to increase the robustness of embedded systems](#)
