@@ -51,8 +51,9 @@ IEEE International Symposium on Networks, Computers and Communications (ISNCC’
 Jan 1, 2020
 
 ### [Faster OTA updates in smart vehicles using fog computing](#)
-**Kaneez Fizza, Nitin Auluck, Akramul Azim, Md Al Maruf, Anil Singh**
-Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), Auckland, New Zealand, 2019
+**Kaneez Fizza, Nitin Auluck, Akramul Azim, Md Al Maruf, Anil Singh**   
+Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), Auckland, New Zealand 
+2019
 
 ### [A software-based calibration approach to increase the robustness of embedded systems](#)
 **Al Maruf, Md, and Akramul Azim**   
