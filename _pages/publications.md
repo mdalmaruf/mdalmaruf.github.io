@@ -38,7 +38,7 @@ Jul 20, 2021
 
 ### [A Framework for Partitioning Support Vector Machine Models on Edge Architectures](#)
 **Mansi Sahi, Md Al Maruf, Akramul Azim, Nitin Auluck**   
-In 2021 IEEE International Conference on Smart Computing (SMARTCOMP), pp. 293-298. IEEE, 2021
+In 2021 IEEE International Conference on Smart Computing (SMARTCOMP), pp. 293-298. Irvine, CA, USA, 2021
 
 ### [Mushroom Demand Prediction Using Machine Learning Algorithms](#)
 **Md Al Maruf, Akramul Azim and Sourojit Mukherjee**   
@@ -51,8 +51,7 @@ IEEE International Symposium on Networks, Computers and Communications (ISNCC’
 Jan 1, 2020
 
 ### [Faster OTA updates in smart vehicles using fog computing](#)
-Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing Companion   
-Jan 1, 2019
+Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), Auckland, New Zealand, 2019
 
 ### [A software-based calibration approach to increase the robustness of embedded systems](#)
 **Al Maruf, Md, and Akramul Azim**   
