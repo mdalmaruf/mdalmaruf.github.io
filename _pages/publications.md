@@ -70,7 +70,7 @@ Journal of Ambient Intelligence and Humanized Computing (AIHC)
 
 ### [Software-based Monitoring for Calibration of Measurement Units in Real-time Systems](#)
 **Al Maruf, Md, and Akramul Azim**   
-IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society, IEEE, Washington DC, USA   
+IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society, Washington DC, USA   
 2018
 
 
