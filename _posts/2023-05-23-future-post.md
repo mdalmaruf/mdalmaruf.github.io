@@ -12,3 +12,9 @@ Parallel computing involves the simultaneous execution of multiple tasks and has
 
 In this blog post, we will delve into the fascinating world of parallel computing and its crucial role in driving the performance of modern ML models.
 
+# Check the recent publications:
+  - M Al Maruf and A Azim. ["Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices"](https://caiac.pubpub.org/pub/ly32gqd5) The 36th Canadian Conference Artificial Intelligence (Canadian AI), Montreal, Canada, 2023.
+# 
+
+
+
