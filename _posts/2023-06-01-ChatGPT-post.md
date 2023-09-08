@@ -1,5 +1,5 @@
 ---
-title: 'Building a Medical Assistant Chatbot using ChatGPT-4 and Python'
+title: 'Building a Medical Assistant Chatbot using ChatGPT and Python'
 date: 2023-06-22
 permalink: /posts/2023/06/ChatGPT-post/
 tags:
