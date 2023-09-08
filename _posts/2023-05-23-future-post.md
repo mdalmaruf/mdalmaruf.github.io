@@ -14,7 +14,8 @@ In this blog post, we will delve into the fascinating world of parallel computin
 
 # Check the recent publications:
   - M Al Maruf and A Azim. ["Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices"](https://caiac.pubpub.org/pub/ly32gqd5) The 36th Canadian Conference Artificial Intelligence (Canadian AI), Montreal, Canada, 2023.
-# 
+# Matrix Multiplication using OpenMP
+  - [Check my Github Repository] (https://github.com/mdalmaruf/ParallelComputingOpenMP.git)
 
 
 
