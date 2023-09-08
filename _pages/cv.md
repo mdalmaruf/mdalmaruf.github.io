@@ -180,6 +180,9 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 * Awarded the Queen Elizabeth II Diamond Jubilee Scholarship (QES) 2017
 * Received Dean Graduate Scholarship at Ontario Tech University 2017
 * Received OIC Scholarship for Undergraduate Study at IUT in 2009
+* Recipient of the Rajshahi Education Board HSC Scholarship (General 1st) in 2009
+* Recipient of the Rajshahi Education Board SSC Scholarship in 2007
+* Recipient of Government Scholarship (Talent Pool) at class Eight in 2005 
 
 ## Extra-Curricular Activities
 * Attended FEAS Research Day at Ontario Tech University and Presented RTEMSOFT Lab Research, 2023
