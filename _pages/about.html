@@ -18,6 +18,89 @@ body {
 }
 </style>
 </head>
+
+  /* Style for the slideshow */
+.slideshow-container {
+  position: relative;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+  border: 2px solid #123456; /* Optional: Add a border around the slideshow */
+}
+
+.slide {
+  display: none;
+  position: absolute;
+  width: 100%;
+}
+
+img {
+  width: 100%; /* Make image fill the container */
+}
+
+/* Style for navigation dots (optional) */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+  <div class="slide">
+    <img src="path/to/your/image1.jpg" alt="Image 1">
+  </div>
+  <div class="slide">
+    <img src="path/to/your/image2.jpg" alt="Image 2">
+  </div>
+  <div class="slide">
+    <img src="path/to/your/image3.jpg" alt="Image 3">
+  </div>
+  <div class="slide">
+    <img src="path/to/your/image4.jpg" alt="Image 4">
+  </div>
+</div>
+
+<div style="text-align:center">
+  <span class="dot"></span>
+  <span class="dot"></span>
+  <span class="dot"></span>
+  <span class="dot"></span>
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("slide");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+  
 <body>
 
 <p style="font-size:18px; color:#123456;">“The worldly life is nothing but an illusionary enjoyment.” - Quran 3:185</p>
