@@ -95,6 +95,51 @@ function showSlides() {
 }
 </script>
 
+<div class="carousel__holder">
+    <div id="carousel1" class="carousel">
+        <input class="carousel__activator" type="radio" name="carousel1" id="1a" checked="checked" />
+        <input class="carousel__activator" type="radio" name="carousel1" id="1b" />
+        <input class="carousel__activator" type="radio" name="carousel1" id="1c" />
+        <!-- Repeat the above line for more images -->
+
+        <!-- Control settings -->
+        <div class="carousel__controls">
+            <label class="carousel__control carousel__control--backward" for="1a"></label>
+            <label class="carousel__control carousel__control--forward" for="1b"></label>
+        </div>
+        <div class="carousel__controls">
+            <label class="carousel__control carousel__control--backward" for="1b"></label>
+            <label class="carousel__control carousel__control--forward" for="1c"></label>
+        </div>
+        <!-- Repeat the above block for more images -->
+
+        <!-- Image settings -->
+        <div class="carousel__track">
+            <ul>
+                <li class="carousel__slide" style="background-image: url('https://picsum.photos/seed/picsum/200/300');">
+                    <a style="text-decoration:none;display:block;width:100%;height:100%;" href="#"></a>
+                </li>
+                <li class="carousel__slide" style="background-image: url('https://picsum.photos/seed/picsum/200/300');">
+                    <a style="text-decoration:none;display:block;width:100%;height:100%;" href="#"></a>
+                </li>
+                <li class="carousel__slide" style="background-image: url('https://picsum.photos/seed/picsum/200/300');">
+                    <a style="text-decoration:none;display:block;width:100%;height:100%;" href="#"></a>
+                </li>
+                <!-- Repeat the above line for more images -->
+            </ul>
+        </div>
+        
+        <!-- Indicator settings -->
+        <div class="carousel__indicators">
+            <label class="carousel__indicator" for="1a"></label>
+            <label class="carousel__indicator" for="1b"></label>
+            <label class="carousel__indicator" for="1c"></label>
+            <!-- Repeat the above line for more images -->
+        </div>
+    </div>
+</div>
+
+<!-- Your existing CSS and JavaScript would go here -->
   
 
 
