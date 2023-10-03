@@ -12,6 +12,7 @@ redirect_from:
 
 ### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:black">Thesis Title:</span> Design and Development of Next-Generation Software for Fog-enabled Embedded Systems.
+- - <span style="color:black">Supervisor: </span> Dr. Akramul Azim
 - <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Edge/Fog Computing, Machine Learning.
 - <span style="color:black">Completed Courses:</span>
     - Embedded Control System
