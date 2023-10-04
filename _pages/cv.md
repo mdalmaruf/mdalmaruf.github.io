@@ -22,12 +22,12 @@ permalink: /cv/
   Ontario Tech University, Canada\
   Supervisor: Dr. Akramul Azim\
   Dissertation: Design and Development of Next Generation Software for Fog-enabled Embedded Systems\
-  Research Area: Embedded Software, Fog Computing, Machine Learning
+  Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
 
 - **MASc., Electrical and Computer Engineering [2017 - 2019]**\
   Ontario Tech University, Canada\
   Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)\
-  Research Area: Parallel Computing and Embedded Systems
+  Research Area: Task Scheduling, Parallel Computing and Embedded Systems
 
 - **B.Sc., Computer Science and Engineering [2009 - 2013]**\
   Islamic University of Technology (IUT), Bangladesh\
@@ -61,31 +61,31 @@ permalink: /cv/
 
 ## Research & Development Projects
 
-* **Tool: Feature and Requirement Extraction for Improving Embedded Software Reuse** [🔗](https://github.com/mdalmaruf/Feature-and-Requirements-Extraction.git)
+* **A Feature and Requirement Extraction Tool for Improving Embedded Software Reuse** [🔗](https://github.com/mdalmaruf/Feature-and-Requirements-Extraction.git)
   - Extracted features and requirements of embedded systems from GitHub repositories.
   - Utilized NLP techniques: BERT (CodeBERT), TF-IDF, Topic Modeling.
 
-* **Over-the-Air (OTA) Software Update** [🔗](https://github.com/mdalmaruf/OTA-Update.git)
+* **A Framework for Over-the-Air (OTA) Software Update** [🔗](https://github.com/mdalmaruf/OTA-Update.git)
   - Integrated Uptane framework within Fog Computing for faster and secure updates.
   - Leveraged Transfer Learning for communication latency analysis.
 
-* **Risky Aircraft Landing Detection in Real-time** [🔗](https://github.com/mdalmaruf/AircraftLandingDetection.git)
+* **Real-Time Aircraft Landing Detection Application** [🔗](https://github.com/mdalmaruf/AircraftLandingDetection.git)
   - Real-time anomaly detection for safer aircraft landings.
   - Preprocessed ping station (YOW Airport Runway) raw data of aircraft landing events.
   - Developed online ML model training web application using PHP-ML.
   - Implemented using Laravel, PHP, JavaScript, Python and backed by MySQL.
 
-* **Machine Learning Model Parallelism**
+* **A Machine Learning Model Parallelism Tool**
   - Boost machine learning computation through model parallelism.
   - Employed algorithms: CNN, AlexNet, SVM, RF.
   - Utilized TensorFlow, CUDA and OpenMP for parallel computation. [🔗](https://github.com/mdalmaruf/ParallelComputingOpenMP.git)
   - Tasks Scheduling using EDF and RM.
 
-* **QA Consultants Research Project**
+* **Anomaly Detection Tool**
   - Analyzed Automotive Communication Bus (LIN, CAN, FlexRay).
   - Developed an Anomaly Detection framework for Automotive CAN bus networks.
 
-* **Greenwood Mushroom Farm Web Application** [🔗](https://mushroom.rtemsoft.com/)
+* **A Mushroom Supply and Demand Prediction Application** [🔗](https://mushroom.rtemsoft.com/)
   - Developed a dashboard for Greenwood farm Management using Laravel and MySQL.
   - The application handles different sales orders and real-time data monitoring.
   - Predicted future demand based on historical sales data using Neural Networks.
@@ -129,6 +129,7 @@ permalink: /cv/
         <h3>Tools & Libraries:</h3>
         <ul>
             <li>OpenMP</li>
+            <li>Semaphore CI/CD</li>
             <li>Visual Studio, Code Blocks</li>
 <!--             <li>Code Blocks</li> -->
             <li>Eclipse/NetBeans/IntelliJ</li>
