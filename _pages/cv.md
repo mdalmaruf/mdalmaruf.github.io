@@ -42,6 +42,10 @@ permalink: /cv/
   - Served as a Course TA for Embedded Systems, Software Quality, OOP, Software Design & Arch
   - Designed and Conducted Labs for Database Management Systems (MySQL, NBA API, Flask)
 
+- **IBM, Research Collaborator [2023 – Present]**
+  - Project: Software Lock Contention and Fault Localization Recommender System
+  - Working to integrate the Large Language Models to detect Lock Contention
+
 - **Mobile Innovations Corporations, Research & Development Intern [2021 – 2021]**
   - EPNB Application Development (Microsoft Azure and ASP.NET (C#))
   - Developed Fillable Templates and Forms Design Application using JavaScript
