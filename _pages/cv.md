@@ -53,7 +53,7 @@ permalink: /cv/
   - Taught Courses (Data Structure, Programming C/C++ & Java, Simulation and modeling)
 
 - **Nascenia IT, Junior Software Engineer [2014 – 2015]**
-  - Worked in developing a Travel Management Platform named WellTravel using Ruby on Rails
+  - Worked in developing a Travel Management Platform named [WellTravel](https://www.welltravel.com/) using Ruby on Rails
   - Technologies: Ruby on Rails 4.1, PostgreSQL, Sidekiq, Apache Server, Semaphore, SoapUI
   - Worked in project [SimpleSignUp](https://simpleeventsignup.com/) an Event Management SaaS (Ruby on Rails, MySQL)
   - Worked in creating APIs for Blood Donor Management System (PHP, Laravel)
