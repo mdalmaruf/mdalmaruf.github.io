@@ -55,9 +55,9 @@ permalink: /cv/
 - **Nascenia IT, Junior Software Engineer [2014 – 2015]**
   - Worked in developing a Travel Management Platform named WellTravel using Ruby on Rails
   - Technologies: Ruby on Rails 4.1, PostgreSQL, Sidekiq, Apache Server, Semaphore, SoapUI
-  - Worked in project SimpleSignUp an Event Management SaaS (Ruby on Rails, MySQL)
+  - Worked in project [SimpleSignUp](https://simpleeventsignup.com/) an Event Management SaaS (Ruby on Rails, MySQL)
   - Worked in creating APIs for Blood Donor Management System (PHP, Laravel)
-  - Worked in developing viigii - A Virtual Gifting System for eCommerce Platform (Ruby on Rails)
+  - Worked in developing [viigii](https://dribbble.com/tags/viigii) - A Virtual Gifting System for eCommerce Platform (Ruby on Rails)
 
 ## Research & Development Projects
 
