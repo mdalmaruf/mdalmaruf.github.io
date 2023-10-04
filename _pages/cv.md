@@ -36,7 +36,7 @@ permalink: /cv/
 ## Employment
 
 - **Ontario Tech University, Teaching & Research Assistant [2017 – Present]**
-  - Member of RTEMSOFT Research Lab
+  - Member of [RTEMSOFT](https://rtemsoft.com/) Research Lab
   - Engaged in different research areas including accelerating ML model training, Task Scheduling and Embedded Software Development
   - Contributed to the HIL Test Bench using CARLA simulator
   - Served as a Course TA for Embedded Systems, Software Quality, OOP, Software Design & Arch
@@ -61,15 +61,15 @@ permalink: /cv/
 
 ## Research & Development Projects
 
-* **Tool: Feature and Requirement Extraction for Improving Embedded Software Reuse**
+* **Tool: Feature and Requirement Extraction for Improving Embedded Software Reuse** [🔗](https://github.com/mdalmaruf/Feature-and-Requirements-Extraction.git)
   - Extracted features and requirements of embedded systems from GitHub repositories.
   - Utilized NLP techniques: BERT (CodeBERT), TF-IDF, Topic Modeling.
 
-* **Over-the-Air (OTA) Software Update**
+* **Over-the-Air (OTA) Software Update** [🔗](https://github.com/mdalmaruf/OTA-Update.git)
   - Integrated Uptane framework within Fog Computing for faster and secure updates.
   - Leveraged Transfer Learning for communication latency analysis.
 
-* **Risky Aircraft Landing Detection in Real-time**
+* **Risky Aircraft Landing Detection in Real-time** [🔗](https://github.com/mdalmaruf/AircraftLandingDetection.git)
   - Real-time anomaly detection for safer aircraft landings.
   - Preprocessed ping station (YOW Airport Runway) raw data of aircraft landing events.
   - Developed online ML model training web application using PHP-ML.
@@ -78,20 +78,20 @@ permalink: /cv/
 * **Machine Learning Model Parallelism**
   - Boost machine learning computation through model parallelism.
   - Employed algorithms: CNN, AlexNet, SVM, RF.
-  - Utilized TensorFlow, CUDA and OpenMP for parallel computation.
+  - Utilized TensorFlow, CUDA and OpenMP for parallel computation. [🔗](https://github.com/mdalmaruf/ParallelComputingOpenMP.git)
   - Tasks Scheduling using EDF and RM.
 
 * **QA Consultants Research Project**
   - Analyzed Automotive Communication Bus (LIN, CAN, FlexRay).
   - Developed an Anomaly Detection framework for Automotive CAN bus networks.
 
-* **Greenwood Mushroom Farm Web Application**
+* **Greenwood Mushroom Farm Web Application** [🔗](https://mushroom.rtemsoft.com/)
   - Developed a dashboard for Greenwood farm Management using Laravel and MySQL.
   - The application handles different sales orders and real-time data monitoring.
   - Predicted future demand based on historical sales data using Neural Networks.
 
-* **WellTravel: A Flight Schedule Provider and Online Booking System**
-  - A flight Schedule Provider which consumes APIs from different GDS flight provider.
+* **WellTravel: A Flight Schedule Provider and Online Booking System** [🔗](https://www.welltravel.com/)
+  - Contributed developing a flight Schedule Provider which consumes APIs from different GDS flight provider.
   - Integrated GDS flight APIs for flight schedules, rental car bookings, and hotel reservations.
   - Language: Ruby on Rails, HTML CSS, Bootstrap; Database: PostgreSQL; API: SOAP, REST.
 
@@ -99,12 +99,12 @@ permalink: /cv/
   - A Machine Learning-based Test Case Prioritization for Embedded Applications.
   - Continuous Integration/Continuous Delivery (CI/CD) using Jenkins.
 
-* **Finding Medical Experts on Twitter**
+* **Finding Medical Experts on Twitter** [🔗](https://github.com/mdalmaruf/Data-mining-Finding-Medical-Experts-in-Twitter)
   - Utilized Twitter's API for data extraction, processing over 10,000 tweets daily.
   - Employed NLP techniques to filter and categorize tweets, achieving a classification accuracy of 92%.
   - Tools and technologies used: Python, Scikit-Learn, Pandas, Tweepy, and Flask.
 
-* **Plant Leaf Classification using Convolutional Neural Network**
+* **Plant Leaf Classification using Convolutional Neural Network** [🔗](https://github.com/mdalmaruf/Plant-Leaf-Classification-using-Convolutional-Neural-Network)
   - Classify Plant Leaf Images across 99 species using CNN.
   - Used a Kaggle Dataset comprising 1,584 images for training and validation.
   - Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
