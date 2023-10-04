@@ -26,7 +26,7 @@ permalink: /cv/
 
 - **MASc., Electrical and Computer Engineering [2017 - 2019]**\
   Ontario Tech University, Canada\
-  Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗]([https://www.google.com](https://ir.library.ontariotechu.ca/handle/10155/1064))\
+  Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)\
   Research Area: Parallel Computing and Embedded Systems
 
 - **B.Sc., Computer Science and Engineering [2009 - 2013]**\
