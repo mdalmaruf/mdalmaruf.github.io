@@ -24,6 +24,7 @@ redirect_from:
     - Software Design and Architecture (Software Development)
     - Embedded Software Systems (Scheduing, Hardware Architecture, QEMU Emulator)
     - Software Quality (JUnit, FindBugs, Gerrit, Jenkins, Automated Testing using Selenium)
+    - Algorithm Design & Analysis
     - Inroduction to Programming (OOP)
 
 
@@ -47,6 +48,7 @@ redirect_from:
     - Object Oriented Programming (Java, C++)
     - Programming and Problem Solving (C/C++)
     - Simulation and Modeling
+    - Data Structures and Algorithms
     - Computer Graphics
 
 ## <span style="color:orangered">Nascenia IT</span> (Dhaka, Bangladesh)
