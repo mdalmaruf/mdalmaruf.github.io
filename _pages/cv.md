@@ -21,7 +21,7 @@ permalink: /cv/
 - **Ph.D. Candidate, Electrical and Computer Engineering [2019 - Present]**\
   Ontario Tech University, Canada\
   Supervisor: Dr. Akramul Azim\
-  Dissertation: Design and Development of Next Generation Software for Fog-enabled Embedded Systems\
+  Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software\
   Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
 
 - **MASc., Electrical and Computer Engineering [2017 - 2019]**\
