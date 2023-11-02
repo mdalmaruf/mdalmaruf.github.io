@@ -1,7 +1,6 @@
 # Md Al Maruf
 
 * Personal Website[https://mdalmaruf.github.io/]
-* Link: https://mdalmaruf.github.io/
 
 
 
