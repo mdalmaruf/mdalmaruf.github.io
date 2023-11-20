@@ -7,9 +7,14 @@ redirect_from:
   - /experience/
 ---
 
+## <span style="color:orangered">IBM</span> (CAS Collaborator - IBM Centre for Advanced Studies, Ontario, Canada)
+### <span style="color:DarkBlue">Research Associate (Sep 2023 - Present)</span>
+- <span style="color:black">Language:</span> Python, Java
+- <span style="color:black">Large Language Model:</span> LLaama2, GPT API
+
 ## <span style="color:orangered">Ontario Tech University</span> (Oshawa, Canada)
 
-### <span style="color:DarkBlue">Graduate Research Assistant (Sep 2017 - Present)</span>
+### <span style="color:DarkBlue">Graduate Research Assistant (Sep 2017 - Nov 2023)</span>
 - <span style="color:black">Research Topics:</span> 
     - Parallel Programming and Computation
     - Real-time Embedded Systems and Software Validation
