@@ -34,6 +34,8 @@ permalink: /cv/
   Research Area: Cloud Computing
 
 ## Employment
+- **Ontario Tech University, Sessional Lecturer [2024 – Present]**
+  - Teaching Course: Algorithms and Data Structure 
 
 - **IBM, Research Collaborator [2023 – Present]**
   - Project: Software Lock Contention and Fault Localization Recommender System
