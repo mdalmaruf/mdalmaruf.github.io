@@ -7,6 +7,11 @@ redirect_from:
   - /experience/
 ---
 
+## <span style="color:orangered">Ontario Tech University</span> (Oshawa, Canada)
+### <span style="color:DarkBlue">Sessional Lecturer (Jan 2024- Present)</span>
+- <span style="color:black">Teaching:</span>
+    - INFR 2820U Algorithms and Data Structures 
+
 ## <span style="color:orangered">IBM, Ontario Tech</span> (CAS Collaborator - IBM Centre for Advanced Studies, Ontario, Canada)
 ### <span style="color:DarkBlue">Research Associate (Sep 2023 - Present)</span>
 - <span style="color:black">Language:</span> Python, Java
