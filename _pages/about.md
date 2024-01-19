@@ -14,7 +14,7 @@ About Me
 ------
 
 <p style="text-align:justify">
-Hi! I'm Md Al Maruf, a PhD candidate in the Electrical and Computer Engineering program at Ontario Tech University. My research areas are diverse and forward-thinking, encompassing Embedded Systems Software, Machine Learning, Parallel Computing, Safety-Crtical Systems, Cyber-Physical Systems, Cloud/Fog Computing and Over-the-Air (OTA) Software Update.
+Hi! I'm Md Al Maruf. I recently completed my PhD in Electrical and Computer Engineering at Ontario Tech University. My research areas are diverse and forward-thinking, encompassing Embedded Systems Software, Machine Learning, Parallel Computing, Safety-Crtical Systems, Cyber-Physical Systems, Cloud/Fog Computing and Over-the-Air (OTA) Software Update.
 </p>
 
 
