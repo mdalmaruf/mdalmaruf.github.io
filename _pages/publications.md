@@ -7,9 +7,16 @@ redirect_from:
   - /publications/
 ---
 
+### [Anomaly Detection and Functional Testing for Automotive CAN Communication](#)
+**Md Al Maruf and Akramul Azim**   
+Accepted In the 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
+2024
+
+
+
 ### [Towards Safe Online Machine Learning Model Training and Inference on Edge Networks](#)
 **Md Al Maruf, Akramul Azim, Nitin Auluck and Mansi Sahi**   
-Accepted In 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA   
+Accepted In the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA   
 2023
 
 ### [Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices](#)
