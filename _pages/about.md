@@ -14,7 +14,7 @@ About Me
 ------
 
 <p style="text-align:justify">
-Hi! I'm Md Al Maruf. I recently completed my PhD in Electrical and Computer Engineering at Ontario Tech University. My research areas are diverse and forward-thinking, encompassing Embedded Systems Software, Machine Learning, Parallel Computing, Safety-Crtical Systems, Cyber-Physical Systems, Cloud/Fog Computing and Over-the-Air (OTA) Software Update.
+Hi! I'm Md Al Maruf. I completed my Electrical and Computer Engineering PhD from Ontario Tech University. My research areas are diverse and forward-thinking, encompassing Embedded Systems Software, Machine Learning, Parallel Computing, Safety-Crtical Systems, Cyber-Physical Systems, Cloud/Fog Computing and Over-the-Air (OTA) Software Update.
 </p>
 
 
@@ -43,7 +43,7 @@ Looking Forward
 ------
 
 <p style="text-align:justify">
-As I move toward the completion of my PhD, I am excited about the opportunity to apply my skills and knowledge in a professional capacity. I'm interested in roles that will allow me to blend my software development and data science skills, especially those that can benefit from my expertise in embedded systems and machine learning.
+I am excited about the opportunity to apply my skills and knowledge in a professional capacity. I'm interested in roles that will allow me to blend my software development and data science skills, especially those that can benefit from my expertise in embedded systems and machine learning.
 </p>
 
 Let's Connect
