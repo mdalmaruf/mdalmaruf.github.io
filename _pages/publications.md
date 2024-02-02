@@ -9,7 +9,7 @@ redirect_from:
 
 ### [Anomaly Detection and Functional Testing for Automotive CAN Communication](#)
 **Md Al Maruf and Akramul Azim**   
-Accepted In the 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
+Accepted In the IEEE 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
 2024
 
 
