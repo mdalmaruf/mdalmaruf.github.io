@@ -33,10 +33,5 @@ The system employs advanced sensors and algorithms to monitor aircraft as they a
 - **🌐 Comprehensive Airline Trajectory Visualization**: Enables precise tracking of flight paths, aiding in the analysis and optimization of air traffic routes.
 - **📈 Predictive Flight Path Analysis**: Employs predictive algorithms to forecast flight paths, allowing for proactive management of air traffic and the prevention of potential conflicts.
 
-## How to Get Started 🚀
-This section can include step-by-step instructions on setting up and running the application, or links to documentation for more detailed guidance.
 
-## Contributing 👋
-Invite others to contribute to the project, providing guidelines on how they can get involved.
-
-<a href="https://github.com/mdalmaruf/AircraftLandingDetection.git" style="color:#52adc8;"><strong>View the project on GitHub 🌟</strong></a>
+<a href="https://github.com/mdalmaruf/AircraftLandingDetection.git" style="color:#52adc8;"><strong>View the project on GitHub 💻</strong></a>
