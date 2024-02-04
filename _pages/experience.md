@@ -37,14 +37,14 @@ redirect_from:
     - Algorithm Design & Analysis
     - Inroduction to Programming (OOP)
 
-## <span style=" color:DarkBlue">💼 Mobile Innovations Corporation</span> (Internship, Ottawa, Ontario, Canada)
-### <span style="padding-left: 20px; color:black"> Research And Development Intern (May 2021 - Aug 2021)</span>
+## <span style=" color:DarkBlue">💼 Mobile Innovations Corporation</span> (Ottawa, Ontario, Canada)
+### <span style="padding-left: 20px; color:black"> Software Development Intern (May 2021 - Aug 2021)</span>
 - <span style="color:black;">Language:</span> C#
 - <span style="color:black;">Framework:</span> ASP.NET
 - <span style="color:black;">Database:</span> Microsoft Azure SQL
 
 ## <span style=" color:DarkBlue">💼 QA Consultants</span> ( North York, Canada)
-### <span style="padding-left: 10px; color:black">Research And Development Collaborator (July 2020 - Dec 2020)</span>
+### <span style="padding-left: 10px; color:black">Research And Development Intern (July 2020 - Dec 2020)</span>
 - <span style="color:black;">Language:</span> C/C++/Python
 - <span style="color:black;">Framework:</span> OMNET++, Python QT5
 - <span style="color:black;">Database:</span> Sqlite3
