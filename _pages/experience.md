@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## <span style="color:orangered">IBM, Ontario Tech</span> (CAS Collaborator - IBM Centre for Advanced Studies, Ontario, Canada)
+## <span style="color:orangered">IBM, Ontario Tech</span> (IBM Centre for Advanced Studies (CAS), Ontario, Canada)
 ### <span style="color:DarkBlue">💼 Research Associate (Sep 2023 - Present)</span>
 - <span style="color:black">Language:</span> Python, Java
 - <span style="color:black">Large Language Model:</span> LLaama2, GPT API
