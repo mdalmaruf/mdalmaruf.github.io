@@ -6,7 +6,7 @@ excerpt: |
     <br/> <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'>
     <br/>
     <div>
-    <p><strong>Key Features:</strong></p>
+        <p><strong>Key Features:</strong></p>
     <ul>
         <li><strong>Secure User Authentication:</strong> Ensures access is granted only to authorized personnel, maintaining the integrity and security of sensitive operational data.</li>
         <li><strong>Interactive Main Application Interface:</strong> Offers a user-friendly platform for monitoring real-time flight data and airport operations.</li>
@@ -15,7 +15,7 @@ excerpt: |
         <li><strong>Comprehensive Airline Trajectory Visualization:</strong> Enables precise tracking of flight paths for optimal route analysis.</li>
         <li><strong>Predictive Flight Path Analysis:</strong> Employs predictive algorithms for proactive air traffic management.</li>
     </ul>
-</div>
+    </div>
 collection: portfolio
 ---
 
