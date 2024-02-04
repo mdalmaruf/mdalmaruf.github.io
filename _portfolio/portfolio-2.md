@@ -36,10 +36,4 @@ The tool leverages Twitter's API to continuously extract tweets, employing sophi
 ## Classification Accuracy 🎯
 The system boasts an impressive tweet classification accuracy of 92%, a testament to the rigorous testing and validation processes that have been employed.
 
-## How to Get Started 🚀
-Include step-by-step instructions or links to documentation to guide users in setting up and utilizing the tool effectively.
-
-## Contributing 👋
-Encourage community engagement by providing clear guidelines for how others can contribute to the ongoing development of this tool.
-
-<a href="https://github.com/mdalmaruf/Data-mining-Finding-Medical-Experts-in-Twitter" style="color:#52adc8;"><strong>View the project on GitHub 🌟</strong></a>
+<a href="https://github.com/mdalmaruf/Data-mining-Finding-Medical-Experts-in-Twitter" style="color:#52adc8;"><strong>View the project on GitHub ![GitHub]</strong></a>
