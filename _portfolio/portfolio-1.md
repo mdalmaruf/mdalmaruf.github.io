@@ -2,10 +2,11 @@
 title: "Aircraft Landing Detection Application"
 excerpt: |
     This project enhances air traffic management by providing real-time insights into aircraft landings and runway statuses. 
-    <br/><img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'> <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'>
+    <br/> <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'>
     <br/>
     <ul style='list-style-type: none;'>
         <li><span ><strong>🔐 Secure User Authentication:</strong></span> Ensures access is granted only to authorized personnel, maintaining the integrity and security of sensitive operational data.</li>
+        <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'>
         <li><span ><strong>🖥️ Interactive Main Application Interface:</strong></span> Offers a user-friendly platform for monitoring real-time flight data and airport operations.</li>
         <li><span ><strong>🛫 Detailed Runway Overview:</strong></span> Provides status updates for each runway, allowing for efficient traffic management.</li>
         <li><span ><strong>🔍 Advanced Landing Detection:</strong></span> Utilizes cutting-edge technology for accurate landing insights.</li>
