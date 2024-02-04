@@ -1,18 +1,18 @@
 ---
 title: "Aircraft Landing Detection Application"
 excerpt: |
-    This project enhances air traffic management by providing real-time insights into aircraft landings and runway statuses. 
-    <br/> <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'>
+    The Aircraft Landing Detection Application stands as a pivotal innovation in air traffic control technology, setting new standards for safety, efficiency, and data-driven decision-making in airport operations. This project brings forth a paradigm shift in managing aircraft landings and runway statuses by providing real-time, actionable insights. Leveraging advanced algorithms and state-of-the-art sensor technology, the application ensures a seamless interface for air traffic controllers, enhancing their ability to monitor, predict, and act upon dynamic flight patterns and runway conditions.
+    
+    <br/> <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'>
     <br/>
-    <ul style='list-style-type: none;'>
-        <li><span ><strong>🔐 Secure User Authentication:</strong></span> Ensures access is granted only to authorized personnel, maintaining the integrity and security of sensitive operational data.</li>
-        <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'>
-        <li><span ><strong>🖥️ Interactive Main Application Interface:</strong></span> Offers a user-friendly platform for monitoring real-time flight data and airport operations.</li>
-        <li><span ><strong>🛫 Detailed Runway Overview:</strong></span> Provides status updates for each runway, allowing for efficient traffic management.</li>
-        <li><span ><strong>🔍 Advanced Landing Detection:</strong></span> Utilizes cutting-edge technology for accurate landing insights.</li>
-        <li><span ><strong>🌐 Comprehensive Airline Trajectory Visualization:</strong></span> Enables precise tracking of flight paths for optimal route analysis.</li>
-        <li><span ><strong>📈 Predictive Flight Path Analysis:</strong></span> Employs predictive algorithms for proactive air traffic management.</li>
-    </ul>
+    <div>
+        <p><strong>🔐 Secure User Authentication:</strong> Ensures access is granted only to authorized personnel, maintaining the integrity and security of sensitive operational data.</p>
+        <p><strong>🖥️ Interactive Main Application Interface:</strong> Offers a user-friendly platform for monitoring real-time flight data and airport operations.</p>
+        <p><strong>🛫 Detailed Runway Overview:</strong> Provides status updates for each runway, allowing for efficient traffic management.</p>
+        <p><strong>🔍 Advanced Landing Detection:</strong> Utilizes cutting-edge technology for accurate landing insights.</p>
+        <p><strong>🌐 Comprehensive Airline Trajectory Visualization:</strong> Enables precise tracking of flight paths for optimal route analysis.</p>
+        <p><strong>📈 Predictive Flight Path Analysis:</strong> Employs predictive algorithms for proactive air traffic management.</p>
+    </div>
 collection: portfolio
 ---
 
