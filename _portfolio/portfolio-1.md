@@ -13,7 +13,7 @@ excerpt: |
         - **Advanced Landing Detection:** Utilizes cutting-edge technology for accurate landing insights.
         - **Comprehensive Airline Trajectory Visualization:** Enables precise tracking of flight paths for optimal route analysis.
         - **Predictive Flight Path Analysis:** Employs predictive algorithms for proactive air traffic management.
-
+</div>
 collection: portfolio
 ---
 
