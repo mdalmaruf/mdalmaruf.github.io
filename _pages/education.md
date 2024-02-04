@@ -10,7 +10,7 @@ redirect_from:
 <!-- ## <span style="color:#52adc8">Ontario Tech University</span> -->
 ## <span style="color:orangered">Ontario Tech University, Canada</span>
 
-### <span style="color:black">Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
+### <span style="color:black"> 🎓 Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:black">Thesis Title:</span> Design and Development of Reusable Feature-based Next-Generation Embedded Software.
 - <span style="color:black">Supervisor: </span> Dr. Akramul Azim
 - <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Edge/Fog Computing, Machine Learning.
@@ -20,7 +20,7 @@ redirect_from:
     - Advance Optimization
     - Network Computing
 
-### <span style="color:black">Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
+### <span style="color:black">🎓 Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
 - <span style="color:black">Thesis Title:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
 - <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
 - <span style="color:black">Courses Completed:</span>
@@ -30,7 +30,7 @@ redirect_from:
     - Advanced Topics in Software Design
     - Special Topics: Safety Critical Software System
 
-## <span style="color:orangered">Islamic University of Technology (IUT), Bangladesh</span>
+## <span style="color:orangered">🎓 Islamic University of Technology (IUT), Bangladesh</span>
 
 ### <span style="color:black">Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
 - <span style="color:black">Thesis Title:</span> Mobile Cloud Computing: Mobile Application Cloud (MAC) - A framework for on demand Application offloading.
