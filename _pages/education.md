@@ -18,6 +18,7 @@ redirect_from:
     - Real-time Data Analytics in IoT
     - Advance Optimization
     - Network Computing
+      
 ### <span style="color:black">🎓 Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
 - <span style="color:black">Thesis Title:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
 - <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
