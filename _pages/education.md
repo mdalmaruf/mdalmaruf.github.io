@@ -28,9 +28,9 @@ redirect_from:
     - Advanced Topics in Software Design
     - Special Topics: Safety Critical Software System
 
-## <span style="color:orangered">🎓 Islamic University of Technology (IUT), Bangladesh</span>
+## <span style="color:orangered">Islamic University of Technology (IUT), Bangladesh</span>
 
-### <span style="color:black">Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
+### <span style="color:black">🎓 Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
 - <span style="color:black">Thesis Title:</span> Mobile Cloud Computing: Mobile Application Cloud (MAC) - A framework for on demand Application offloading.
 - <span style="color:black">Activities and societies:</span> Member of IUTCS
 
