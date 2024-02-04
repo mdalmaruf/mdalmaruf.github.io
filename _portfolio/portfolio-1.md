@@ -6,13 +6,14 @@ excerpt: |
     <br/> <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'>
     <br/>
     <div>
-        <p><strong>🔐 Secure User Authentication:</strong> Ensures access is granted only to authorized personnel, maintaining the integrity and security of sensitive operational data.</p>
-        <p><strong>🖥️ Interactive Main Application Interface:</strong> Offers a user-friendly platform for monitoring real-time flight data and airport operations.</p>
-        <p><strong>🛫 Detailed Runway Overview:</strong> Provides status updates for each runway, allowing for efficient traffic management.</p>
-        <p><strong>🔍 Advanced Landing Detection:</strong> Utilizes cutting-edge technology for accurate landing insights.</p>
-        <p><strong>🌐 Comprehensive Airline Trajectory Visualization:</strong> Enables precise tracking of flight paths for optimal route analysis.</p>
-        <p><strong>📈 Predictive Flight Path Analysis:</strong> Employs predictive algorithms for proactive air traffic management.</p>
-    </div>
+    **Key Features:**
+        - **Secure User Authentication:** Ensures access is granted only to authorized personnel, maintaining the integrity and security of sensitive operational data.
+        - **Interactive Main Application Interface:** Offers a user-friendly platform for monitoring real-time flight data and airport operations.
+        - **Detailed Runway Overview:** Provides status updates for each runway, allowing for efficient traffic management.
+        - **Advanced Landing Detection:** Utilizes cutting-edge technology for accurate landing insights.
+        - **Comprehensive Airline Trajectory Visualization:** Enables precise tracking of flight paths for optimal route analysis.
+        - **Predictive Flight Path Analysis:** Employs predictive algorithms for proactive air traffic management.
+
 collection: portfolio
 ---
 
