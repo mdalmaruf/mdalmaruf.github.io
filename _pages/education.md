@@ -9,7 +9,6 @@ redirect_from:
 
 <!-- ## <span style="color:#52adc8">Ontario Tech University</span> -->
 ## <span style="color:orangered">Ontario Tech University, Canada</span>
-
 ### <span style="color:black"> 🎓 Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
 - <span style="color:black">Thesis Title:</span> Design and Development of Reusable Feature-based Next-Generation Embedded Software.
 - <span style="color:black">Supervisor: </span> Dr. Akramul Azim
@@ -19,7 +18,6 @@ redirect_from:
     - Real-time Data Analytics in IoT
     - Advance Optimization
     - Network Computing
-
 ### <span style="color:black">🎓 Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
 - <span style="color:black">Thesis Title:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
 - <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
