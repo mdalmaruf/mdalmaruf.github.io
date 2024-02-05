@@ -16,23 +16,23 @@ title: "Curriculum Vitae"
 permalink: /cv/
 --- -->
 
-## Education
+## 🎓 Education
 
-🎓 **Ph.D., Electrical and Computer Engineering [2019 - 2023]**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ontario Tech University, Canada\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Dr. Akramul Azim\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
+- **Ph.D., Electrical and Computer Engineering [2019 - 2023]**\
+  - Ontario Tech University, Canada\
+  - Supervisor: Dr. Akramul Azim\
+  - Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software\
+  - Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
 
 
-🎓 **MASc., Electrical and Computer Engineering [2017 - 2019]**\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ontario Tech University, Canada\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Area: Task Scheduling, Parallel Computing and Embedded Systems
+- **MASc., Electrical and Computer Engineering [2017 - 2019]**\
+  - Ontario Tech University, Canada\
+  - Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)\
+  - Research Area: Task Scheduling, Parallel Computing and Embedded Systems
 
-🎓 **B.Sc., Computer Science and Engineering [2009 - 2013]**\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Islamic University of Technology (IUT), Bangladesh\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Area: Cloud Computing
+- **B.Sc., Computer Science and Engineering [2009 - 2013]**\
+  - Islamic University of Technology (IUT), Bangladesh\
+  - Research Area: Cloud Computing
 
 ## Employment
 - **Ontario Tech University, Sessional Lecturer [2024 – Present]**
