@@ -22,4 +22,7 @@ main:
   - title: "Gallery"
     url: /gallery/
 
+  - title: "About Me"
+    url: /about/
+
 
