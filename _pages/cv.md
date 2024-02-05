@@ -34,7 +34,7 @@ permalink: /cv/
   - Islamic University of Technology (IUT), Bangladesh\
   - Research Area: Cloud Computing
 
-## Employment
+## 💼 Employment
 - **Ontario Tech University, Sessional Lecturer [2024 – Present]**
   - Teaching Course: Algorithms and Data Structures 
 
@@ -66,7 +66,7 @@ permalink: /cv/
   - Worked in creating APIs for Blood Donor Management System (PHP, Laravel)
   - Worked in developing [viigii](https://dribbble.com/tags/viigii) - A Virtual Gifting System for eCommerce Platform (Ruby on Rails)
 
-## Research & Development Projects
+## 🔬 Research & Development Projects
 
 * **A Feature and Requirement Extraction Tool for Improving Embedded Software Reuse** [🔗](https://github.com/mdalmaruf/Feature-and-Requirements-Extraction.git)
   - Extracted features and requirements of embedded systems from GitHub repositories.
@@ -117,7 +117,7 @@ permalink: /cv/
   - Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
 
  
-## Development Skills
+## ⚙️ Development Skills
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
         <h3>Programming Languages:</h3>
@@ -170,7 +170,7 @@ permalink: /cv/
 
 See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
 
-## Academic Courses
+## 📚 Academic Courses
 
 * **Completed Courses:**
   * Advance Topic in High Performance Computing (Machine Learning)
@@ -179,7 +179,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
   * Advance Optimization
   * Intelligent Control Systems
 
-## Awards & Scholarships
+## 🏅Awards & Scholarships
 
 * Received SIGBED Student Travel Grants for CPS-IoT Week, San Antonio, TX, USA, 2023
 * Awarded Ontario Graduate Scholarship (OGS), Ontario Tech University, 2022
@@ -193,7 +193,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 * Recipient of the Rajshahi Education Board SSC Scholarship in 2007
 * Recipient of Government Scholarship (Talent Pool) at class Eight in 2005 
 
-## Extra-Curricular Activities
+## 🎨 Extra-Curricular Activities
 * Attended FEAS Research Day at Ontario Tech University and Presented RTEMSOFT Lab Research, 2023
 * Contributed as a Volunteer at ICCPS Conference, Texas, USA, 2023 
 * Presented Conference Paper at International Conference on Cyber-Physical Systems (ICCPS), Texas, 2023
@@ -204,7 +204,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 * Organizing Committee Member of “AB Bank IUT ICT Fest 2013” in IUT
 
 
-## Contact
+## 📞 Contact
 Email: #
 
 
