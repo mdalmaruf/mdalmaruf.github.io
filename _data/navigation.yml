@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
     
   - title: "Publications"
@@ -21,5 +21,4 @@ main:
   - title: "Gallery"
     url: /gallery/
 
-  - title: "About Me"
-    url: /about/  
+
