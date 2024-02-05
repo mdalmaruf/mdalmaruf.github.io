@@ -3,7 +3,7 @@ title: "Twitter Healthcare Expert Finder and Analysis Tool"
 excerpt: |
     The Twitter Healthcare Expert Finder and Analysis Tool is an innovative system tailored to sift through the digital noise and accurately identify medical professionals on Twitter. This tool is instrumental for users seeking reliable health information, offering a gateway to verified medical expertise. By harnessing the power of advanced data mining techniques and Twitter's expansive API, the application excels in pinpointing authentic voices in healthcare amidst the vast social media landscape.
     
-    <br/> <div style="text-align: center;"> <img src='/images/portfolio/learning_curve_random_forest.png' alt='Learning Curve for Random Forest' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/learning_curve_svm.png' alt='Learning Curve for SVM' style='width: 400px; display: inline-block; margin-right: 10px;'></div>
+    <br/> <div align="center"> <img src='/images/portfolio/learning_curve_random_forest.png' alt='Learning Curve for Random Forest' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/learning_curve_svm.png' alt='Learning Curve for SVM' style='width: 400px; display: inline-block; margin-right: 10px;'></div>
     <br/>
     <div>
          <p><strong>Key Features:</strong></p>
