@@ -5,7 +5,7 @@ excerpt: |
     
     <br/> <center>
 <img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'></center>
->
+
     <br/>
     <div>
         <p><strong>Key Features:</strong></p>
