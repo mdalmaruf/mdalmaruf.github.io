@@ -34,4 +34,4 @@ The system employs advanced sensors and algorithms to monitor aircraft as they a
 - **📈 Predictive Flight Path Analysis**: Employs predictive algorithms to forecast flight paths, allowing for proactive management of air traffic and the prevention of potential conflicts.
 
 
-<a href="https://github.com/mdalmaruf/AircraftLandingDetection.git" style="color:#52adc8;"><strong>View the project on GitHub 💻</strong></a>
+<a href="https://github.com/mdalmaruf/AircraftLandingDetection.git" style="color:#52adc8;"><strong>View the project on GitHub ![GitHub](/images/icons8-github-30.png)</strong></a>
