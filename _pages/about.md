@@ -4,7 +4,7 @@ layout: archive
 permalink: /about/
 author_profile: true
 redirect_from: 
-  - /about
+  - /about/
 ---
 <meta name="google-site-verification" content="5ElNfrTQKf40uwoq6ShseFu28oKZ7Rb5YuxIgEJrIEo" />
 <p style="font-size:18px; color:#123456;">“The worldly life is nothing but an illusionary enjoyment.” - Quran 3:185</p>
