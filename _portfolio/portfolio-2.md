@@ -1,5 +1,5 @@
 ---
-title: "Faster Fog Computing based Over-the-air Vehicular Updates: A Transfer Learning Approach"
+title: "A Framework for Over-the-Air (OTA) Software Update"
 excerpt: |
     Fog computing emerges as a vital solution for time-sensitive vehicular over-the-air (OTA) updates, offering enhanced network durability and lower communication delays compared to the cloud. Our algorithm optimizes fog node resources, reducing OTA update times and improving network efficiency. The application of machine learning for communication delay prediction and the strategic enabling and disabling of fog nodes based on traffic load underscore the system's innovative approach to OTA updates.
     
