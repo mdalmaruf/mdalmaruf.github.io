@@ -46,4 +46,4 @@ collection: portfolio
 ### Testbed
 - Implemented a networked testbed with fog nodes and vehicles as VMs, using QEMU for ARM hardware emulation. Uptane framework integrated for OTA updates, with network connections established via a high-speed wireless router.
 
-<a href="https://github.com/mdalmaruf/OTA-Update" style="color:#52adc8;"><strong>View the project on GitHub ![GitHub](Images/github-icon.png)</strong></a>
+<a href="https://github.com/mdalmaruf/OTA-Update" style="color:#52adc8;"><strong>View the project on GitHub ![GitHub](/images/github-icon.png)</strong></a>
