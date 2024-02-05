@@ -18,20 +18,20 @@ permalink: /cv/
 
 ## 🎓 Education
 
-- **Ph.D., Electrical and Computer Engineering [2019 - 2023]**\
-  - Ontario Tech University, Canada\
-  - Supervisor: Dr. Akramul Azim\
-  - Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software\
+- **Ph.D., Electrical and Computer Engineering [2019 - 2023]**
+  - Ontario Tech University, Canada
+  - Supervisor: Dr. Akramul Azim
+  - Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software
   - Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
 
 
-- **MASc., Electrical and Computer Engineering [2017 - 2019]**\
-  - Ontario Tech University, Canada\
-  - Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)\
+- **MASc., Electrical and Computer Engineering [2017 - 2019]**
+  - Ontario Tech University, Canada
+  - Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)
   - Research Area: Task Scheduling, Parallel Computing and Embedded Systems
 
-- **B.Sc., Computer Science and Engineering [2009 - 2013]**\
-  - Islamic University of Technology (IUT), Bangladesh\
+- **B.Sc., Computer Science and Engineering [2009 - 2013]**
+  - Islamic University of Technology (IUT), Bangladesh
   - Research Area: Cloud Computing
 
 ## 💼 Employment
