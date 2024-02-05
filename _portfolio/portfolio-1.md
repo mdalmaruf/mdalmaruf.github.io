@@ -3,8 +3,7 @@ title: "Aircraft Landing Behaviour Detection Application"
 excerpt: |
     The Aircraft Landing Behaviour Detection Application stands as a pivotal innovation in air traffic control technology, setting new standards for safety, efficiency, and data-driven decision-making in airport operations. This project brings forth a paradigm shift in managing aircraft landings and runway statuses by providing real-time, actionable insights. Leveraging advanced algorithms and state-of-the-art sensor technology, the application ensures a seamless interface for air traffic controllers, enhancing their ability to monitor, predict, and act upon dynamic flight patterns and runway conditions.
     
-    <br/> <center>
-<img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'></center>
+    <br/> <center><img src='/images/portfolio/AirlineTrajectory.png' alt='Airline Trajectory Detail' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/Predictedflight.png' alt='Airline Trajectory' style='width: 400px; display: inline-block; margin-right: 10px;'></center>
 
     <br/>
     <div>
