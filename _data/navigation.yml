@@ -1,6 +1,9 @@
 # main links links
 main:
     
+  - title: "Projects"
+    url: /portfolio/
+  
   - title: "Publications"
     url: /publications/
 
@@ -8,10 +11,7 @@ main:
     url: /education/    
 
   - title: "Experience"
-    url: /experience/
-    
-  - title: "Projects"
-    url: /portfolio/        
+    url: /experience/     
   
   - title: "Blog Posts"
     url: /year-archive/
