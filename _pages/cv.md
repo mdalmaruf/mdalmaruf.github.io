@@ -166,11 +166,11 @@ permalink: /cv/
 
 
 
-## Publications
+## 📚 Publications
 
 See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
 
-## 📚 Academic Courses
+## 📖 Academic Courses
 
 * **Completed Courses:**
   * Advance Topic in High Performance Computing (Machine Learning)
