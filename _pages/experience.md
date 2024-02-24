@@ -44,7 +44,7 @@ redirect_from:
 - <span style="color:black;">Database:</span> Microsoft Azure SQL
 
 ## <span style=" color:DarkBlue">💼 QA Consultants</span> ( North York, Canada)
-### <span style="padding-left: 10px; color:black">Research And Development Intern (July 2020 - Dec 2020)</span>
+### <span style="padding-left: 10px; color:black">Software Development Intern (July 2020 - Dec 2020)</span>
 - <span style="color:black;">Language:</span> C/C++/Python
 - <span style="color:black;">Framework:</span> OMNET++, Python QT5
 - <span style="color:black;">Database:</span> Sqlite3
