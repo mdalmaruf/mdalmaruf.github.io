@@ -7,6 +7,11 @@ redirect_from:
   - /publications/
 ---
 
+### [Optimizing DNN Training with Pipeline Model Parallelism for Enhanced Performance in Embedded Systems](#)
+**Md Al Maruf, Akramul Azim, Nitin Auluck, Mansi Sahi**   
+Elsevier Journal of Parallel and Distributed Computing (JPDC) (Impact Factor is 5.271)  
+April, 2024
+
 ### [Anomaly Detection and Functional Testing for Automotive CAN Communication](#)
 **Md Al Maruf and Akramul Azim**   
 Accepted In the IEEE 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
