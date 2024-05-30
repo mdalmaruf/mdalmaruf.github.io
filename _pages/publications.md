@@ -7,6 +7,11 @@ redirect_from:
   - /publications/
 ---
 
+### [FeaMod: Enhancing Modularity, Adaptability and Code Reuse in Embedded Software Development](#)
+**Md Al Maruf, Akramul Azim, Nitin Auluck, Mansi Sahi**   
+IEEE 25th International Conference on Information Reuse and Integration (IRI), San Jose, CA, USA
+August, 2024
+
 ### [Optimizing DNN Training with Pipeline Model Parallelism for Enhanced Performance in Embedded Systems](#)
 **Md Al Maruf, Akramul Azim, Nitin Auluck, Mansi Sahi**   
 Elsevier Journal of Parallel and Distributed Computing (JPDC) (Impact Factor is 5.271)  
