@@ -6,6 +6,10 @@ author_profile: true
 redirect_from: 
   - /experience
 ---
+## <span style=" color:DarkBlue">💼 IBM, Ontario Tech</span> (IBM Centre for Advanced Studies (CAS), Ontario, Canada)
+### <span style="padding-left: 10px; color:black">Research Associate (Sep 2023 - Present)</span>
+- <span style="color:black">Language:</span> Python, Java
+- <span style="color:black">Large Language Model:</span> LLaama2, GPT API
 
 ## <span style=" color:DarkBlue">💼 Ontario Tech University</span> (Oshawa, Canada)
 ### <span style="padding-left:10px; color:black">Sessional Lecturer (Jan 2024- Present)</span>
@@ -14,12 +18,7 @@ redirect_from:
     - INFR 2820U Algorithms and Data Structures
     - INFR 4599U Data Analytics
       
-## <span style=" color:DarkBlue">💼 IBM, Ontario Tech</span> (IBM Centre for Advanced Studies (CAS), Ontario, Canada)
-### <span style="padding-left: 10px; color:black">Research Associate (Sep 2023 - Present)</span>
-- <span style="color:black">Language:</span> Python, Java
-- <span style="color:black">Large Language Model:</span> LLaama2, GPT API
-
-### <span style="padding-left: 10px; color:black">Graduate Research Assistant (Sep 2017 - Nov 2023)</span>
+### <span style="padding-left: 10px; color:black">Graduate Research Assistant (Sep 2017 - Dec 2023)</span>
 - <span style="color:black">Research Topics:</span> 
     - Parallel Programming and Computation
     - Real-time Embedded Systems and Software Validation
@@ -29,7 +28,7 @@ redirect_from:
     - Kubernetes and Load Balancing
 
 
-### <span style="padding-left: 10px; color:black">Graduate Teaching Assistant (Sep 2017 - Present)</span>
+### <span style="padding-left: 10px; color:black">Graduate Teaching Assistant (Sep 2017 - Dec 2023)</span>
 - <span style="color:black; ">Course TA:</span>
     - Database Management Systems (SQL, Query Optimization)
     - Software Design and Architecture (Software Development)
