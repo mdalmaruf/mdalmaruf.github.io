@@ -6,6 +6,11 @@ author_profile: true
 redirect_from: 
   - /publications/
 ---
+### [ESOps - An Agile Pipeline for Next-Generation Embedded Systems Development](#)
+**Md Al Maruf and Akramul Azim**   
+ACM SIGBED International Conference on Embedded Software (EMSOFT), RALEIGH, NC, USA
+2024
+
 
 ### [FeaMod: Enhancing Modularity, Adaptability and Code Reuse in Embedded Software Development](#)
 **Md Al Maruf, Akramul Azim, Nitin Auluck, Mansi Sahi**   
@@ -19,14 +24,14 @@ April, 2024
 
 ### [Anomaly Detection and Functional Testing for Automotive CAN Communication](#)
 **Md Al Maruf and Akramul Azim**   
-Accepted In the IEEE 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
+IEEE 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
 2024
 
 
 
 ### [Towards Safe Online Machine Learning Model Training and Inference on Edge Networks](#)
 **Md Al Maruf, Akramul Azim, Nitin Auluck and Mansi Sahi**   
-Accepted In the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA   
+22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA   
 2023
 
 ### [Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices](#)
