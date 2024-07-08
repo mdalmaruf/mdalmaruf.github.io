@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### [ESOps - An Agile Pipeline for Next-Generation Embedded Systems Development](#)
 **Md Al Maruf and Akramul Azim**   
-ACM SIGBED International Conference on Embedded Software (EMSOFT), RALEIGH, NC, USA
+ACM SIGBED International Conference on Embedded Software (EMSOFT), RALEIGH, NC, USA [Accepted]
 2024
 
 
