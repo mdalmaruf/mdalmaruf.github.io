@@ -38,7 +38,7 @@ permalink: /cv/
 - **Ontario Tech University, Sessional Lecturer [2024 – Present]**
   - Teaching Course: Software Engineering Studio, Algorithms and Data Structures, Data Analytics 
 
-- **IBM, Research Associate [2023-2023]**
+- **IBM CAS, Research Associate [2023-2023]**
   - Project: Software Lock Contention and Fault Localization Recommender System
   - Working to integrate the Large Language Models to detect Lock Contention
     
