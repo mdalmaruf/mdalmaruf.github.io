@@ -22,6 +22,11 @@ August, 2024
 Elsevier Journal of Parallel and Distributed Computing (JPDC) (Impact Factor is 5.271)  
 April, 2024
 
+### [Dynamic hierarchical intrusion detection task offloading in IoT edge networks](#)
+**Mansi Sahi, Nitin Auluck, Akramul Azim, Md Al Maruf**   
+Journal of Software: Practice and Experience (Wiley Online Library)  
+April, 2024
+
 ### [Anomaly Detection and Functional Testing for Automotive CAN Communication](#)
 **Md Al Maruf and Akramul Azim**   
 IEEE 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
