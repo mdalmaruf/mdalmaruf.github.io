@@ -10,7 +10,7 @@ redirect_from:
 ## <span style=" color:DarkBlue">💼 Ontario Tech University</span> (Oshawa, Canada)
 ### <span style="padding-left:10px; color:black">Sessional Lecturer (Jan 2024- Present)</span>
 - <span style="color:black">Teaching:</span>
-    - ENGR 5590U Software Engineering Studio 
+    - ENGR 5590G Software Engineering Studio 
     - INFR 2820U Algorithms and Data Structures
     - INFR 4599U Data Analytics
       
