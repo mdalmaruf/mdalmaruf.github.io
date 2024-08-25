@@ -129,6 +129,7 @@ permalink: /cv/
             <li>Ruby on Rails</li>
             <li>PHP, Laravel</li>
             <li>SQL</li>
+            <li>SAS</li>
             <li>MATLAB & Simulink</li>
         </ul>
     </div>
@@ -140,6 +141,7 @@ permalink: /cv/
             <li>Visual Studio, Code Blocks</li>
 <!--             <li>Code Blocks</li> -->
             <li>Eclipse/NetBeans/IntelliJ</li>
+            <li>SAS Studio</li>
             <li>Ruby Mine, PhpStorm</li>
 <!--             <li>Ruby Mine</li> -->
             <li>Sci-kit Learn</li>
@@ -181,6 +183,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 
 ## 🏅Awards & Scholarships
 
+* Received the Best Paper Award at the IEEE 25th International Conference on Information Reuse and Integration for Data Science (IRI), San Jose, CA, USA, 2024
 * Received SIGBED Student Travel Grants for CPS-IoT Week, San Antonio, TX, USA, 2023
 * Awarded Ontario Graduate Scholarship (OGS), Ontario Tech University, 2022
 * Received MITACS Research Training (RTA) Award, Ontario Tech University, 2020
