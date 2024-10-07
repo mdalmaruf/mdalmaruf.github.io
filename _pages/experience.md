@@ -6,7 +6,12 @@ author_profile: true
 redirect_from: 
   - /experience
 ---
-
+## <span style=" color:DarkBlue">💼 Durham College</span> (Oshawa, Canada)
+### <span style="padding-left:10px; color:black">Full-time Teaching Professor (Aug 2024- Present)</span>
+- <span style="color:black">Teaching:</span>
+    - INFT 1207 Software Testing and Automation
+    - MGMT 1233 System Development
+      
 ## <span style=" color:DarkBlue">💼 Ontario Tech University</span> (Oshawa, Canada)
 ### <span style="padding-left:10px; color:black">Sessional Lecturer (Jan 2024- Present)</span>
 - <span style="color:black">Teaching:</span>
