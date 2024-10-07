@@ -35,6 +35,9 @@ permalink: /cv/
   - Research Area: Cloud Computing
 
 ## 💼 Employment
+- **Durham College, Teaching Professor [2024 – Present]**
+  - Teaching Course: Software Testing and Automation, System Development
+    
 - **Ontario Tech University, Sessional Lecturer [2024 – Present]**
   - Teaching Course: Software Engineering Studio, Algorithms and Data Structures, Data Analytics 
 
