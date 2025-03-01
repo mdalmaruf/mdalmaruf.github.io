@@ -6,6 +6,11 @@ author_profile: true
 redirect_from: 
   - /experience
 ---
+## <span style=" color:DarkBlue">💼 Algoma University</span> (Ontario, Canada)
+### <span style="padding-left:10px; color:black">Incoming Assistant Professor (May 2025)</span>
+
+    
+
 ## <span style=" color:DarkBlue">💼 Durham College</span> (Oshawa, Canada)
 ### <span style="padding-left:10px; color:black">Full-time Teaching Professor (Aug 2024- Present)</span>
 - <span style="color:black">Teaching:</span>
