@@ -35,8 +35,11 @@ permalink: /cv/
   - Research Area: Cloud Computing
 
 ## 💼 Employment
+- **Algoma University, Incoming Assistant Professor [May 2025]**
+  - Course: Algorithm and Data Structure, Deep Learning
+    
 - **Durham College, Teaching Professor [2024 – Present]**
-  - Teaching Course: Software Testing and Automation, System Development
+  - Teaching Course: Data Management(DAMA-DMBOK, SQL, Snowflake), Software Testing and Automation, System Development
     
 - **Ontario Tech University, Sessional Lecturer [2024 – Present]**
   - Teaching Course: Software Engineering Studio, Algorithms and Data Structures, Data Analytics 
