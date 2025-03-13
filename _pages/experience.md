@@ -7,7 +7,7 @@ redirect_from:
   - /experience
 ---
 ## <span style=" color:DarkBlue">💼 Algoma University</span> (Ontario, Canada)
-### <span style="padding-left:10px; color:black">Incoming Assistant Professor (May 2025)</span>
+### <span style="padding-left:10px; color:black">Incoming Assistant Professor (Tenure-Track) (May 2025)</span>
 
     
 
@@ -16,6 +16,7 @@ redirect_from:
 - <span style="color:black">Teaching:</span>
     - INFT 1207 Software Testing and Automation
     - MGMT 1233 System Development
+    - INFT 22000 Data Management
       
 ## <span style=" color:DarkBlue">💼 Ontario Tech University</span> (Oshawa, Canada)
 ### <span style="padding-left:10px; color:black">Sessional Lecturer (Jan 2024- Present)</span>
