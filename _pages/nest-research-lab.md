@@ -12,7 +12,7 @@ classes: wide
   <div>
     <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
     <p style="margin:0; font-size:1.05rem; opacity:.95;">Next-generation Embedded Systems Research Lab — Building intelligent, dependable, and efficient embedded software for AI-driven systems.</p>
-    <p style="margin:10px 0 0 0; font-size:.95rem; opacity:.9;">Lead: <strong>Md Nayeem</strong>, Assistant Professor (CSE, Algoma University)</p>
+    <p style="margin:10px 0 0 0; font-size:.95rem; opacity:.9;">Lead: <strong>Md Al Maruf/strong>, Assistant Professor (Department of Computer Science and Mathematics, Algoma University)</p>
   </div>
 </div>
 
