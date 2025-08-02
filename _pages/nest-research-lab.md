@@ -42,8 +42,8 @@ classes: wide
   <a class="btn btn--primary" href="#facilities">Facilities</a>
   <a class="btn btn--primary" href="#publications">Publications</a>
   <a class="btn btn--primary" href="#openings">Openings</a>
-<!--   <a class="btn btn--primary" href="#contact">Contact</a>
-</div> -->
+<!--   <a class="btn btn--primary" href="#contact">Contact</a>-->
+</div>
 
 ## Mission
 We aim to revolutionize **embedded and cyber-physical software** by integrating AI, advanced DevOps methodologies, and safety-critical engineering. Our work bridges theory and application in aerospace, automotive, energy, and robotics.
