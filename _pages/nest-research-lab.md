@@ -130,7 +130,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 
 ## <span id="openings"></span>Open Positions
 We are looking for MSc/MEng/Undergraduate students passionate about embedded systems, AI, and robotics.  
-To apply: Send CV, transcript, and interest statement to **demoname@algomau.ca**.
+To apply: Send CV, transcript, and interest statement to **#**.
 
 ---
 
