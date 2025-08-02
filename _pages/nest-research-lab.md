@@ -106,9 +106,9 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 
 ## <span id="partners"></span>Industry & Community Partners
 <div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
-  <img src="/images/portfolio/Industry1.jpg" alt="Partner 1" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry1.jpg" alt="Partner 2" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry1.jpg" alt="Partner 3" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry2.jpg" alt="Partner 1" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry2.jpg" alt="Partner 2" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry2.jpg" alt="Partner 3" style="height:54px; opacity:.9;">
 </div>
 
 ---
