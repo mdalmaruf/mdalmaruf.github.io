@@ -8,13 +8,30 @@ classes: wide
 
 <!-- HERO SECTION -->
 <div style="background:#0f172a; color:#fff; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Circuit_Board.jpg" alt="NEST Research Lab" style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(255,255,255,.15);">
+  <img src="/images/logo.png" alt="NEST Research Lab" style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(255,255,255,.15);">
   <div>
     <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
     <p style="margin:0; font-size:1.05rem; opacity:.95;">Next-generation Embedded Systems Research Lab — Building intelligent, dependable, and efficient embedded software for AI-driven systems.</p>
     <p style="margin:10px 0 0 0; font-size:.95rem; opacity:.9;">Lead: <strong>Md Al Maruf</strong>, Assistant Professor (Department of Computer Science and Mathematics, Algoma University)</p>
   </div>
 </div>
+
+<!-- HERO SECTION -->
+<div style="background:#F5F2EC; color:#0f172a; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px; border:1px solid rgba(0,0,0,.06)">
+  <img src="/images/logo.png"
+       alt="NEST Research Lab"
+       style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(0,0,0,.06);">
+  <div>
+    <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
+    <p style="margin:0; font-size:1.05rem; opacity:.95;">
+      Next-generation Embedded Systems Research Lab — Building intelligent, dependable, and efficient embedded software for AI-driven systems.
+    </p>
+    <p style="margin:10px 0 0 0; font-size:.95rem; opacity:.9;">
+      Lead: <strong>Md Al Maruf</strong>, Assistant Professor (Department of Computer Science and Mathematics, Algoma University)
+    </p>
+  </div>
+</div>
+
 
 <!-- QUICK LINKS -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; margin-bottom:24px;">
@@ -25,8 +42,8 @@ classes: wide
   <a class="btn btn--primary" href="#facilities">Facilities</a>
   <a class="btn btn--primary" href="#publications">Publications</a>
   <a class="btn btn--primary" href="#openings">Openings</a>
-  <a class="btn btn--primary" href="#contact">Contact</a>
-</div>
+<!--   <a class="btn btn--primary" href="#contact">Contact</a>
+</div> -->
 
 ## Mission
 We aim to revolutionize **embedded and cyber-physical software** by integrating AI, advanced DevOps methodologies, and safety-critical engineering. Our work bridges theory and application in aerospace, automotive, energy, and robotics.
