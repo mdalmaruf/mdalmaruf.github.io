@@ -87,7 +87,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 
 ## <span id="people"></span>People
 ### Principal Investigator
-- **Md Nayeem** — Assistant Professor, Algoma University  
+- **Md Al Maruf** — Assistant Professor, Algoma University  
   Interests: Embedded AI, dependable systems, software engineering.  
   Email: md.maruf@algomau.ca
 
@@ -127,11 +127,11 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 
 ## <span id="openings"></span>Open Positions
 We are looking for MSc/MEng/Undergraduate students passionate about embedded systems, AI, and robotics.  
-To apply: Send CV, transcript, and interest statement to **md.maruf@algomau.ca**.
+To apply: Send CV, transcript, and interest statement to **demoname@algomau.ca**.
 
 ---
 
 ## <span id="contact"></span>Contact
-- **Email:** md.maruf@algomau.ca  
+- **Email:** demoname@algomau.ca  
 - **Location:** Algoma University, Brampton Campus  
 - **GitHub:** [mdalmaruf](https://github.com/mdalmaruf)
