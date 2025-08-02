@@ -22,6 +22,10 @@ main:
   - title: "Gallery"
     url: /gallery/
 
+  - title: "NEST Research Lab"
+    url: /nest-research-lab/
+  
+
   # - title: "About Me"
   #   url: /about/
 
