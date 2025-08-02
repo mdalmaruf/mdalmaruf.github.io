@@ -95,12 +95,12 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
   Email: md.maruf@algomau.ca
 
 ### Graduate Students
-- **Mr X**, MSc — UAV anomaly detection.
-- ***Mr X**, MEng — Edge AI optimization for vision.
+- **Student 1**, MSc — UAV anomaly detection.
+- **Student 2**, MEng — Edge AI optimization for vision.
 
 ### Undergraduate Researchers
-- ***Mr X** — HIL testing for robotics.
-- ***Mr X** — Static analysis for embedded C/C++.
+- **Student 3** — HIL testing for robotics.
+- ***Student 4** — Static analysis for embedded C/C++.
 
 ---
 
