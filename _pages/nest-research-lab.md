@@ -92,7 +92,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 ### Principal Investigator
 - **Md Al Maruf** — Assistant Professor, Algoma University  
   Interests: Embedded AI, dependable systems, software engineering.  
-  Email: md.maruf@algomau.ca
+  Email: #
 
 ### Graduate Students
 - **Student 1**, MSc — UAV anomaly detection.
@@ -106,6 +106,9 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 
 ## <span id="partners"></span>Industry & Community Partners
 <div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
+  <img src="/images/portfolio/Industry2.png" alt="Partner 1" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry2.png" alt="Partner 2" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry2.png" alt="Partner 3" style="height:54px; opacity:.9;">
   <img src="/images/portfolio/Industry2.png" alt="Partner 1" style="height:54px; opacity:.9;">
   <img src="/images/portfolio/Industry2.png" alt="Partner 2" style="height:54px; opacity:.9;">
   <img src="/images/portfolio/Industry2.png" alt="Partner 3" style="height:54px; opacity:.9;">
