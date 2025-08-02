@@ -61,7 +61,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 ## <span id="projects"></span>Featured Projects
 <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:18px;">
   <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Drone_quadcopter.jpg" alt="UAV Autonomy" style="width:100%; height:160px; object-fit:cover;">
+    <img src="/images/portfolio/UAV1.jpg" alt="UAV Autonomy" style="width:100%; height:160px; object-fit:cover;">
     <div style="padding:14px;">
       <h3>UAV Autonomy & Health Monitoring</h3>
       <p>LLM-based feature extraction, UAV parameter mapping, and real-time fault detection.</p>
@@ -69,7 +69,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
     </div>
   </div>
   <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Smart_grid.jpg" alt="Smart Grid" style="width:100%; height:160px; object-fit:cover;">
+    <img src="/images/portfolio/IoT1.jpg" alt="Smart Grid" style="width:100%; height:160px; object-fit:cover;">
     <div style="padding:14px;">
       <h3>Intelligent Grid & BESS Integration</h3>
       <p>Embedded optimization for distribution systems, real-time analytics, and visualization.</p>
@@ -77,7 +77,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
     </div>
   </div>
   <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Microcontroller_board.jpg" alt="Embedded DevOps" style="width:100%; height:160px; object-fit:cover;">
+    <img src="/images/portfolio/DevOps1.jpg" alt="Embedded DevOps" style="width:100%; height:160px; object-fit:cover;">
     <div style="padding:14px;">
       <h3>ESO<small>ps</small>: AI-Driven DevOps for Embedded</h3>
       <p>Feature-model extraction and automated certification-ready deployment pipelines.</p>
@@ -106,9 +106,9 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
 
 ## <span id="partners"></span>Industry & Community Partners
 <div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/IEEE_logo.svg" alt="Partner 1" style="height:54px; opacity:.9;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Google_2015_logo.svg" alt="Partner 2" style="height:54px; opacity:.9;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Nvidia_logo.svg" alt="Partner 3" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry1.jpg" alt="Partner 1" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry1.jpg" alt="Partner 2" style="height:54px; opacity:.9;">
+  <img src="/images/portfolio/Industry1.jpg" alt="Partner 3" style="height:54px; opacity:.9;">
 </div>
 
 ---
