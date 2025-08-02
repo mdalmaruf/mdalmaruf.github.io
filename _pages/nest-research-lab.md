@@ -7,8 +7,8 @@ classes: wide
 ---
 
 <!-- HERO SECTION -->
-<div style="background:#0f172a; color:#fff; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px;">
-  <img src="/images/portfolio/logo-demo1.png" alt="NEST Research Lab" style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(255,255,255,.15);">
+<div style="background:#0f172a; color:#fff; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px;">
+  <img src="/images/portfolio/logo-demo1.png" alt="NEST Research Lab" style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:0px solid rgba(255,255,255,.15);">
   <div>
     <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
     <p style="margin:0; font-size:1.05rem; opacity:.95;">Next-generation Embedded Systems Research Lab — Building intelligent, dependable, and efficient embedded software for AI-driven systems.</p>
