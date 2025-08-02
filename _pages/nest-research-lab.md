@@ -65,7 +65,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
     <div style="padding:14px;">
       <h3>UAV Autonomy & Health Monitoring</h3>
       <p>LLM-based feature extraction, UAV parameter mapping, and real-time fault detection.</p>
-      <p><a href="https://github.com/">GitHub Link</a></p>
+      <p><a href="#">GitHub Link</a></p>
     </div>
   </div>
   <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
@@ -73,7 +73,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
     <div style="padding:14px;">
       <h3>Intelligent Grid & BESS Integration</h3>
       <p>Embedded optimization for distribution systems, real-time analytics, and visualization.</p>
-      <p><a href="https://github.com/">GitHub Link</a></p>
+      <p><a href="#">GitHub Link</a></p>
     </div>
   </div>
   <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
@@ -81,7 +81,7 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
     <div style="padding:14px;">
       <h3>ESO<small>ps</small>: AI-Driven DevOps for Embedded</h3>
       <p>Feature-model extraction and automated certification-ready deployment pipelines.</p>
-      <p><a href="https://github.com/">GitHub Link</a></p>
+      <p><a href="#">GitHub Link</a></p>
     </div>
   </div>
 </div>
