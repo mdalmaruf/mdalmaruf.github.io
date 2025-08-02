@@ -17,7 +17,7 @@ classes: wide
 </div>
 
 <!-- HERO SECTION -->
-<div style="background:#F5F2EC; color:#0f172a; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px; border:1px solid rgba(0,0,0,.06)">
+<div style="background:#F5F2EC; color:#f8f3eb; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px; border:1px solid rgba(0,0,0,.06)">
   <img src="/images/portfolio/logo-demo.png"
        alt="NEST Research Lab"
        style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(0,0,0,.06);">
