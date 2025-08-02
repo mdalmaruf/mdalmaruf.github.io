@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <!-- HERO SECTION -->
-<div style="background:#0f172a; color:#fff; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px;">
+<div style="background:#0f172a; color:#fff; border-radius:px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px;">
   <img src="/images/portfolio/logo-demo1.png" alt="NEST Research Lab" style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(255,255,255,.15);">
   <div>
     <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
@@ -16,21 +16,7 @@ classes: wide
   </div>
 </div>
 
-<!-- HERO SECTION -->
-<div style="background:#F5F2EC; color:#0f172a; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px; border:1px solid rgba(0,0,0,.06)">
-  <img src="/images/portfolio/logo-demo1.png"
-       alt="NEST Research Lab"
-       style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:2px solid rgba(0,0,0,.06);">
-  <div>
-    <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
-    <p style="margin:0; font-size:1.05rem; opacity:.95;">
-      Next-generation Embedded Systems Research Lab — Building intelligent, dependable, and efficient embedded software for AI-driven systems.
-    </p>
-<!--     <p style="margin:10px 0 0 0; font-size:.95rem; opacity:.9;">
-      Lead: <strong>Md Al Maruf</strong>, Assistant Professor (Department of Computer Science and Mathematics, Algoma University)
-    </p> -->
-  </div>
-</div>
+
 
 
 <!-- QUICK LINKS -->
@@ -109,12 +95,12 @@ We aim to revolutionize **embedded and cyber-physical software** by integrating 
   Email: md.maruf@algomau.ca
 
 ### Graduate Students
-- **Jane Doe**, MSc — UAV anomaly detection.
-- **John Smith**, MEng — Edge AI optimization for vision.
+- **Mr X**, MSc — UAV anomaly detection.
+- ***Mr X**, MEng — Edge AI optimization for vision.
 
 ### Undergraduate Researchers
-- **Alice Lee** — HIL testing for robotics.
-- **Mark Tan** — Static analysis for embedded C/C++.
+- ***Mr X** — HIL testing for robotics.
+- ***Mr X** — Static analysis for embedded C/C++.
 
 ---
 
@@ -148,7 +134,4 @@ To apply: Send CV, transcript, and interest statement to **demoname@algomau.ca**
 
 ---
 
-## <span id="contact"></span>Contact
-- **Email:** demoname@algomau.ca  
-- **Location:** Algoma University, Brampton Campus  
-- **GitHub:** [mdalmaruf](https://github.com/mdalmaruf)
+
