@@ -38,10 +38,10 @@ permalink: /cv/
 - **Algoma University, Assistant Professor (Tenure-Track) [May 2025]**
   - Course: Algorithm and Data Structure, Deep Learning
     
-- **Durham College, Teaching Professor [2024 – Present]**
+- **Durham College, Teaching Professor [2024 – 2025]**
   - Teaching Course: Data Management(DAMA-DMBOK, SQL, Snowflake, PowerBI), Software Testing and Automation, System Development
     
-- **Ontario Tech University, Sessional Lecturer [2024 – Present]**
+- **Ontario Tech University, Sessional Lecturer [2024 – 2024]**
   - Teaching Course: Software Engineering Studio, Algorithms and Data Structures, Data Analytics 
 
 - **IBM CAS, Research Associate [2023-2023]**
