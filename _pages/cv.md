@@ -35,7 +35,7 @@ permalink: /cv/
   - Research Area: Cloud Computing
 
 ## 💼 Employment
-- **Algoma University, Incoming Assistant Professor (Tenure-Track) [May 2025]**
+- **Algoma University, Assistant Professor (Tenure-Track) [May 2025]**
   - Course: Algorithm and Data Structure, Deep Learning
     
 - **Durham College, Teaching Professor [2024 – Present]**
