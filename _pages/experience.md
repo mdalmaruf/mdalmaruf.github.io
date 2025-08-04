@@ -7,7 +7,7 @@ redirect_from:
   - /experience
 ---
 ## <span style=" color:DarkBlue">💼 Algoma University</span> (Ontario, Canada)
-### <span style="padding-left:10px; color:black">Incoming Assistant Professor (Tenure-Track) (May 2025)</span>
+### <span style="padding-left:10px; color:black">Assistant Professor (Tenure-Track) (May 2025)</span>
 
     
 
