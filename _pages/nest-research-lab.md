@@ -6,135 +6,23 @@ author_profile: true
 classes: wide
 ---
 
-<!-- HERO SECTION -->
-<div style="background:#0f172a; color:#fff; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:28px;">
-  <img src="/images/portfolio/logo-demo1.png" alt="NEST Research Lab" style="width:160px; height:160px; object-fit:cover; border-radius:16px; border:0px solid rgba(255,255,255,.15);">
-  <div>
-    <h1 style="margin:0 0 6px 0;">NEST Research Lab</h1>
-    <p style="margin:0; font-size:1.05rem; opacity:.95;">Next-generation Embedded Systems Research Lab — Building intelligent, dependable, and efficient embedded software for AI-driven systems.</p>
-<!--     <p style="margin:10px 0 0 0; font-size:.95rem; opacity:.9;">Lead: <strong>Md Al Maruf</strong>, Assistant Professor (Department of Computer Science and Mathematics, Algoma University)</p> -->
-  </div>
+<div style="background:#0f2942; color:#fff; border-radius:16px; padding:32px; margin-bottom:28px;">
+  <h1 style="margin-top:0; color:#fff;">NEST Research Lab</h1>
+
+  <p style="font-size:1.08rem; line-height:1.7;">
+    The <strong>Next-generation Embedded Systems Research Lab</strong> develops
+    intelligent, dependable, and reusable software for embedded, autonomous,
+    and cyber-physical systems.
+  </p>
+
+  <p style="line-height:1.7;">
+    Our work spans embedded and edge AI, dependable software, autonomous
+    systems, smart-energy applications, and AI-assisted DevOps.
+  </p>
+
+  <a href="https://nestresearchlab.ca/"
+     class="btn btn--primary"
+     style="margin-top:8px;">
+    Visit the official NEST Research Lab website →
+  </a>
 </div>
-
-
-
-
-<!-- QUICK LINKS -->
-<div style="display:flex; flex-wrap:wrap; gap:12px; margin-bottom:24px;">
-  <a class="btn btn--primary" href="#focus">Research Focus</a>
-  <a class="btn btn--primary" href="#projects">Projects</a>
-  <a class="btn btn--primary" href="#people">People</a>
-  <a class="btn btn--primary" href="#partners">Industry Partners</a>
-  <a class="btn btn--primary" href="#facilities">Facilities</a>
-  <a class="btn btn--primary" href="#publications">Publications</a>
-  <a class="btn btn--primary" href="#openings">Openings</a>
-<!--   <a class="btn btn--primary" href="#contact">Contact</a>-->
-</div>
-
-## Mission
-We aim to revolutionize **embedded and cyber-physical software** by integrating AI, advanced DevOps methodologies, and safety-critical engineering. Our work bridges theory and application in aerospace, automotive, energy, and robotics.
-
----
-
-## <span id="focus"></span>Research Focus
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px;">
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:16px;">
-    <h3>Embedded AI at the Edge</h3>
-    <p>Optimizing ML models for microcontrollers, heterogeneous SoCs, and real-time systems.</p>
-  </div>
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:16px;">
-    <h3>Dependable Embedded Software</h3>
-    <p>Static/dynamic analysis, automated testing (HIL/SIL), and safety certification pipelines.</p>
-  </div>
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:16px;">
-    <h3>Autonomous Systems</h3>
-    <p>Perception, planning, and fault detection for UAVs, UGVs, and other robotics platforms.</p>
-  </div>
-  <div style="border:1px solid #e5e7eb; border-radius:14px; padding:16px;">
-    <h3>Smart Energy Systems</h3>
-    <p>Embedded optimization for grid resilience, battery energy storage, and IoT monitoring.</p>
-  </div>
-</div>
-
----
-
-## <span id="projects"></span>Featured Projects
-<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:18px;">
-  <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
-    <img src="/images/portfolio/UAV1.jpg" alt="UAV Autonomy" style="width:100%; height:160px; object-fit:cover;">
-    <div style="padding:14px;">
-      <h3>UAV Autonomy & Health Monitoring</h3>
-      <p>LLM-based feature extraction, UAV parameter mapping, and real-time fault detection.</p>
-      <p><a href="#">GitHub Link</a></p>
-    </div>
-  </div>
-  <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
-    <img src="/images/portfolio/IoT1.jpg" alt="Smart Grid" style="width:100%; height:160px; object-fit:cover;">
-    <div style="padding:14px;">
-      <h3>Intelligent Grid & BESS Integration</h3>
-      <p>Embedded optimization for distribution systems, real-time analytics, and visualization.</p>
-      <p><a href="#">GitHub Link</a></p>
-    </div>
-  </div>
-  <div style="border:1px solid #e5e7eb; border-radius:14px; overflow:hidden;">
-    <img src="/images/portfolio/DevOps1.jpg" alt="Embedded DevOps" style="width:100%; height:160px; object-fit:cover;">
-    <div style="padding:14px;">
-      <h3>ESO<small>ps</small>: AI-Driven DevOps for Embedded</h3>
-      <p>Feature-model extraction and automated certification-ready deployment pipelines.</p>
-      <p><a href="#">GitHub Link</a></p>
-    </div>
-  </div>
-</div>
-
----
-
-## <span id="people"></span>People
-### Principal Investigator
-- **Md Al Maruf** — Assistant Professor, Algoma University  
-  Interests: Embedded AI, dependable systems, software engineering.  
-  Email: #
-
-### Graduate Students
-- **Student 1**, MSc — UAV anomaly detection.
-- **Student 2**, MEng — Edge AI optimization for vision.
-
-### Undergraduate Researchers
-- **Student 3** — HIL testing for robotics.
-- ***Student 4** — Static analysis for embedded C/C++.
-
----
-
-## <span id="partners"></span>Industry & Community Partners
-<div style="display:flex; flex-wrap:wrap; gap:18px; align-items:center;">
-  <img src="/images/portfolio/Industry2.png" alt="Partner 1" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry2.png" alt="Partner 2" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry2.png" alt="Partner 3" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry2.png" alt="Partner 1" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry2.png" alt="Partner 2" style="height:54px; opacity:.9;">
-  <img src="/images/portfolio/Industry2.png" alt="Partner 3" style="height:54px; opacity:.9;">
-</div>
-
----
-
-## <span id="facilities"></span>Facilities
-- Embedded development kits (STM32, ESP32, Jetson, Raspberry Pi)
-- UAV testbeds with Gazebo/ROS
-- HIL/SIL test rigs
-- Smart grid emulation setup
-
----
-
-## <span id="publications"></span>Selected Publications
-- M Al Maruf, A Azim. "ESO_ps: An Agile Pipeline for Next-Gen Embedded Systems," ACM EMSOFT, 2024.  
-- M Al Maruf et al. "Optimizing DNN Training with Pipeline Model Parallelism," JPDC, 2024.  
-- [More publications →](/publications/)
-
----
-
-## <span id="openings"></span>Open Positions
-We are looking for MSc/MEng/Undergraduate students passionate about embedded systems, AI, and robotics.  
-To apply: Send CV, transcript, and interest statement to **#**.
-
----
-
-
