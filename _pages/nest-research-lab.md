@@ -1,5 +1,5 @@
 ---
-title: "NEST Research Lab"
+title: '<a href="https://nestresearchlab.ca/">NEST Research Lab</a>'
 permalink: /nest-research-lab/
 layout: single
 author_profile: true
