@@ -6,23 +6,55 @@ author_profile: true
 classes: wide
 ---
 
-<div style="background:#0f2942; color:#fff; border-radius:16px; padding:32px; margin-bottom:28px;">
-  <h1 style="margin-top:0; color:#fff;">NEST Research Lab</h1>
+<!-- Keep this hero section visible -->
+<div style="background:#0f172a; color:#fff; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:20px;">
 
-  <p style="font-size:1.08rem; line-height:1.7;">
-    The <strong>Next-generation Embedded Systems Research Lab</strong> develops
-    intelligent, dependable, and reusable software for embedded, autonomous,
-    and cyber-physical systems.
-  </p>
+  <a href="https://nestresearchlab.ca/" style="flex-shrink:0;">
+    <img
+      src="/images/portfolio/logo-demo1.png"
+      alt="NEST Research Lab"
+      style="width:130px; height:130px; object-fit:cover; border-radius:16px;"
+    >
+  </a>
 
-  <p style="line-height:1.7;">
-    Our work spans embedded and edge AI, dependable software, autonomous
-    systems, smart-energy applications, and AI-assisted DevOps.
-  </p>
+  <div>
+    <h1 style="margin:0 0 6px;">
+      <a
+        href="https://nestresearchlab.ca/"
+        style="color:#fff; text-decoration:none;"
+      >
+        NEST Research Lab
+      </a>
+    </h1>
 
-  <a href="https://nestresearchlab.ca/"
-     class="btn btn--primary"
-     style="margin-top:8px;">
+    <p style="margin:0; font-size:1.05rem; line-height:1.6; opacity:.95;">
+      Next-generation Embedded Systems Research Lab — Building intelligent,
+      dependable, and efficient embedded software for AI-driven systems.
+    </p>
+  </div>
+</div>
+
+<p style="margin:0 0 28px;">
+  <a
+    href="https://nestresearchlab.ca/"
+    class="btn btn--primary"
+  >
     Visit the official NEST Research Lab website →
   </a>
+</p>
+
+{% comment %}
+
+<!-- Keep all the remaining existing content here -->
+
+<!-- QUICK LINKS -->
+<div>
+  ...
 </div>
+
+## Mission
+...
+
+<!-- Continue with all the old sections -->
+
+{% endcomment %}
