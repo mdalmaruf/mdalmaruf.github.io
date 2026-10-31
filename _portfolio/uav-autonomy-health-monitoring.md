@@ -4,16 +4,16 @@ collection: portfolio
 project_group: current
 order: 1
 excerpt: |
-  An active NEST Research Lab project investigating LLM-assisted parameter mapping, real-time fault detection, and safety-aware deployment for unmanned aerial platforms.
+  An active research project investigating LLM-assisted parameter mapping, real-time fault detection, and safety-aware deployment for unmanned aerial platforms.
 
-  <figure class='project-media'><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'><figcaption>Connected autonomy and health-monitoring concept</figcaption></figure>
+  <figure class='project-media'><img src='/images/portfolio/IoT1-dark.png' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'><figcaption>Connected autonomy and health-monitoring concept</figcaption></figure>
 ---
 
 ## Overview
 
 This active research direction studies dependable software pipelines for unmanned aerial systems. The work brings together autonomous systems, edge AI, fault detection, and cyber-physical testbeds.
 
-<figure class='project-media'><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'><figcaption>Connected autonomy and health-monitoring concept</figcaption></figure>
+<figure class='project-media'><img src='/images/portfolio/IoT1-dark.png' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'><figcaption>Connected autonomy and health-monitoring concept</figcaption></figure>
 
 ## Research themes
 
@@ -22,4 +22,4 @@ This active research direction studies dependable software pipelines for unmanne
 - Edge-based perception and decision support
 - Safety-aware software deployment and evaluation
 
-The project is under active development. See the [NEST Research Lab project page](https://nestresearchlab.ca/projects) for the latest lab-level description.
+The project is under active development.

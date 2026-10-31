@@ -12,7 +12,7 @@ redirect_from:
 About Me
 ------
 
-I am Md Al Maruf, an Assistant Professor of Computer Science and Mathematics at Algoma University. I received my PhD and MASc in Electrical and Computer Engineering from Ontario Tech University. I lead the [Next-generation Embedded Systems Research Lab (NEST)](https://nestresearchlab.ca/), where I work with students and collaborators on dependable software for intelligent physical systems.
+I am Md Al Maruf, an Assistant Professor of Computer Science and Mathematics at Algoma University. I received my PhD and MASc in Electrical and Computer Engineering from Ontario Tech University. My work focuses on dependable software for intelligent physical systems.
 
 Research Interests
 ------
@@ -37,4 +37,4 @@ My teaching interests include algorithms and data structures, deep learning, sof
 Let's Connect
 ------
 
-I am open to academic and industry collaboration in embedded intelligence and dependable software systems. You can reach me at [md.maruf@algomau.ca](mailto:md.maruf@algomau.ca) or connect through the professional links in the profile sidebar.
+I am open to academic and industry collaboration in embedded intelligence and dependable software systems. Please connect through the professional links in the profile sidebar.

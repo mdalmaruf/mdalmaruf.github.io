@@ -22,4 +22,4 @@ ESOps investigates an AI-assisted delivery pipeline for embedded systems. The go
 - Hardware-aware delivery pipelines
 - Safety and certification evidence across software changes
 
-The project is under active development. See the [NEST Research Lab project page](https://nestresearchlab.ca/projects) for the latest lab-level description.
+The project is under active development.

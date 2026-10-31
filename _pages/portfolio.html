@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Current NEST Research Projects</h2>
+<h2>Current Research Projects</h2>
 
-<p>The following active projects connect embedded software, intelligent systems, and physical testbeds. Additional details are available from the <a href="https://nestresearchlab.ca/projects">NEST Research Lab</a>.</p>
+<p>The following active projects connect embedded software, intelligent systems, and physical testbeds.</p>
 
 {% assign current_projects = site.portfolio | where: "project_group", "current" | sort: "order" %}
 {% for post in current_projects %}

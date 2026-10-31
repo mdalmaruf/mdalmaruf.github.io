@@ -36,7 +36,6 @@ permalink: /cv/
 
 ## 💼 Employment
 - **Algoma University, Assistant Professor (Tenure-Track), Computer Science and Mathematics [May 2025 - Present]**
-  - Principal Investigator, [NEST Research Lab](https://nestresearchlab.ca/)
   - Teaching: Algorithms and Data Structures, Deep Learning
     
 - **Durham College, Teaching Professor [2024 – 2025]**
@@ -215,7 +214,6 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 
 
 ## 📞 Contact
-Email: [md.maruf@algomau.ca](mailto:md.maruf@algomau.ca)
 
 
 

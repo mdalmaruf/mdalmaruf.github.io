@@ -26,4 +26,4 @@ Embedded systems often remain in service for years. Their software must be under
 
 For embedded AI, progress is more than a higher score on one dataset. It is a clear account of constraints, an implementable method, evidence gathered on a representative system, and a practical path from prototype to sustained use.
 
-Related work is available through my [publication list](/publications/) and the [NEST Research Lab](https://nestresearchlab.ca/).
+Related work is available through my [publication list](/publications/) and [project portfolio](/portfolio/).
