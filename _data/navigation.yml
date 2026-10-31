@@ -1,6 +1,5 @@
 # main links links
 main:
-    
   - title: "Projects"
     url: /portfolio/
   
@@ -13,16 +12,13 @@ main:
   - title: "Experience"
     url: /experience/     
   
-  - title: "Blog Posts"
+  - title: "Writing"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Gallery"
-    url: /gallery/
-
-  - title: "NEST Research Lab"
+  - title: "NEST Lab"
     url: /nest-research-lab/
   
 

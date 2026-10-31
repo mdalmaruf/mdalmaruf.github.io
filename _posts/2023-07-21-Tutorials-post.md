@@ -1,6 +1,7 @@
 ---
 title: 'Important Tutorial Links'
 date: 2023-07-21
+published: false
 permalink: /posts/2023/0/Tutorials-post/
 tags:
   - Machine Leaning Projects 

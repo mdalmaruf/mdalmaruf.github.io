@@ -1,270 +1,95 @@
 ---
 layout: archive
-title: "Md Al Maruf"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+## Current appointment
 
+**Assistant Professor (Tenure-Track), Computer Science and Mathematics**
 
-<!-- ---
-layout: page
-title: "Curriculum Vitae"
-permalink: /cv/
---- -->
+Algoma University · May 2025–present
 
-## 🎓 Education
+Principal Investigator, [Next-generation Embedded Systems Research Lab (NEST)](https://nestresearchlab.ca/)
 
-- **Ph.D., Electrical and Computer Engineering [2019 - 2023]**
-  - Ontario Tech University, Canada
-  - Supervisor: Dr. Akramul Azim
-  - Dissertation: Design and Development of Reusable Feature-based Next-Generation Embedded Software
-  - Research Area: Embedded Software, Fog/Edge Distributed Computing, Machine Learning
+## Education
 
+**PhD, Electrical and Computer Engineering**, Ontario Tech University, 2023
 
-- **MASc., Electrical and Computer Engineering [2017 - 2019]**
-  - Ontario Tech University, Canada
-  - Thesis: Design automation & QoS requirements preservation for multiprocessor embedded systems [🔗](https://ir.library.ontariotechu.ca/handle/10155/1064)
-  - Research Area: Task Scheduling, Parallel Computing and Embedded Systems
+Dissertation: *Design and Development of Reusable Feature-based Next-Generation Embedded Software*
 
-- **B.Sc., Computer Science and Engineering [2009 - 2013]**
-  - Islamic University of Technology (IUT), Bangladesh
-  - Research Area: Cloud Computing
+Supervisor: Dr. Akramul Azim
 
-## 💼 Employment
-- **Algoma University, Assistant Professor (Tenure-Track) [May 2025]**
-  - Course: Algorithm and Data Structure, Deep Learning
-    
-- **Durham College, Teaching Professor [2024 – 2025]**
-  - Teaching Course: Data Management(DAMA-DMBOK, SQL, Snowflake, PowerBI), Software Testing and Automation, System Development
-    
-- **Ontario Tech University, Sessional Lecturer [2024 – 2024]**
-  - Teaching Course: Software Engineering Studio, Algorithms and Data Structures, Data Analytics 
+**MASc, Electrical and Computer Engineering**, Ontario Tech University, 2019
 
-- **IBM CAS, Research Associate [2023-2023]**
-  - Project: Software Lock Contention and Fault Localization Recommender System
-  - Working to integrate the Large Language Models to detect Lock Contention
-    
-- **Ontario Tech University, Teaching & Research Assistant [2017 – 2023]**
-  - Member of [RTEMSOFT](https://rtemsoft.com/) Research Lab
-  - Engaged in different research areas including accelerating ML model training, Task Scheduling and Embedded Software Development
-  - Contributed to the HIL Test Bench using CARLA simulator
-  - Served as a Course TA for Embedded Systems, Software Quality, OOP, Software Design & Arch
-  - Designed and Conducted Labs for Database Management Systems (MySQL, NBA API, Flask)
+Thesis: [*Design Automation and QoS Requirements Preservation for Multiprocessor Embedded Systems*](https://ir.library.ontariotechu.ca/handle/10155/1064)
 
-- **Mobile Innovations Corporations, Software Development Intern [2021 – 2021]**
-  - EPNB Application Development (Microsoft Azure and ASP.NET (C#))
-  - Developed Fillable Templates and Forms Design Application using JavaScript
+**BSc, Computer Science and Engineering**, Islamic University of Technology, 2013
 
-- **QA Consultants, Software Development Intern [2020 – 2020]**
-  - Analyzed Controlled Area Network (CAN) using OMNET++, Python QT5, Sqlite3
+## Academic and research experience
 
-- **Daffodil International University, Lecturer [2015 – 2017]**
-  - Taught Courses (Data Structure, Programming C/C++ & Java, Simulation and modeling)
+- **Teaching Professor**, Durham College, 2024–2025
+- **Sessional Lecturer**, Ontario Tech University, 2024
+- **Research Associate**, IBM Centre for Advanced Studies at Ontario Tech University, 2023
+- **Graduate Research and Teaching Assistant**, Ontario Tech University, 2017–2023
+- **Lecturer**, Daffodil International University, 2015–2017
 
-- **Nascenia IT, Junior Software Engineer [2014 – 2015]**
-  - Worked in developing a Travel Management Platform named [WellTravel](https://www.welltravel.com/) using Ruby on Rails
-  - Technologies: Ruby on Rails 4.1, PostgreSQL, Sidekiq, Apache Server, Semaphore, SoapUI
-  - Worked in project [SimpleSignUp](https://simpleeventsignup.com/) an Event Management SaaS (Ruby on Rails, MySQL)
-  - Worked in creating APIs for Blood Donor Management System (PHP, Laravel)
-  - Worked in developing [viigii](https://dribbble.com/tags/viigii) - A Virtual Gifting System for eCommerce Platform (Ruby on Rails)
+Earlier industry experience includes software engineering roles and internships at Nascenia IT, Mobile Innovations Corporation, and QA Consultants.
 
-## 🔬 Research & Development Projects
+## Research areas
 
-* **A Feature and Requirement Extraction Tool for Improving Embedded Software Reuse** [🔗](https://github.com/mdalmaruf/Feature-and-Requirements-Extraction.git)
-  - Extracted features and requirements of embedded systems from GitHub repositories.
-  - Utilized NLP techniques: BERT (CodeBERT), TF-IDF, Topic Modeling.
+- Embedded and cyber-physical systems
+- Edge AI, model partitioning, and parallel computing
+- Autonomous systems and hardware-in-the-loop testing
+- Embedded software reuse, feature modeling, and DevOps
+- Dependability, anomaly detection, and safety-critical software
+- Edge/fog computing and over-the-air software updates
 
-* **A Framework for Over-the-Air (OTA) Software Update** [🔗](https://github.com/mdalmaruf/OTA-Update.git)
-  - Integrated Uptane framework within Fog Computing for faster and secure updates.
-  - Leveraged Transfer Learning for communication latency analysis.
+## Selected research and development
 
-* **Real-Time Aircraft Landing Detection Application** [🔗](https://github.com/mdalmaruf/AircraftLandingDetection.git)
-  - Real-time anomaly detection for safer aircraft landings.
-  - Preprocessed ping station (YOW Airport Runway) raw data of aircraft landing events.
-  - Developed online ML model training web application using PHP-ML.
-  - Implemented using Laravel, PHP, JavaScript, Python and backed by MySQL.
+**FeaMod — feature and requirement extraction for embedded software**
 
-* **A Machine Learning Model Parallelism Tool**
-  - Boost machine learning computation through model parallelism.
-  - Employed algorithms: CNN, AlexNet, SVM, RF.
-  - Utilized TensorFlow, CUDA and OpenMP for parallel computation. [🔗](https://github.com/mdalmaruf/ParallelComputingOpenMP.git)
-  - Tasks Scheduling using EDF and RM.
+AI-assisted analysis of embedded source code for feature discovery, requirement extraction, and improved software reuse. [Repository](https://github.com/mdalmaruf/Feature-and-Requirements-Extraction)
 
-* **Anomaly Detection Tool**
-  - Analyzed Automotive Communication Bus (LIN, CAN, FlexRay).
-  - Developed an Anomaly Detection framework for Automotive CAN bus networks.
+**Fog-based vehicular OTA software updates**
 
-* **A Mushroom Supply and Demand Prediction Application** [🔗](https://mushroom.rtemsoft.com/)
-  - Developed a dashboard for Greenwood farm Management using Laravel and MySQL.
-  - The application handles different sales orders and real-time data monitoring.
-  - Predicted future demand based on historical sales data using Neural Networks.
+Resource allocation and transfer-learning methods for faster, scalable updates in connected vehicles. [Repository](https://github.com/mdalmaruf/OTA-Update)
 
-* **WellTravel: A Flight Schedule Provider and Online Booking System** [🔗](https://www.welltravel.com/)
-  - Contributed developing a flight Schedule Provider which consumes APIs from different GDS flight provider.
-  - Integrated GDS flight APIs for flight schedules, rental car bookings, and hotel reservations.
-  - Language: Ruby on Rails, HTML CSS, Bootstrap; Database: PostgreSQL; API: SOAP, REST.
+**Pipeline model parallelism for embedded AI**
 
-* **MITACS Research Project**
-  - A Machine Learning-based Test Case Prioritization for Embedded Applications.
-  - Continuous Integration/Continuous Delivery (CI/CD) using Jenkins.
+Methods for partitioning and scheduling machine-learning workloads across constrained and heterogeneous computing platforms. [Repository](https://github.com/mdalmaruf/ParallelComputingOpenMP)
 
-* **Finding Medical Experts on Twitter** [🔗](https://github.com/mdalmaruf/Data-mining-Finding-Medical-Experts-in-Twitter)
-  - Utilized Twitter's API for data extraction, processing over 10,000 tweets daily.
-  - Employed NLP techniques to filter and categorize tweets, achieving a classification accuracy of 92%.
-  - Tools and technologies used: Python, Scikit-Learn, Pandas, Tweepy, and Flask.
+**Automotive communication testing**
 
-* **Plant Leaf Classification using Convolutional Neural Network** [🔗](https://github.com/mdalmaruf/Plant-Leaf-Classification-using-Convolutional-Neural-Network)
-  - Classify Plant Leaf Images across 99 species using CNN.
-  - Used a Kaggle Dataset comprising 1,584 images for training and validation.
-  - Initiated with a Keras Sequential CNN model, achieving 97% training accuracy.
+Anomaly detection and functional testing methods for CAN and related in-vehicle communication networks.
 
- 
-## ⚙️ Development Skills
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <h3>Programming Languages:</h3>
-        <ul>
-            <li>C/C++</li>
-            <li>Python</li>
-            <li>Java</li>
-            <li>JavaScript</li>
-            <li>Ruby on Rails</li>
-            <li>PHP, Laravel</li>
-            <li>SQL</li>
-            <li>SAS</li>
-            <li>MATLAB & Simulink</li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <h3>Tools & Libraries:</h3>
-        <ul>
-            <li>OpenMP</li>
-            <li>Semaphore CI/CD</li>
-            <li>Visual Studio, Code Blocks</li>
-<!--             <li>Code Blocks</li> -->
-            <li>Eclipse/NetBeans/IntelliJ</li>
-            <li>SAS Studio</li>
-            <li>Ruby Mine, PhpStorm</li>
-<!--             <li>Ruby Mine</li> -->
-            <li>Sci-kit Learn</li>
-            <li>TensorFlow, PyTorch, MXNet</li>
-<!--             <li>PyTorch</li>
-            <li>MXNet</li>
-            <li>Keras</li> -->
-            <li>STM32CubeIDE</li>
-        </ul>
-    </div>
-    <div style="flex: 1;">
-        <h3>Platforms:</h3>
-        <ul>
-            <li>Linux/Ubuntu/FreeRTOS</li>
-            <li>Raspberry PI 3</li>
-            <li>STM32 NUCLEO-F401RE</li>
-            <li>Microsoft Azure</li>
-            <li>AWS</li>
-            <li>Kubernetes</li>
-            <li>Docker (containerization)</li>
-        </ul>
-    </div>
-</div>
+## Technical profile
 
+- **Programming:** C/C++, Python, Java, SQL, JavaScript, MATLAB/Simulink
+- **Machine learning and computing:** PyTorch, TensorFlow, scikit-learn, OpenMP, CUDA, model parallelism
+- **Embedded and systems:** Linux, FreeRTOS, STM32, Raspberry Pi, CAN, QEMU, hardware-in-the-loop testing
+- **Cloud and delivery:** Docker, Kubernetes, Microsoft Azure, AWS, CI/CD
 
+Skills are presented by area of practice rather than subjective proficiency ratings.
 
-## 📚 Publications
+## Selected awards
 
-See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
+- Best Paper Award, IEEE IRI, 2024
+- SIGBED Student Travel Grant, CPS-IoT Week, 2023
+- Ontario Graduate Scholarship, 2022
+- Mitacs Research Training Award, 2020
+- Queen Elizabeth II Diamond Jubilee Scholarship, 2017
 
-## 📖 Academic Courses
+## Publications and professional links
 
-* **Completed Courses:**
-  * Advance Topic in High Performance Computing (Machine Learning)
-  * Real-Time Data Analytics IoT
-  * Embedded Real-Time Control Systems
-  * Advance Optimization
-  * Intelligent Control Systems
+- [Publication list](/publications/)
+- [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en)
+- [GitHub](https://github.com/mdalmaruf)
+- [LinkedIn](https://www.linkedin.com/in/almaruf09/)
 
-## 🏅Awards & Scholarships
+## Contact
 
-* Received the Best Paper Award at the IEEE 25th International Conference on Information Reuse and Integration for Data Science (IRI), San Jose, CA, USA, 2024
-* Received SIGBED Student Travel Grants for CPS-IoT Week, San Antonio, TX, USA, 2023
-* Awarded Ontario Graduate Scholarship (OGS), Ontario Tech University, 2022
-* Received MITACS Research Training (RTA) Award, Ontario Tech University, 2020
-* Awarded Graduate International Tuition Scholarship (GITS), Ontario Tech University, 2019
-* Awarded FEAS Graduate Scholarship for Excellence Performance in Academic Year 2018-2019
-* Awarded the Queen Elizabeth II Diamond Jubilee Scholarship (QES) 2017
-* Received Dean Graduate Scholarship at Ontario Tech University 2017
-* Received OIC Scholarship for Undergraduate Study at IUT in 2009
-* Recipient of the Rajshahi Education Board HSC Scholarship (General 1st) in 2009
-* Recipient of the Rajshahi Education Board SSC Scholarship in 2007
-* Recipient of Government Scholarship (Talent Pool) at class Eight in 2005 
-
-## 🎨 Extra-Curricular Activities
-* Attended FEAS Research Day at Ontario Tech University and Presented RTEMSOFT Lab Research, 2023
-* Contributed as a Volunteer at ICCPS Conference, Texas, USA, 2023 
-* Presented Conference Paper at International Conference on Cyber-Physical Systems (ICCPS), Texas, 2023
-* Volunteer at CPS IoT Week Conference (ICCPS), San Antonio, Texas, USA, 2023
-* Presented poster titled ”A monitoring framework for a secure OTA software update in automobiles”, ACE Building, Ontario Tech University, 2019
-* Contributed as a Volunteer at SGIoT 2018 Conference, Niagara Falls, Canada
-* Presented Conference Paper at 44th IEEE Industrial Electronics Society – (IECON), Washington DC, 2018
-* Organizing Committee Member of “AB Bank IUT ICT Fest 2013” in IUT
-
-
-## 📞 Contact
-Email: #
-
-
-
-
-<!-- Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
- -->
+[md.maruf@algomau.ca](mailto:md.maruf@algomau.ca)

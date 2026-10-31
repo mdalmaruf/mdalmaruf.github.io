@@ -1,17 +1,20 @@
 ---
 layout: archive
-title: "Projects Overview"
+title: "Selected Projects"
 permalink: /portfolio/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /portfolio
   - /portfolio.html
 ---
 
-{% include base_path %}
+These projects show a consistent research path: model the system constraints, build a working prototype, and evaluate it with realistic data or hardware.
 
+<div class="project-grid project-grid--archive">
+  <a class="project-card" href="/portfolio/portfolio-3/"><span class="project-card__status">Software reuse · Best Paper</span><h2>FeaMod</h2><p>AI-assisted feature and requirement extraction for modular, adaptable embedded software.</p><span class="project-card__link">Read project details →</span></a>
+  <a class="project-card" href="/portfolio/portfolio-2/"><span class="project-card__status">Connected vehicles · Edge computing</span><h2>Fog-Based Vehicular OTA Updates</h2><p>Machine-learning-guided resource allocation for faster and more scalable software updates.</p><span class="project-card__link">Read project details →</span></a>
+  <a class="project-card" href="/portfolio/portfolio-4/"><span class="project-card__status">Parallel computing · Embedded AI</span><h2>Pipeline Model Parallelism</h2><p>Partitioning and scheduling methods that accelerate model training across heterogeneous resources.</p><span class="project-card__link">Read project details →</span></a>
+  <a class="project-card" href="/portfolio/portfolio-1/"><span class="project-card__status">Applied machine learning</span><h2>Aircraft Landing Behaviour Detection</h2><p>Data-driven monitoring and trajectory analysis for aircraft landing events.</p><span class="project-card__link">Read project details →</span></a>
+</div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+For current NEST projects—including UAV autonomy, intelligent grid systems, and ESOps—visit the [NEST project portfolio](https://nestresearchlab.ca/projects).
