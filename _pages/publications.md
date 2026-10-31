@@ -1,11 +1,28 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications
+permalink: /publications/
 author_profile: true
 redirect_from: 
-  - /publications/
+  - /publications
+  - /publications.
 ---
+For citation exports and the latest indexing, see [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en).
+
+### Constraint-Aware Exploitability Analysis and Anomaly Recovery for CPS CI/CD Pipelines
+**Gustavo Camargo and Md Al Maruf**
+
+IEEE International Conference on Machine Learning and Applications (ICMLA), accepted
+
+2026
+
+### Data Driven Deep Neural Network Based Task Offloading on Edge Cloud Continuum
+**Mansi Sahi, Nitin Auluck, Akramul Azim, P. Bhardwaj, and Md Al Maruf**
+
+IEEE Transactions on Network and Service Management
+
+2025
+
 ### [ESOps - An Agile Pipeline for Next-Generation Embedded Systems Development](#)
 **Md Al Maruf and Akramul Azim**   
 ACM SIGBED International Conference on Embedded Software (EMSOFT), RALEIGH, NC, USA [Accepted]

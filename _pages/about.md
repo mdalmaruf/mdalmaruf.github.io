@@ -1,53 +1,38 @@
 ---
 permalink: /
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
 ---
-<meta name="google-site-verification" content="5ElNfrTQKf40uwoq6ShseFu28oKZ7Rb5YuxIgEJrIEo" />
-<p style="font-size:18px; color:#123456;">“The worldly life is nothing but an illusionary enjoyment.” - Quran 3:185</p>
 
-<!-- ##### “The worldly life is nothing but an illusionary enjoyment.”-Quran 3:185 -->
+<meta name="google-site-verification" content="5ElNfrTQKf40uwoq6ShseFu28oKZ7Rb5YuxIgEJrIEo">
 
 About Me
 ------
 
-<p style="text-align:justify">
-Hi! I'm Md Al Maruf. I completed my PhD in Electrical and Computer Engineering from Ontario Tech University. My research areas are diverse and forward-thinking, encompassing Embedded Systems Software, Machine Learning, Parallel Computing, Safety-Crtical Systems, Cyber-Physical Systems, Cloud/Fog Computing and Over-the-Air (OTA) Software Update.
-</p>
+I am Md Al Maruf, an Assistant Professor of Computer Science and Mathematics at Algoma University. I received my PhD and MASc in Electrical and Computer Engineering from Ontario Tech University. I lead the [Next-generation Embedded Systems Research Lab (NEST)](https://nestresearchlab.ca/), where I work with students and collaborators on dependable software for intelligent physical systems.
 
-
-Research Interest and Projects
+Research Interests
 ------
 
-<p style="text-align:justify">
-Throughout my academic journey, I've been fascinated by the intersection of software development and advanced technologies. My PhD research has allowed me to delve deep into feature and requirement extraction for software reuse, the implementation of fog computing in over-the-air updates, and the use of model parallelism in machine learning for computational acceleration. I've had the opportunity to work on exciting real-world case studies and have published my findings in leading journals and conferences.
-</p>
-  
-Skills and Experiences
+My research spans embedded and cyber-physical systems, edge artificial intelligence, autonomous systems, parallel computing, software reuse, and safety-critical software. A recurring goal in my work is to connect algorithmic advances with measurable system constraints such as timing, reliability, energy use, communication delay, and maintainability.
+
+Selected Research and Projects
 ------
 
-<p style="text-align:justify">
-With a strong background in both software development and data science, I've honed my skills in various programming languages including Python, C/C++, SQL, and Java, and have substantial experience with data analysis tools and libraries such as OpenMP, Visual Studio, Code Blocks, Eclipse/NetBeans, PhpStorm, Ruby Mine, Pycharm, Sci-kit Learn, Keras and TensorFlow. My ability to handle large datasets, perform intricate analysis, and develop efficient software solutions has been crucial to my research and professional development.
-</p>
+- **Embedded AI and model parallelism:** resource-aware training, partitioning, scheduling, and inference across edge and heterogeneous platforms.
+- **Software reuse and embedded DevOps:** feature and requirement discovery for reusable embedded software, including the award-winning FeaMod work and the ESOps research direction.
+- **Autonomous and dependable systems:** anomaly detection, hardware-in-the-loop testing, and health monitoring for automotive and unmanned aerial systems.
+- **Edge and fog computing:** scalable resource allocation for over-the-air software updates and distributed intelligent applications.
 
-Contributions to the Fields
+Please visit the [Projects](/portfolio/) and [Publications](/publications/) pages for selected implementations and peer-reviewed work.
+
+Teaching and Mentorship
 ------
 
-<p style="text-align:justify">
-Beyond my academic pursuits, I strive to contribute to the larger tech community. I've made significant contributions to open source projects on GitHub and actively participate in tech forums and discussions. I'm also passionate about sharing my knowledge and experience with others, which led me to mentor up-and-coming students in the field of software development and data science. 
-</p>
-
-Looking Forward
-------
-
-<p style="text-align:justify">
-I am excited about the opportunity to apply my skills and knowledge in a professional capacity. I'm interested in roles that will allow me to blend my software development and data science skills, especially those that can benefit from my expertise in embedded systems and machine learning.
-</p>
+My teaching interests include algorithms and data structures, deep learning, software engineering, data management, and software testing. I welcome inquiries from motivated students interested in embedded systems, edge AI, autonomous systems, and applied software research.
 
 Let's Connect
 ------
 
-<p style="text-align:justify">
-I love connecting with other professionals in the field, so feel free to reach out if you'd like to discuss my research, potential collaborations, or job opportunities. You can also follow me on LinkedIn and Twitter for updates on my latest projects and research. Thank you for taking the time to learn about me and my work. I look forward to the possibility of working together in the future.
-</p>
+I am open to academic and industry collaboration in embedded intelligence and dependable software systems. You can reach me at [md.maruf@algomau.ca](mailto:md.maruf@algomau.ca) or connect through the professional links in the profile sidebar.

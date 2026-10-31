@@ -35,8 +35,9 @@ permalink: /cv/
   - Research Area: Cloud Computing
 
 ## 💼 Employment
-- **Algoma University, Assistant Professor (Tenure-Track) [May 2025]**
-  - Course: Algorithm and Data Structure, Deep Learning
+- **Algoma University, Assistant Professor (Tenure-Track), Computer Science and Mathematics [May 2025 - Present]**
+  - Principal Investigator, [NEST Research Lab](https://nestresearchlab.ca/)
+  - Teaching: Algorithms and Data Structures, Deep Learning
     
 - **Durham College, Teaching Professor [2024 – 2025]**
   - Teaching Course: Data Management(DAMA-DMBOK, SQL, Snowflake, PowerBI), Software Testing and Automation, System Development
@@ -214,7 +215,7 @@ See my work on [Google Scholar](https://scholar.google.com/citations?user=RbU1B7
 
 
 ## 📞 Contact
-Email: #
+Email: [md.maruf@algomau.ca](mailto:md.maruf@algomau.ca)
 
 
 
