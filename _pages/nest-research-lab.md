@@ -6,31 +6,55 @@ author_profile: true
 classes: wide
 ---
 
-<section class="lab-hero">
-  <img src="/images/portfolio/logo-demo1.png" alt="NEST Research Lab logo">
+<!-- Keep this hero section visible -->
+<div style="background:#0f172a; color:#fff; border-radius:18px; padding:36px; display:flex; align-items:center; gap:28px; margin-bottom:20px;">
+
+  <a href="https://nestresearchlab.ca/" style="flex-shrink:0;">
+    <img
+      src="/images/portfolio/logo-demo1.png"
+      alt="NEST Research Lab"
+      style="width:130px; height:130px; object-fit:cover; border-radius:16px;"
+    >
+  </a>
+
   <div>
-    <p class="profile-kicker">Algoma University · Principal Investigator: Dr. Md Al Maruf</p>
-    <h1>Next-generation Embedded Systems Research Lab</h1>
-    <p>NEST builds intelligent, secure, and reusable embedded software for autonomous and cyber-physical systems.</p>
-    <a class="btn btn--primary" href="https://nestresearchlab.ca/">Visit the official lab website</a>
+    <h1 style="margin:0 0 6px;">
+      <a
+        href="https://nestresearchlab.ca/"
+        style="color:#fff; text-decoration:none;"
+      >
+        NEST Research Lab
+      </a>
+    </h1>
+
+    <p style="margin:0; font-size:1.05rem; line-height:1.6; opacity:.95;">
+      Next-generation Embedded Systems Research Lab — Building intelligent,
+      dependable, and efficient embedded software for AI-driven systems.
+    </p>
   </div>
-</section>
-
-## Research direction
-
-NEST connects software engineering, machine intelligence, and physical testbeds. The lab develops methods and working systems across embedded AI, autonomous platforms, smart energy, dependable software, digital twins, and resource-aware computing.
-
-<div class="focus-grid focus-grid--compact">
-  <article class="focus-card"><h3>Embedded AI at the Edge</h3><p>Hardware-aware learning and inference on constrained platforms.</p></article>
-  <article class="focus-card"><h3>Secure &amp; Safe Systems</h3><p>Testing, calibration, and runtime assurance for dependable operation.</p></article>
-  <article class="focus-card"><h3>Autonomous Systems</h3><p>Perception, health monitoring, and resilient software pipelines.</p></article>
-  <article class="focus-card"><h3>Software Reuse &amp; DevOps</h3><p>AI-assisted feature discovery and certification-aware delivery.</p></article>
 </div>
 
-## Current project themes
+<p style="margin:0 0 28px;">
+  <a
+    href="https://nestresearchlab.ca/"
+    class="btn btn--primary"
+  >
+    Visit the official NEST Research Lab website →
+  </a>
+</p>
 
-- **UAV autonomy and health monitoring:** parameter mapping, real-time fault detection, and safety-aware deployment.
-- **Intelligent grid and battery energy storage integration:** embedded optimization, real-time analytics, and digital twins.
-- **ESOps:** an AI-driven embedded DevOps pipeline for feature discovery, testing, and assurance.
+{% comment %}
 
-The lab welcomes motivated students and research or industry partners. Visit [nestresearchlab.ca](https://nestresearchlab.ca/) for current projects, people, publications, facilities, and opportunities to join.
+<!-- Keep all the remaining existing content here -->
+
+<!-- QUICK LINKS -->
+<div>
+  ...
+</div>
+
+## Mission
+...
+
+<!-- Continue with all the old sections -->
+
+{% endcomment %}

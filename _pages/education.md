@@ -1,30 +1,62 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
+title: "Academic Education"
+permalink: /education
 author_profile: true
-redirect_from:
-  - /education
+redirect_from: 
+  - /education/
 ---
 
-## Ontario Tech University, Canada
+<!-- ## <span style="color:#52adc8">Ontario Tech University</span> -->
+## <span style="color:orangered">Ontario Tech University, Canada</span>
+### <span style="color:black"> 🎓 Doctor of Philosophy - (PhD), Electrical and Computer Engineering (2019 - 2023)</span>
+- <span style="color:black">Thesis Title:</span> Design and Development of Reusable Feature-based Next-Generation Embedded Software.
+- <span style="color:black">Supervisor: </span> Dr. Akramul Azim
+- <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, Edge/Fog Computing, Machine Learning.
+- <span style="color:black">Completed Courses:</span>
+    - Embedded Control System
+    - Real-time Data Analytics in IoT
+    - Advance Optimization
+    - Network Computing
+      
+### <span style="color:black">🎓 Master of Applied Science (MASc), Computer Engineering (2017 - 2019)</span>
+- <span style="color:black">Thesis Title:</span> Design automation and QoS requirements preservation for multiprocessor embedded systems.
+- <span style="color:black">Research Areas:</span> Real-time Embedded Systems, Parallel Programming and Computation, Machine Learning, Verification & Validation.
+- <span style="color:black">Courses Completed:</span>
+    - Advanced Topics in High-Performance Computing (Machine Learning)
+    - Knowledge Discovery & Data Mining
+    - Artificial Intelligence
+    - Advanced Topics in Software Design
+    - Special Topics: Safety Critical Software System
 
-### Doctor of Philosophy, Electrical and Computer Engineering · 2019–2023
+## <span style="color:orangered">Islamic University of Technology (IUT), Bangladesh</span>
 
-**Dissertation:** *Design and Development of Reusable Feature-based Next-Generation Embedded Software*
+### <span style="color:black">🎓 Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)</span>
+- <span style="color:black">Thesis Title:</span> Mobile Cloud Computing: Mobile Application Cloud (MAC) - A framework for on demand Application offloading.
+- <span style="color:black">Activities and societies:</span> Member of IUTCS
 
-**Supervisor:** Dr. Akramul Azim
 
-**Research:** embedded software engineering, software reuse, edge/fog computing, machine learning, and real-time systems.
+## <span style="color:orangered">New Govt. Degree College, Rajshahi</span>
 
-### Master of Applied Science, Electrical and Computer Engineering · 2017–2019
+### <span style="color:black">Higher Secondary Certificate (HSC) (2009)</span>
 
-**Thesis:** [*Design Automation and QoS Requirements Preservation for Multiprocessor Embedded Systems*](https://ir.library.ontariotechu.ca/handle/10155/1064)
+## <span style="color:orangered">Horimohon Govt. High School, Chapai Nawabganj</span>
 
-**Research:** task scheduling, parallel computing, embedded systems, and verification and validation.
+### <span style="color:black">Secondary School Certificate (SSC) (2007)</span>
 
-## Islamic University of Technology, Bangladesh
 
-### Bachelor of Science, Computer Science and Engineering · 2009–2013
+<!-- ## Ontario Tech University
 
-Undergraduate research in mobile cloud computing and application offloading.
+### Doctor of Philosophy - PhD, Electrical and Computer Engineering (2019 - 2023)
+
+Pursuing my PhD in Electrical and Computer Engineering at Ontario Tech University, I'm researching Real-time Embedded Systems, Embedded Software Engineering, Software Reusability, and Machine Learning. I have completed courses like Embedded Control System, Real-time Data Analytics in IoT, Advance Optimization, and Network Computing.
+
+### Master of Applied Science (MASc), Computer Engineering (2017 - 2019)
+
+During my MASc at Ontario Tech University, I specialized in Computer Engineering focusing on Real-time Embedded Systems, Parallel Programming and Computation, and Machine Learning, with a special emphasis on Verification & Validation. Courses completed during this period include Advanced Topics in High-Performance Computing (Machine Learning), Knowledge Discovery & Data Mining, Artificial Intelligence, Advanced Topics in Software Design, and Special Topics: Safety Critical Software System.
+
+## Islamic University of Technology (IUT)
+
+### Bachelor of Science (B.Sc.), Computer Science Engineering (2009 - 2013)
+
+I acquired my Bachelor's degree in Computer Science Engineering from Islamic University of Technology. Member of the Islamic University of Technology Computer Society (IUTCS). My research during this period was focused on Cloud Computing. -->

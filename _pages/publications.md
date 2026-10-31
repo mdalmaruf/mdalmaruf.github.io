@@ -1,53 +1,107 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications
 author_profile: true
-redirect_from:
-  - /publications
+redirect_from: 
+  - /publications/
 ---
+### [ESOps - An Agile Pipeline for Next-Generation Embedded Systems Development](#)
+**Md Al Maruf and Akramul Azim**   
+ACM SIGBED International Conference on Embedded Software (EMSOFT), RALEIGH, NC, USA [Accepted]
+2024
 
-Peer-reviewed work in embedded software, edge intelligence, dependable systems, parallel computing, and cyber-physical platforms. For citation exports and the latest indexing, see [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en). Research from the lab is also listed on the [NEST Research Lab publication page](https://nestresearchlab.ca/publications).
 
-<div class="publication-list">
-  <h2 class="publication-year">2026</h2>
-  <article class="publication-item">
-    <span class="publication-type">Conference · Accepted</span>
-    <h3>Constraint-Aware Exploitability Analysis and Anomaly Recovery for CPS CI/CD Pipelines</h3>
-    <p>G. Camargo and M. A. Maruf</p>
-    <p class="publication-venue">IEEE International Conference on Machine Learning and Applications (ICMLA)</p>
-  </article>
+### [FeaMod: Enhancing Modularity, Adaptability and Code Reuse in Embedded Software Development](#)
+**Md Al Maruf, Akramul Azim, Nitin Auluck, Mansi Sahi**   
+IEEE 25th International Conference on Information Reuse and Integration (IRI), San Jose, CA, USA,
+August, 2024
 
-  <h2 class="publication-year">2025</h2>
-  <article class="publication-item">
-    <span class="publication-type">Journal</span>
-    <h3>Data Driven Deep Neural Network Based Task Offloading on Edge Cloud Continuum</h3>
-    <p>M. Sahi, N. Auluck, A. Azim, P. Bhardwaj, and M. A. Maruf</p>
-    <p class="publication-venue">IEEE Transactions on Network and Service Management</p>
-  </article>
+### [Optimizing DNN Training with Pipeline Model Parallelism for Enhanced Performance in Embedded Systems](#)
+**Md Al Maruf, Akramul Azim, Nitin Auluck, Mansi Sahi**   
+Elsevier Journal of Parallel and Distributed Computing (JPDC) (Impact Factor is 5.271)  
+April, 2024
 
-  <h2 class="publication-year">2024</h2>
-  <article class="publication-item"><span class="publication-type">Conference</span><h3>Work-in-Progress: ESOps—An Agile Pipeline for Next-Generation Embedded Systems Development</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">IEEE/ACM International Conference on Embedded Software (EMSOFT)</p></article>
-  <article class="publication-item publication-item--award"><span class="publication-type">Conference · Best Paper Award</span><h3>FeaMod: Enhancing Modularity, Adaptability and Code Reuse in Embedded Software Development</h3><p>M. A. Maruf, A. Azim, N. Auluck, and M. Sahi</p><p class="publication-venue">IEEE International Conference on Information Reuse and Integration (IRI)</p></article>
-  <article class="publication-item"><span class="publication-type">Journal</span><h3>Optimizing DNN Training with Pipeline Model Parallelism for Enhanced Performance in Embedded Systems</h3><p>M. A. Maruf, A. Azim, N. Auluck, and M. Sahi</p><p class="publication-venue">Journal of Parallel and Distributed Computing, 190</p></article>
-  <article class="publication-item"><span class="publication-type">Journal</span><h3>Dynamic Hierarchical Intrusion Detection Task Offloading in IoT Edge Networks</h3><p>M. Sahi, N. Auluck, A. Azim, and M. A. Maruf</p><p class="publication-venue">Software: Practice and Experience, 54(11), 2249–2271</p></article>
-  <article class="publication-item"><span class="publication-type">Conference</span><h3>Anomaly Detection and Functional Testing for Automotive CAN Communication</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">IEEE International Systems Conference</p></article>
+### [Dynamic hierarchical intrusion detection task offloading in IoT edge networks](#)
+**Mansi Sahi, Nitin Auluck, Akramul Azim, Md Al Maruf**   
+Journal of Software: Practice and Experience (Wiley Online Library)  
+April, 2024
 
-  <h2 class="publication-year">2023</h2>
-  <article class="publication-item"><span class="publication-type">Conference</span><h3>Towards Safe Online Machine Learning Model Training and Inference on Edge Networks</h3><p>M. A. Maruf, A. Azim, N. Auluck, and M. Sahi</p><p class="publication-venue">IEEE ICMLA, 1082–1089</p></article>
-  <article class="publication-item"><span class="publication-type">Conference</span><h3>Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">Canadian Conference on Artificial Intelligence</p></article>
-  <article class="publication-item"><span class="publication-type">Conference</span><h3>Automated Features and Requirements Identification for Improving CPS Software Reuse Using Topic Modeling</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</p></article>
+### [Anomaly Detection and Functional Testing for Automotive CAN Communication](#)
+**Md Al Maruf and Akramul Azim**   
+IEEE 18th Annual International Systems Conference (SYSCON) in Montreal, QC, Canada
+2024
 
-  <h2 class="publication-year">2022–2018</h2>
-  <article class="publication-item"><span class="publication-type">Journal · 2022</span><h3>Facilitating Reuse of Functions in Embedded Software</h3><p>M. A. Maruf, A. Azim, and O. Alam</p><p class="publication-venue">IEEE Access, 10, 88595–88605</p></article>
-  <article class="publication-item"><span class="publication-type">Book chapter · 2022</span><h3>Cognitive Mobile Computing for Cyber-Physical Systems</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">Towards a Wireless Connected World, Springer, 203–222</p></article>
-  <article class="publication-item"><span class="publication-type">Journal · 2021</span><h3>Faster Fog Computing Based Over-the-Air Vehicular Updates: A Transfer Learning Approach</h3><p>M. A. Maruf, A. Singh, A. Azim, and N. Auluck</p><p class="publication-venue">IEEE Transactions on Services Computing, 15(6), 3245–3259</p></article>
-  <article class="publication-item"><span class="publication-type">Conference · 2021</span><h3>A Framework for Partitioning Support Vector Machine Models on Edge Architectures</h3><p>M. Sahi, M. A. Maruf, A. Azim, and N. Auluck</p><p class="publication-venue">IEEE SMARTCOMP, 293–298</p></article>
-  <article class="publication-item"><span class="publication-type">Journal · 2020</span><h3>A Software-Based Calibration Approach to Increase the Robustness of Embedded Systems</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">International Journal of Embedded Systems, 13(4), 466–475</p></article>
-  <article class="publication-item"><span class="publication-type">Journal · 2020</span><h3>Requirements-Preserving Design Automation for Multiprocessor Embedded System Applications</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">Journal of Ambient Intelligence and Humanized Computing, 12, 821–833</p></article>
-  <article class="publication-item"><span class="publication-type">Conference · 2020</span><h3>Mushroom Demand Prediction Using Machine Learning Algorithms</h3><p>M. A. Maruf, A. Azim, and S. Mukherjee</p><p class="publication-venue">IEEE ISNCC</p></article>
-  <article class="publication-item"><span class="publication-type">Conference · 2020</span><h3>Resource Efficient Allocation of Fog Nodes for Faster Vehicular OTA Updates</h3><p>M. A. Maruf, A. Singh, A. Azim, and N. Auluck</p><p class="publication-venue">IEEE ISNCC</p></article>
-  <article class="publication-item"><span class="publication-type">Journal · 2019</span><h3>Extending Resources for Avoiding Overloads of Mixed-Criticality Tasks in Cyber-Physical Systems</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">IET Cyber-Physical Systems: Theory &amp; Applications</p></article>
-  <article class="publication-item"><span class="publication-type">Conference · 2019</span><h3>Faster OTA Updates in Smart Vehicles Using Fog Computing</h3><p>K. Fizza, N. Auluck, A. Azim, M. A. Maruf, and A. Singh</p><p class="publication-venue">IEEE/ACM UCC, 59–64</p></article>
-  <article class="publication-item"><span class="publication-type">Conference · 2018</span><h3>Software-Based Monitoring for Calibration of Measurement Units in Real-Time Systems</h3><p>M. A. Maruf and A. Azim</p><p class="publication-venue">IECON 2018</p></article>
-</div>
+
+
+### [Towards Safe Online Machine Learning Model Training and Inference on Edge Networks](#)
+**Md Al Maruf, Akramul Azim, Nitin Auluck and Mansi Sahi**   
+22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, Florida, USA   
+2023
+
+### [Optimizing DNNs Model Partitioning for Enhanced Performance on Edge Devices](#)
+**Md Al Maruf, Akramul Azim**   
+The 36th Canadian Conference Artificial Intelligence (Canadian AI), Montreal, Canada,   
+2023
+
+### [Automated Features and Requirements Identification for Improving CPS Software Reuse using Topic Modeling](#)
+**Md Al Maruf, Akramul Azim**   
+14th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), San Antonio, Texas / USA, 2023   
+Apr 4, 2023
+
+### [Facilitating Reuse of Functions in Embedded Software](#)
+**Md Al Maruf, Akramul Azim, Omar Alam**   
+IEEE Access   
+Aug 26, 2022
+
+### [Cognitive Mobile Computing for Cyber-Physical Systems (CPS)](#)
+**Akramul Azim, Md Al Maruf**   
+Book Chapter: Towards a Wireless Connected World: Achievements and New Technologies, Springer, Cham, pp (203-222)   
+May 18, 2022
+
+### [Faster Fog Computing based Over-the-air Vehicular Updates: A Transfer Learning Approach](#)
+**Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck**   
+IEEE Transactions on Services Computing (2022-2023 Journal's Impact Factor is 11.019)  
+Jul 20, 2021
+
+### [A Framework for Partitioning Support Vector Machine Models on Edge Architectures](#)
+**Mansi Sahi, Md Al Maruf, Akramul Azim, Nitin Auluck**   
+In 2021 IEEE International Conference on Smart Computing (SMARTCOMP), pp. 293-298. Irvine, CA, USA, 2021
+
+### [Mushroom Demand Prediction Using Machine Learning Algorithms](#)
+**Md Al Maruf, Akramul Azim and Sourojit Mukherjee**   
+IEEE International Symposium on Networks, Computers and Communications (ISNCC’2020), Montreal, Canada   
+Jan 1, 2020
+
+### [Resource efficient allocation of fog nodes for faster vehicular OTA updates](#)
+**Md Al Maruf, Anil Singh, Akramul Azim and Nitin Auluck**   
+IEEE International Symposium on Networks, Computers and Communications (ISNCC’2020), Montreal, Canada   
+Jan 1, 2020
+
+### [Faster OTA updates in smart vehicles using fog computing](#)
+**Kaneez Fizza, Nitin Auluck, Akramul Azim, Md Al Maruf, Anil Singh**   
+Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing (UCC), Auckland, New Zealand   
+2019
+
+### [A software-based calibration approach to increase the robustness of embedded systems](#)
+**Al Maruf, Md, and Akramul Azim**   
+International Journal of Embedded Systems: IJES   
+2019
+
+### [Extending resources for avoiding overloads of mixed-criticality tasks in cyber-physical systems](#)
+**Al Maruf, Md, and Akramul Azim**   
+IET Cyber-Physical Systems Journal: Theory & Applications   
+2019
+
+### [Requirements‑preserving design automation for multiprocessor embedded system applications](#)
+**Al Maruf, Md, and Akramul Azim**   
+Journal of Ambient Intelligence and Humanized Computing (AIHC)   
+2020
+
+### [Software-based Monitoring for Calibration of Measurement Units in Real-time Systems](#)
+**Al Maruf, Md, and Akramul Azim**   
+IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society, Washington DC, USA   
+2018
+
+
+
