@@ -3,8 +3,11 @@ title: "Twitter Healthcare Expert Finder and Analysis Tool"
 excerpt: |
     The Twitter Healthcare Expert Finder and Analysis Tool is an innovative system tailored to sift through the digital noise and accurately identify medical professionals on Twitter. This tool is instrumental for users seeking reliable health information, offering a gateway to verified medical expertise. By harnessing the power of advanced data mining techniques and Twitter's expansive API, the application excels in pinpointing authentic voices in healthcare amidst the vast social media landscape.
     
-    <br/> <center> <img src='/images/portfolio/learning_curve_random_forest.png' alt='Learning Curve for Random Forest' style='width: 400px; display: inline-block;'> <img src='/images/portfolio/learning_curve_svm.png' alt='Learning Curve for SVM' style='width: 400px; display: inline-block; margin-right: 10px;'></center>
-    <br/>
+    <div class='project-media project-media--pair'>
+      <figure><img src='/images/portfolio/learning_curve_random_forest.png' alt='Learning curve for the random forest model'><figcaption>Random forest learning curve</figcaption></figure>
+      <figure><img src='/images/portfolio/learning_curve_svm.png' alt='Learning curve for the support vector machine model'><figcaption>Support vector machine learning curve</figcaption></figure>
+    </div>
+
     <div>
          <p><strong>Key Features:</strong></p>
         <ul>
@@ -18,6 +21,11 @@ collection: portfolio
 
 ## Overview 🌐
 The Twitter Healthcare Expert Finder and Analysis Tool is designed to streamline the identification and classification of medical experts on Twitter. Utilizing a combination of real-time data extraction and advanced natural language processing, this tool delivers a reliable list of healthcare professionals, ensuring users have access to trustworthy medical information.
+
+<div class='project-media project-media--pair'>
+  <figure><img src='/images/portfolio/learning_curve_random_forest.png' alt='Learning curve for the random forest model'><figcaption>Random forest learning curve</figcaption></figure>
+  <figure><img src='/images/portfolio/learning_curve_svm.png' alt='Learning curve for the support vector machine model'><figcaption>Support vector machine learning curve</figcaption></figure>
+</div>
 
 ## How It Works 🧐
 The tool leverages Twitter's API to continuously extract tweets, employing sophisticated algorithms to categorize and analyze the content. A user-friendly dashboard presents these analytics, enabling users to quickly identify and follow credible medical experts and access their insights on important health topics.

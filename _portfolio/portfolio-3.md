@@ -3,10 +3,11 @@ title: "Feature and Requirement Extraction Tool for Improving Embedded Software 
 excerpt: |
     The Feature and Requirement Extraction Tool is an advanced solution for analyzing embedded software, identifying significant functions, and extracting functional and non-functional requirements. Designed to work with `.c` files, this tool utilizes state-of-the-art natural language processing techniques to filter and visualize requirements, enhancing the process of software reuse.
     
-    <br/> <center>
-    <img src='/images/portfolio/InterfaceFeaMod.JPG' alt='Feature Extraction Results' style='width: 400px; display: inline-block;'>
-    </center>
-    <br/>
+    <figure class='project-media'>
+      <img src='/images/portfolio/InterfaceFeaMod.JPG' alt='FeaMod feature extraction results interface'>
+      <figcaption>Feature and requirement extraction interface</figcaption>
+    </figure>
+
     <div>
         <p><strong>Key Features:</strong></p>
     <ul>
@@ -21,6 +22,11 @@ collection: portfolio
 
 ## Overview 🌐
 The Feature and Requirement Extraction Tool revolutionizes the reuse of embedded software by employing cutting-edge techniques to analyze source code files. It determines significant software functionalities and extracts features and requirements, enabling developers to understand and leverage existing codebases more effectively.
+
+<figure class='project-media'>
+  <img src='/images/portfolio/InterfaceFeaMod.JPG' alt='FeaMod feature extraction results interface'>
+  <figcaption>Feature and requirement extraction interface</figcaption>
+</figure>
 
 ## How It Works 🧐
 Through the use of transformer-based models and cosine similarity functions, this tool identifies and classifies features and requirements from embedded software code. The output is a coherent representation of the software's capabilities, visualized through informative bar graphs.

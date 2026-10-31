@@ -3,9 +3,11 @@ title: "A Framework for Over-the-Air (OTA) Software Update"
 excerpt: |
     Fog computing emerges as a vital solution for time-sensitive vehicular over-the-air (OTA) updates, offering enhanced network durability and lower communication delays compared to the cloud. Our algorithm optimizes fog node resources, reducing OTA update times and improving network efficiency. The application of machine learning for communication delay prediction and the strategic enabling and disabling of fog nodes based on traffic load underscore the system's innovative approach to OTA updates.
     
-    <br/> <center> <img src='/images/portfolio/IntegrationMiddleware.png' alt='System Integration Middleware' style='width: 400px; display: inline-block;'> </div>
-    </center>
-    <br/>
+    <figure class='project-media'>
+      <img src='/images/portfolio/IntegrationMiddleware.png' alt='System integration middleware architecture'>
+      <figcaption>OTA update system-integration architecture</figcaption>
+    </figure>
+
     <div>
         <p><strong>Key Features:</strong></p>
         <ul>
@@ -23,6 +25,11 @@ collection: portfolio
 
 ## Abstract
 > Fog computing is a promising option for time-sensitive vehicular over-the-air (OTA) updates. Our proposed algorithm, based on traffic pattern analysis, optimizes fog node utilization to reduce delays and resource over-provisioning. Demonstrated through a case study, the approach predicts OTA update time by considering handover delay, propagation delay, transmission rate, and vehicular mobility.
+
+<figure class='project-media'>
+  <img src='/images/portfolio/IntegrationMiddleware.png' alt='System integration middleware architecture'>
+  <figcaption>OTA update system-integration architecture</figcaption>
+</figure>
 
 ## Key Features
 - **Optimized Fog Node Utilization**: Efficient allocation of fog resources based on traffic patterns, reducing over-provisioning and associated delays.

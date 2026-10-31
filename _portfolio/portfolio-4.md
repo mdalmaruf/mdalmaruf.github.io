@@ -3,10 +3,11 @@ title: "Parallel Computing Technique using OpenMP"
 excerpt: |
     This repository explores various techniques to optimize matrix multiplication wall time using OpenMP, a shared-memory multiprocessing API. The study compares serial execution, parallel execution with OpenMP, and optimized parallel execution, aiming to enhance computational performance in multi-threaded environments.
     
-    <br/> <center>
-    <img src='/images/portfolio/Optimized_Parallel_Execution_grpah.png' alt='Matrix Multiplication Program Interface' style='width: 400px; display: block; margin: auto;'>
-    </center>
-    <br/>
+    <figure class='project-media'>
+      <img src='/images/portfolio/Optimized_Parallel_Execution_grpah.png' alt='OpenMP matrix multiplication performance graph'>
+      <figcaption>Optimized parallel-execution performance</figcaption>
+    </figure>
+
     <div>
         <p><strong>Key Techniques:</strong></p>
     <ul>
@@ -21,6 +22,11 @@ collection: portfolio
 ## Overview 🌐
 Matrix Multiplication Execution Techniques using OpenMP is a comprehensive project that evaluates the performance of different matrix multiplication methods. By leveraging the power of parallel processing, the project seeks to minimize computational time and enhance efficiency.
 
+<figure class='project-media'>
+  <img src='/images/portfolio/Optimized_Parallel_Execution_grpah.png' alt='OpenMP matrix multiplication performance graph'>
+  <figcaption>Optimized parallel-execution performance</figcaption>
+</figure>
+
 ## How It Works 🧐
 The project examines three execution strategies for matrix multiplication—serial, parallel with OpenMP, and optimized parallel—to determine the most effective approach for reducing wall time in computation-heavy tasks.
 
@@ -33,14 +39,6 @@ The project examines three execution strategies for matrix multiplication—seri
 
 ## Experimental Analysis 📊
 The project includes a thorough experimental setup and detailed result analysis to compare the execution times across different methods. The study provides insights into the benefits of parallelization and optimization in computational tasks.
-
-![Serial vs. Parallel Execution Comparison Graph](Data/ParallelExecution.PNG)
-
-*Figure 1: Serial vs. parallel execution comparison*
-
-![Execution Time with Various Compiler Optimizations](Data/Optimized_Parallel_Execution_graph.png)
-
-*Figure 2: Execution time with No Compiler Optimization vs. Aggressive Compiler Optimization*
 
 ## Findings and Contributions ✨
 The findings indicate significant improvements in execution times with parallel and optimized techniques. For a full understanding of the methods and results, the project report is available with detailed graphs and performance analysis.

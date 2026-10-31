@@ -40,11 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Framing for current-project images in the portfolio archive. */
-.project-image-box {
-  max-width: 600px;
-  margin: 1.25em auto .35em;
-  padding: 14px;
+/* Consistent, uncropped presentation for project screenshots and diagrams. */
+.project-media {
+  max-width: 720px;
+  margin: 1.25em auto .65em;
+  padding: 12px;
   overflow: hidden;
   border: 1px solid #d9e3e8;
   border-radius: 14px;
@@ -52,20 +52,86 @@
   box-shadow: 0 8px 22px rgba(37, 55, 70, .10);
 }
 
-.project-image-box img {
+.project-media img {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
-  margin: 0;
-  border-radius: 9px;
+  max-height: 440px;
+  margin: 0 auto;
+  border-radius: 8px;
   background: #fff;
-  object-fit: cover;
-  object-position: center;
+  object-fit: contain;
+}
+
+.project-media--pair {
+  display: grid;
+  max-width: 900px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.project-media--pair figure {
+  display: flex;
+  min-width: 0;
+  margin: 0;
+  padding: 8px;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.project-media figcaption {
+  margin-top: 8px;
+  color: #5f6b73;
+  font-size: .78em;
+  line-height: 1.35;
+  text-align: center;
+}
+
+/* Responsive gallery that keeps every photograph fully visible. */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 18px;
+  margin: 1.25em 0 2em;
+  align-items: start;
+}
+
+.gallery-item {
+  overflow: hidden;
+  border: 1px solid #d9e3e8;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(37, 55, 70, .10);
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.gallery-item-label {
+  padding: 10px 12px 12px;
+  color: #45515a;
+  font-size: .78em;
+  line-height: 1.45;
+  text-align: left;
 }
 
 @media (max-width: 600px) {
-  .project-image-box {
-    padding: 9px;
+  .project-media {
+    padding: 8px;
     border-radius: 11px;
+  }
+
+  .project-media--pair {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
   }
 }

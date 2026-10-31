@@ -6,12 +6,14 @@ order: 1
 excerpt: |
   An active NEST Research Lab project investigating LLM-assisted parameter mapping, real-time fault detection, and safety-aware deployment for unmanned aerial platforms.
 
-  <div class='project-image-box'><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'></div>
+  <figure class='project-media'><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'><figcaption>Connected autonomy and health-monitoring concept</figcaption></figure>
 ---
 
 ## Overview
 
 This active research direction studies dependable software pipelines for unmanned aerial systems. The work brings together autonomous systems, edge AI, fault detection, and cyber-physical testbeds.
+
+<figure class='project-media'><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'><figcaption>Connected autonomy and health-monitoring concept</figcaption></figure>
 
 ## Research themes
 

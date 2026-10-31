@@ -6,12 +6,14 @@ order: 3
 excerpt: |
   A next-generation embedded DevOps research direction connecting feature discovery, testing, hardware-aware delivery, and assurance for long-lived embedded software.
 
-  <div class='project-image-box'><img src='/images/portfolio/DevOps1.jpg' alt='Illustration of a software development and DevOps workflow'></div>
+  <figure class='project-media'><img src='/images/portfolio/DevOps1.jpg' alt='Illustration of a software development and DevOps workflow'><figcaption>AI-assisted embedded DevOps workflow</figcaption></figure>
 ---
 
 ## Overview
 
 ESOps investigates an AI-assisted delivery pipeline for embedded systems. The goal is to connect software understanding and reuse with disciplined testing, deployment, and assurance activities.
+
+<figure class='project-media'><img src='/images/portfolio/DevOps1.jpg' alt='Illustration of a software development and DevOps workflow'><figcaption>AI-assisted embedded DevOps workflow</figcaption></figure>
 
 ## Research themes
 
