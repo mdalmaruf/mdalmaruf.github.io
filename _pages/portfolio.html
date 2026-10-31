@@ -10,8 +10,20 @@ redirect_from:
 
 {% include base_path %}
 
+## Current NEST Research Projects
+
+The following active projects connect embedded software, intelligent systems, and physical testbeds. Additional details are available from the [NEST Research Lab](https://nestresearchlab.ca/projects).
+
+{% assign current_projects = site.portfolio | where: "project_group", "current" | sort: "order" %}
+{% for post in current_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Selected Previous Projects
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% unless post.project_group == "current" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 
