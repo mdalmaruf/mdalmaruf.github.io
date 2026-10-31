@@ -39,3 +39,33 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Framing for current-project images in the portfolio archive. */
+.project-image-box {
+  max-width: 600px;
+  margin: 1.25em auto .35em;
+  padding: 14px;
+  overflow: hidden;
+  border: 1px solid #d9e3e8;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f7fafc 0%, #eaf2f6 100%);
+  box-shadow: 0 8px 22px rgba(37, 55, 70, .10);
+}
+
+.project-image-box img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 0;
+  border-radius: 9px;
+  background: #fff;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (max-width: 600px) {
+  .project-image-box {
+    padding: 9px;
+    border-radius: 11px;
+  }
+}

@@ -6,7 +6,7 @@ order: 3
 excerpt: |
   A next-generation embedded DevOps research direction connecting feature discovery, testing, hardware-aware delivery, and assurance for long-lived embedded software.
 
-  <br><center><img src='/images/portfolio/DevOps1.jpg' alt='Illustration of a software development and DevOps workflow' style='width: 560px;'></center>
+  <div class='project-image-box'><img src='/images/portfolio/DevOps1.jpg' alt='Illustration of a software development and DevOps workflow'></div>
 ---
 
 ## Overview

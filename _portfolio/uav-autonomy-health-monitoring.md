@@ -6,7 +6,7 @@ order: 1
 excerpt: |
   An active NEST Research Lab project investigating LLM-assisted parameter mapping, real-time fault detection, and safety-aware deployment for unmanned aerial platforms.
 
-  <br><center><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems' style='width: 560px;'></center>
+  <div class='project-image-box'><img src='/images/portfolio/IoT1.jpg' alt='Illustration of connected autonomous vehicles and unmanned aerial systems'></div>
 ---
 
 ## Overview

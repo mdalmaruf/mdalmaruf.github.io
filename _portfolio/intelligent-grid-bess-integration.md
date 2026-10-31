@@ -6,7 +6,7 @@ order: 2
 excerpt: |
   An active NEST Research Lab project exploring embedded optimization, real-time analytics, and digital-twin methods for resilient energy infrastructure and battery energy storage systems.
 
-  <br><center><img src='/images/portfolio/UAV1.jpg' alt='Illustration of an intelligent embedded controller platform' style='width: 560px;'></center>
+  <div class='project-image-box'><img src='/images/portfolio/UAV1.jpg' alt='Illustration of an intelligent embedded controller platform'></div>
 ---
 
 ## Overview

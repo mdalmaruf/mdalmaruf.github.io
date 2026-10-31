@@ -9,18 +9,14 @@ redirect_from:
 ---
 For citation exports and the latest indexing, see [Google Scholar](https://scholar.google.com/citations?user=RbU1B7QAAAAJ&hl=en).
 
-### Constraint-Aware Exploitability Analysis and Anomaly Recovery for CPS CI/CD Pipelines
-**Gustavo Camargo and Md Al Maruf**
-
-IEEE International Conference on Machine Learning and Applications (ICMLA), accepted
-
+### [Constraint-Aware Exploitability Analysis and Anomaly Recovery for CPS CI/CD Pipelines](https://nestresearchlab.ca/publications)
+**Gustavo Camargo and Md Al Maruf**<br>
+IEEE International Conference on Machine Learning and Applications (ICMLA), accepted<br>
 2026
 
-### Data Driven Deep Neural Network Based Task Offloading on Edge Cloud Continuum
-**Mansi Sahi, Nitin Auluck, Akramul Azim, P. Bhardwaj, and Md Al Maruf**
-
-IEEE Transactions on Network and Service Management
-
+### [Data Driven Deep Neural Network Based Task Offloading on Edge Cloud Continuum](https://nestresearchlab.ca/publications)
+**Mansi Sahi, Nitin Auluck, Akramul Azim, P. Bhardwaj, and Md Al Maruf**<br>
+IEEE Transactions on Network and Service Management<br>
 2025
 
 ### [ESOps - An Agile Pipeline for Next-Generation Embedded Systems Development](#)
